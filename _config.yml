@@ -1,0 +1,53 @@
+typography_spectrum: 0.71940465294756
+color:
+  brandStrength: 0.6410490754060447
+  lightness: 0.09479623683728278
+  saturation: 0.19675381481647491
+  rhythmicContrast: 0.37135940860025585
+  brandColors:
+    - '#030200'
+    - '#DFA94F'
+    - '#C48826'
+    - '#5F472D'
+    - '#711508'
+layout_spectrum: 0.08606983511708677
+name: Christopher_DeRenzo
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: South Beach
+    id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
+    type: content
+title: Christopher_DeRenzo
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d49d4264-5707-4967-b7dd-961e3f73e6b5.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d49d4264-5707-4967-b7dd-961e3f73e6b5.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Professional Blog
+github: true
