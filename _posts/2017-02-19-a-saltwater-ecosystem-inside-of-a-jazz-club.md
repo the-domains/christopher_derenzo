@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-25T22:42:28.611Z'
-dateModified: '2017-09-25T22:42:27.886Z'
+datePublished: '2017-09-25T22:44:27.205Z'
+dateModified: '2017-09-25T22:44:26.317Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
@@ -21,6 +21,7 @@ _type: Article
 ---
 ![with A/V install](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d281a6d-e0ef-435f-8053-04d552db2ed8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1039780-2f8a-4386-b5bc-3018575a1ae1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2314cf0-e124-4ef6-b057-8a8ae09fca4b.jpg)
 
 South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly cafeteria before the lease changed hands and the new tenant envisioned a unique establishment in the neighborhood that would provide a dine-in restaurant by day and a jazz club by evening. 
 
