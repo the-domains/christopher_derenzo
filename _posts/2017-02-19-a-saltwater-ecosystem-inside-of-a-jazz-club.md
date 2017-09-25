@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-25T22:58:38.406Z'
-dateModified: '2017-09-25T22:58:37.831Z'
+datePublished: '2017-09-25T23:09:23.935Z'
+dateModified: '2017-09-25T23:09:23.174Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
@@ -36,6 +36,8 @@ The Aquarium:
 I sent my plans to a number of companies in the surrounding area with two major needs: (1) Safety - considering the size and location. (2) Visibility - as unobstructed by additional support mechanisms that would hinder the view. Not many companies would take the risk, nor over engineer it, however, persistence paid off when I found one company that understood their product well enough to stand behind their materials and abilities for this application. We worked together during the cutting stage and construction stage then performed the stress tests and verified proper support and sealant around all of the frameless seams. What a beautiful aquarium this turned out to be!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abbc94c6-ac7b-4273-bc05-e5fdb5e52ab8.jpg)
 
-What was most valuable in this process was all of the experience that a number of professionals in the field were kind enough to share with me while undertaking such a risky task... For example: considering how important it is to provide a "near-perfect" solid flat surface under the bottom of the tank as apposed to open frame support or just a piece of ply. This would prevent the weight of the water (approximately 3-tons) from pressing against a small deformation or open space created over time that could eventually lead to failure of the bottom layer of glass. What I found to complete this task was a self leveling concrete floor approximately 1/2" thick over top of that piece of plywood.
+What was most valuable in this process was all of the experience that a number of professionals in the field were kind enough to share with me while undertaking such a risky task... For example: considering how important it is to provide a "near-perfect" solid flat surface under the bottom of the tank as apposed to open frame support or just a piece of ply. This would prevent the weight of the water (approximately 3-tons) from pressing against a small deformation or open space created over time that could eventually lead to failure of the bottom layer of glass. What I found to complete this task was a self leveling concrete application applied approximately 1/2" thick over top of the piece of plywood I was originally going to use.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e96152b5-a3a6-4936-8a35-d7ff9b8579ac.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a8d56b-5639-4649-89fa-f5b820fa6093.jpg)
 
 I hand crafted the steel TV mounts and Speaker mounts for all of the AV to be located in the ceilings and off of the floor (minus some subs situated under the front of the stage. I installed very basic moving head fixtures lighting effects and an audio system to cater to live performances. They asked me to install all of the subs in the ceilings so as not to appear like a club and free up as much floor space as possible. I was lucky to live right next to this establishment as the Aquarium was an ongoing personal hobby of mine which required weekly maintenance and daily feeding since there were no automated feeders in this unit.
