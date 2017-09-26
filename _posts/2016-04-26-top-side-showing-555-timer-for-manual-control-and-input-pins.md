@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-09-26T20:29:12.040Z'
-dateModified: '2017-09-26T20:29:11.187Z'
+datePublished: '2017-09-26T20:30:46.913Z'
+dateModified: '2017-09-26T20:30:45.962Z'
 title: 'Conveyor Type Electro-mechanical system:'
 author: []
 sourcePath: >-
