@@ -1,17 +1,17 @@
-typography_spectrum: 0.71940465294756
+layout_spectrum: 0.940693693074702
+typography_spectrum: 0.3296888062359747
 color:
-  brandStrength: 0.6410490754060447
-  lightness: 0.09479623683728278
-  saturation: 0.19675381481647491
-  rhythmicContrast: 0.37135940860025585
+  brandStrength: 0.5481302259476984
+  lightness: 0.511104969379151
+  saturation: 0.05647318752547081
+  rhythmicContrast: 0.6248915569758098
   brandColors:
-    - '#030200'
-    - '#DFA94F'
-    - '#C48826'
-    - '#5F472D'
-    - '#711508'
+    - '#000000'
+    - '#522A0F'
+    - '#3B0D05'
+    - '#BC9E86'
+    - '#7F604D'
 github: true
-layout_spectrum: 0.08606983511708677
 name: Christopher_DeRenzo
 colors:
   brandColors:
