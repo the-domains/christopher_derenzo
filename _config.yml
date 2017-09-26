@@ -48,6 +48,9 @@ navigation:
   - name: Saltwater Aquarium
     id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
     type: content
+  - name: Project Management
+    id: 20e0745b-98ec-4764-ba62-06e36abab3ea
+    type: content
 title: Christopher DeRenzo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
