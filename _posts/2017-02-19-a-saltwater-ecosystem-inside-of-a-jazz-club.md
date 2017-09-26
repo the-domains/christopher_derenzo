@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T01:39:32.124Z'
-dateModified: '2017-09-26T01:39:31.015Z'
+datePublished: '2017-09-26T01:44:45.363Z'
+dateModified: '2017-09-26T01:44:44.177Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
@@ -36,13 +36,13 @@ The Aquarium:
 I sent my plans to a number of companies in the surrounding area with two major needs: (1) Safety - considering the size and location. (2) Visibility - as unobstructed as possible. I started the hunt for glass distributors and manufacturers and found this would not be an easy task. After coming close to calling it quits I found a qualified glass manufacturer further off the beaten path that was able and ready to supply me with the glass. We worked together during the cutting stage and construction stage then performed the stress tests and verified proper support and sealant around all of the frameless seams. Then I added a steel 1" square tube around the top and bottom for additional support to prevent any separation without blocking the view with vertical supports. The gravity fed sump was underneath the tank placed in between the 4x4 supports so I placed an overflow box into the center of the tank which would also return the filtered water with 3 pumps to process ~1600GPH. What fun this was to make!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17cf564e-d231-4253-ab8f-3171f05fc97e.jpg)
 
-Consider how important it is to provide a "near-perfect" solid flat surface under the bottom of the tank as apposed to open frame support or just a piece of ply. This would prevent the weight of the water (approximately 3-tons) from pressing against a small deformation or open space created over time that could eventually lead to failure of the bottom layer of glass. What I found to complete this task was a self leveling concrete application applied approximately 1/2" layer over the top of the piece of plywood I was originally going to use with the insulation board to provide a cushion underneath the glass.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b8d90b-b3ab-4f3a-807f-78daf87e8020.jpg)
+Consider how important it is to provide a "near-perfect" flat surface under the bottom of the tank as apposed to open frame support or just a piece of ply. This would prevent the weight of the water (approximately 3-tons) from pressing against a small deformation or open space created over time that could eventually lead to failure of the bottom layer of glass. What I found was a self leveling concrete that I applied to ~ 1/2" thick over the top of the piece of plywood with an extremely firm insulation board to provide a cushion underneath the glass.
+![before the hood and steel supports](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b8d90b-b3ab-4f3a-807f-78daf87e8020.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb55175d-1703-4ce6-baf9-fc776582234d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e96152b5-a3a6-4936-8a35-d7ff9b8579ac.jpg)
 ![After two weeks it was ready to add fish!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abbc94c6-ac7b-4273-bc05-e5fdb5e52ab8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a8d56b-5639-4649-89fa-f5b820fa6093.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bffc8f2d-c943-4e20-b38b-66d95426bf93.jpg)
+![Steel supports for 3 plasma TV's](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bffc8f2d-c943-4e20-b38b-66d95426bf93.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ca4647f-ec5c-462b-9798-ad12205b069c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0994f38d-14c0-4279-9b23-276228d6363a.jpg)
 
