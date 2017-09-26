@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Electro-mechanical systems: Construction of Conveyor system  control board for
   automated conveyor type system:
-datePublished: '2017-09-26T19:41:26.054Z'
-dateModified: '2017-09-26T19:41:24.624Z'
+datePublished: '2017-09-26T19:43:58.702Z'
+dateModified: '2017-09-26T19:43:57.922Z'
 title: ''
 author: []
 sourcePath: >-
@@ -22,7 +22,7 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e376cab-58ca-43f3-8f7b-7963378d9b14.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d371736-2131-4890-9ae4-1ea385d18aab.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2c26c1f1b3836bc489dc2c54d2bc9398/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9d371736-2131-4890-9ae4-1ea385d18aab.jpg&x=0&y=0)
 
 Electro-mechanical systems: Construction of Conveyor system control board for automated conveyor type system:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg)
