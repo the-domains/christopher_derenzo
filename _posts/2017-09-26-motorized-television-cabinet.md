@@ -6,8 +6,8 @@ description: >-
   “classic” design that blended with the existing bedroom furniture. The
   intention was to conceal all of the components fashionably and have a motor
   move the television up through the counter top by the push of a button.
-dateModified: '2017-09-26T19:12:39.237Z'
-datePublished: '2017-09-26T19:12:40.530Z'
+dateModified: '2017-09-26T19:29:29.340Z'
+datePublished: '2017-09-26T19:29:30.771Z'
 title: Motorized Television Cabinet
 author: []
 publisher: {}
@@ -33,6 +33,13 @@ This was a motorized piece of furniture with the A/V equipment concealed behind 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a192dc7-cd75-4b8b-8d56-525593497eb7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfc0cc07-2a1a-4e2a-b016-d2e4442bc3a3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d59628-fab4-489f-a29b-4b4932e4b34f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80503592-15d6-4824-ac5b-5f3553578076.jpg)
 
 ---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89021a88-8912-45b1-b1ce-a8602267b54b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c743d7cc-2648-47e7-8b4a-b37cf4460080.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50562f9a-06e3-4474-ab88-a902cc44e6fc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80503592-15d6-4824-ac5b-5f3553578076.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0458a43-6483-4e5f-b525-c62cb2ea8528.jpg)
+
+Baronda 2007 Here was one of those "go-with-it" kind of jobs... By assessing what is already there, I constructed what I thought to be an excellent addition to this friendly neighborhood-style Italian restaurant nestled in the mid-town district of Atlanta. The project started off as a simple television installation and audio repair/ installation that later turned into a remodeling of the bar. The customers requested that I reshape and finish the bar to enhance the appearance inside. They also requested rebuilding the display behind the bar to support wine bottles vertically while shrouding the draft spouts and espresso machine that used to rest on the counter top. The customer agreed that a hand-crafted appearance and wood finish was best. I used a rasp and a drawknife on a softer wood (Alder) to shape the bar edge and a birch plywood for the counter top, and then stained it to accentuate the wood grain. The main challenge was to avoid losing business from closing down for a few days, so I did the majority of the work in my shop, then assembled it while the restaurant was closed during the middle of the night. I'm glad I was a night owl at the time!
