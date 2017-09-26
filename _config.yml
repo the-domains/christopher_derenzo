@@ -10,6 +10,7 @@ color:
     - '#C48826'
     - '#5F472D'
     - '#711508'
+github: true
 layout_spectrum: 0.08606983511708677
 name: Christopher_DeRenzo
 colors:
@@ -23,6 +24,9 @@ navigation:
   - name: South Beach
     id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
     type: content
+  - name: Woodwork
+    id: 6d50d805-0c61-49d1-86a8-b20c274aa973
+    type: content
 title: Christopher DeRenzo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -33,22 +37,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34a9e1e-b726-4a4e-b6aa-2983068f1c68.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Professional Blog
-github: true
