@@ -6,8 +6,8 @@ description: >-
   “classic” design that blended with the existing bedroom furniture. The
   intention was to conceal all of the components fashionably and have a motor
   move the television up through the counter top by the push of a button.
-dateModified: '2017-09-26T05:29:09.907Z'
-datePublished: '2017-09-26T05:29:10.618Z'
+dateModified: '2017-09-26T05:32:10.843Z'
+datePublished: '2017-09-26T05:32:11.618Z'
 title: Motorized Television Cabinet
 author: []
 publisher: {}
