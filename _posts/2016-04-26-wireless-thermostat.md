@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-26T15:51:08.084Z'
+datePublished: '2017-09-26T16:14:23.009Z'
 sourcePath: _posts/2016-04-26-wireless-thermostat.md
 inFeed: true
 authors: []
@@ -9,15 +9,15 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2017-09-26T15:51:07.683Z'
+dateModified: '2017-09-26T16:14:21.583Z'
 title: ''
 publisher: {}
 description: >-
   Transmits temperature, humidity, and barometric pressure back to user
   interface and has a relay to control heating or cooling unit.
 inLanguage: null
-datePublishedOriginal: '2017-09-26T15:51:08.084Z'
 starred: false
+datePublishedOriginal: '2017-09-26T15:51:08.084Z'
 url: wireless-thermostat/index.html
 _type: Article
 
