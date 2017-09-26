@@ -19,8 +19,8 @@ description: >-
   clearances were in order. Then I built an automated system with an Arduino
   microprocessor and sensors that were installed all across the machine to
   detect those clearances and perform operations requested by the iOS device.
-datePublished: '2017-09-26T20:59:01.514Z'
-dateModified: '2017-09-26T20:59:00.706Z'
+datePublished: '2017-09-26T21:34:27.738Z'
+dateModified: '2017-09-26T21:34:26.828Z'
 title: 'Conveyor Type Electro-mechanical system:'
 author: []
 sourcePath: >-
@@ -50,10 +50,20 @@ _type: Article
 
 ---
 
-**Challenge \#1 - **Design and program a control board with an Arduino micro-controller to sense and operate multiple motors and solenoids to detect clearances and perform operations requested by a mobile device. Initially I had set the board up with additional relays for the manual operation of stepper motors, actuators, and solenoids. These were controlled with a manual remote to move the 3'x3'x2' metal boxes around a 18' tall structure to deliver items stored inside of the unit at the push of a button. The unit would automate the rotation of the boxes to deliver "the" box to one of two access panels in a two story building. These boxes were called through an iOS application (SmartFinder) which had the saved items organized inside a user defined database.
+**Challenge \#1 - **Design and program a control board with a micro-controller to sense and operate multiple motors and solenoids to detect clearances and perform operations requested by a mobile device. Initially I had set the board up with additional relays for the manual operation of stepper motors, actuators, and solenoids. These were controlled with a wired remote to move the 3'x3'x2' metal boxes around a 18' tall structure to deliver items stored inside of the unit at the push of a button. The unit would automate the rotation of the boxes to deliver "the" box to one of two access panels in a two story building. These boxes were called through an iOS application (SmartFinder) which had the saved items organized inside a user defined database.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddd84db5-66db-4c0d-9eaa-33482e00cf18.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ed17b6-b9aa-4a79-8fa7-f3be87d2b0dd.jpg)
+
+Let the counters begin!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8daa6e72-2615-4150-97b0-34c32b677c1c.jpg)
+
+I was actually proud of these jumps!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbf05ee5f415fd0b4b45d4fcf7f2f8dc284d129a.jpg)
+
+This is where we use that multi-meter over and over and over again;-)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ad9df97-a131-4d3e-901c-70434a44c257.jpg)
+
+Next stop, SMD's on printed circuit boards!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3e994e2-ae4b-4dfd-9852-e7650848f26b.jpg)
+
+This was my "throw back" for a bit of nostalgia!
