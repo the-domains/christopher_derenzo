@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-09-26T20:30:46.913Z'
-dateModified: '2017-09-26T20:30:45.962Z'
+datePublished: '2017-09-26T20:31:15.803Z'
+dateModified: '2017-09-26T20:31:15.217Z'
 title: 'Conveyor Type Electro-mechanical system:'
 author: []
 sourcePath: >-
@@ -20,12 +20,12 @@ _type: Blurb
 
 ---
 ## Conveyor Type Electro-mechanical system:
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e0dce6524d59a03744a16390603609a6e105da.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea636db3f5d2d03c782a155ba3c13b1f1ec3977.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d7ce409616d43d0fd63da0e7072af797/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4e376cab-58ca-43f3-8f7b-7963378d9b14.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed597fe34a1404ed5f3a56f16e5f78534ed4f5bc.jpg)
 
 > Construction of ~11' x 7' x 2' steel structure and installation of automated controls to communicate with iOS application (SmartFinder)
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e0dce6524d59a03744a16390603609a6e105da.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1547d1d52a915d57d9c760d5602f16016cb0d5.jpg)
 
 > The Machine - I was tasked with reverse engineering two previous prototypes, one made out of wood and the other made with lightweight metal both had been programmed but neither functioned completely. Both machines much smaller than what the customer was looking for so I made a plan to build one structure which could be bolted together and was more durable and the remaining and were limited in proper support, however they effectively diplayed the purpose of the machine and left me The metal machine was run for a short period of time and were not functional after a few operations. I was asked to design stronger machine for testing and researching possibilities of making this a viable product. I worked to develop smoother and more efficient operations on this rendition. I initially set it up with manual operation of stepper motors, actuators, and solenoids with a custom built remote to control the unit until all of the clearances were in order. Then I built an automated system with an Arduino microprocessor and sensors that were installed all across the machine to detect those clearances and perform operations requested by the iOS device. I am currently the technology development director for its prototypical phases by continuing project consulting services.
