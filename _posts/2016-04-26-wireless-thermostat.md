@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-26T16:14:23.009Z'
+datePublished: '2017-09-26T20:51:08.367Z'
 sourcePath: _posts/2016-04-26-wireless-thermostat.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2017-09-26T16:14:21.583Z'
+dateModified: '2017-09-26T20:51:07.529Z'
 title: ''
 publisher: {}
 description: >-
