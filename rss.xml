@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Christopher_Reign_DeRenzo]]></title>
-        <description><![CDATA[Christopher_Reign_DeRenzo]]></description>
+        <title><![CDATA[Christopher DeRenzo]]></title>
+        <description><![CDATA[Christopher DeRenzo]]></description>
         <link>https://thegrid.ai/christopher_derenzo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Sep 2017 15:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2017 15:58:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopher_derenzo/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 Sep 2017 15:55:11 GMT</pubDate>
+        <pubDate>Tue, 26 Sep 2017 15:58:48 GMT</pubDate>
         <item>
             <title><![CDATA[An iOS application to integrate with the machine]]></title>
             <description><![CDATA[<p>An iOS Application to store information with the help of any/all iOS sensors to identify quantity or communicate with a machine that would retrieve called for inventory. </p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/924981c0-7e65-4216-9a3b-4dfc48438a0b.png">]]></description>
@@ -20,13 +20,6 @@
             <link>https://thegrid.ai/christopher_derenzo/wireless-thermostat/index.html</link>
             <guid isPermaLink="false">bfd3b7e1-5b56-40fc-a705-a711d1d63c13</guid>
             <pubDate>Tue, 26 Sep 2017 15:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prototype Board]]></title>
-            <description><![CDATA[<p>Past work: Constructing control board for automated conveyor type system:</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg" alt="" title="Prototype Board">]]></description>
-            <link>https://thegrid.ai/christopher_derenzo/prototype-board/index.html</link>
-            <guid isPermaLink="false">1f209584-44a1-4b7d-b779-7651be8b9c87</guid>
-            <pubDate>Tue, 26 Sep 2017 15:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My First 350 Gal Aquarium ]]></title>
