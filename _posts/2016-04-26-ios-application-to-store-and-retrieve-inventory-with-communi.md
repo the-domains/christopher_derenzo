@@ -7,8 +7,8 @@ description: >-
   An iOS Application to store information with the help of any/all iOS sensors
   to identify quantity or communicate with a machine that would retrieve called
   for inventory. 
-datePublished: '2017-09-26T15:59:35.719Z'
-dateModified: '2017-09-26T15:59:33.765Z'
+datePublished: '2017-09-26T20:51:08.533Z'
+dateModified: '2017-09-26T20:51:07.529Z'
 title: ''
 author: []
 sourcePath: >-
