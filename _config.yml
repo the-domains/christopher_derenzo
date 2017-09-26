@@ -24,11 +24,11 @@ navigation:
   - name: JavaFX - Fan Manager
     id: 7a7d6469-6e83-4be7-ba92-54cbb823b881
     type: content
-  - name: iOS - SmartFinder
-    id: c7d61ddb-fd16-456b-8f7e-37e5e479b3b7
-    type: content
   - name: HVAC Controller
     id: bfd3b7e1-5b56-40fc-a705-a711d1d63c13
+    type: content
+  - name: iOS - SmartFinder
+    id: c7d61ddb-fd16-456b-8f7e-37e5e479b3b7
     type: content
   - name: 'Prototype Conveyor System '
     id: 1f209584-44a1-4b7d-b779-7651be8b9c87
