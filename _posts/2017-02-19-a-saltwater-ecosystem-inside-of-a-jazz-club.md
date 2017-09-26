@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T03:18:33.319Z'
-dateModified: '2017-09-26T03:18:32.549Z'
+datePublished: '2017-09-26T03:18:34.734Z'
+dateModified: '2017-09-26T03:18:34.224Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
