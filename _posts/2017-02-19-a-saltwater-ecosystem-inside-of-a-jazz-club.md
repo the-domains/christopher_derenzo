@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T01:52:08.425Z'
-dateModified: '2017-09-26T01:52:07.550Z'
+datePublished: '2017-09-26T02:00:55.731Z'
+dateModified: '2017-09-26T02:00:54.648Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
@@ -27,7 +27,8 @@ South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly cafeteria
 
 This was a great opportunity for me professionally because of the skills I would acquire with a variety of materials used in the construction process. Plastic, glass, wood and steel fixtures were custom tailored for each part of the install process. These are skills which I take pride in and still carry with me today.
 
-While designing and building a custom 350-gallon salt water aquarium, I did what I did best at the time and also installed a very basic audio/ video system for live entertainment. I know some might ask, "what do A/V systems and aquariums have in common?" For me personally, these were passions of mine, both saltwater tanks and professional audio video systems, but I had never built and installed them together in the same space. Professionally it happens to be mechanical engineering that ties these two interests of mine together... From design to completion, each application presented a series of challenges that stimulated me mentally and physically and to accomplish these tasks in a small window of time, per the norm, I felt that I succeeded when all items were inspected by the inspector and the work I had been tasked with met code. The restaurant opened for business on time and under budget!
+While designing and building a custom 350-gallon salt water aquarium, I did what I did best at the time and also installed a very basic audio/ video system for live entertainment. I know some might ask, "what do A/V systems and aquariums have in common?" For me personally, these were passions of mine, both saltwater tanks and professional audio video systems, but I had never built and installed them together in the same space. 
+- Professionally it happens to be mechanical engineering that ties these two interests of mine together... From design to completion, each process presented a series of challenges that stimulated me mentally while accomplishing these tasks on a tight schedule, per the norm, I felt a great sense of accomplishment when all items were inspected and the restaurant opened for business on time!
 ![Before initial testing](https://the-grid-user-content.s3-us-west-2.amazonaws.com/853d5064-f932-4d4b-96df-2d2e7f3bfe1e.jpg)
 ![The sump!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/469e76ab-2530-4301-bfd8-b8e4a753177d.jpg)
 
@@ -46,7 +47,8 @@ Consider how important it is to provide a "near-perfect" flat surface under the 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ca4647f-ec5c-462b-9798-ad12205b069c.jpg)
 ![support for a single TV replicated for 7 more](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0994f38d-14c0-4279-9b23-276228d6363a.jpg)
 
-I hand crafted the steel TV mounts and speaker mounts for the subs to be located in the ceilings to conserve floor space, minus 4 subs situated under the front of the stage. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d6929b-b414-4df8-ac91-7ff248ea9a00.jpg)
+I hand crafted the steel TV mounts and speaker mounts for the subs to be located in the ceilings to conserve floor space, minus 4 subs situated under the front of the stage.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d6929b-b414-4df8-ac91-7ff248ea9a00.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63a7bbce-7a9a-4f8a-ab09-9924c29615db.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92745f4c-3142-4dc9-9f08-27679cdf20b8.jpg)
 
