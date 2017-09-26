@@ -3,12 +3,12 @@ inFeed: false
 hasPage: true
 inLanguage: null
 keywords: []
-description: 'Past work: Constructing control board for automated conveyor type system:'
-datePublished: '2017-09-26T19:36:54.586Z'
-dateModified: '2017-09-26T19:36:53.586Z'
-title: >-
-  Prototype Board - Top Side showing 555 Timer for manual control and input pins
-  with LED's for the switches installed around machine.
+description: >-
+  Electro-mechanical systems: Construction of Conveyor system  control board for
+  automated conveyor type system:
+datePublished: '2017-09-26T19:41:26.054Z'
+dateModified: '2017-09-26T19:41:24.624Z'
+title: ''
 author: []
 sourcePath: >-
   _posts/2016-04-26-top-side-showing-555-timer-for-manual-control-and-input-pins.md
@@ -21,7 +21,10 @@ url: prototype-board/index.html
 _type: Blurb
 
 ---
-Past work: Constructing control board for automated conveyor type system:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e376cab-58ca-43f3-8f7b-7963378d9b14.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d371736-2131-4890-9ae4-1ea385d18aab.jpg)
+
+Electro-mechanical systems: Construction of Conveyor system control board for automated conveyor type system:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg)
 
 ---
