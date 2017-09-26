@@ -36,14 +36,14 @@ navigation:
   - name: Woodwork
     id: 6d50d805-0c61-49d1-86a8-b20c274aa973
     type: content
+  - name: Trebuchet
+    id: ced0d730-8c88-4ff9-a802-6cee41252a33
+    type: content
   - name: Planters
     id: 505e97ca-27c7-49eb-b53a-5db6e455cb6e
     type: content
   - name: South Beach
     id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
-    type: content
-  - name: Trebuchet
-    id: ced0d730-8c88-4ff9-a802-6cee41252a33
     type: content
 title: Christopher DeRenzo
 content:
