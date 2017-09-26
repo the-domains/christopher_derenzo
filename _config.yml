@@ -21,6 +21,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: JavaFX - Fan Manager
+    id: 7a7d6469-6e83-4be7-ba92-54cbb823b881
+    type: content
   - name: iOS - SmartFinder
     id: c7d61ddb-fd16-456b-8f7e-37e5e479b3b7
     type: content
@@ -35,9 +38,6 @@ navigation:
     type: content
   - name: South Beach
     id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
-    type: content
-  - name: JavaFX - Fan Manager
-    id: 7a7d6469-6e83-4be7-ba92-54cbb823b881
     type: content
 title: Christopher DeRenzo
 content:
