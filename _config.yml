@@ -23,7 +23,7 @@ navigation:
   - name: South Beach
     id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
     type: content
-title: Christopher_Reign_DeRenzo
+title: Christopher DeRenzo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -42,7 +42,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
