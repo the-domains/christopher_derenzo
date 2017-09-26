@@ -36,6 +36,9 @@ navigation:
   - name: iOS - SmartFinder
     id: c7d61ddb-fd16-456b-8f7e-37e5e479b3b7
     type: content
+  - name: JavaFX - Fan Manager
+    id: 7a7d6469-6e83-4be7-ba92-54cbb823b881
+    type: content
 title: Christopher DeRenzo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
