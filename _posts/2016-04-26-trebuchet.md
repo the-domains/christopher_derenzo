@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-26T20:51:08.526Z'
+datePublished: '2017-09-26T21:06:38.744Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-26T20:51:07.529Z'
+dateModified: '2017-09-26T21:06:37.841Z'
 title: ''
 publisher: {}
 description: Trebuchet!?!
@@ -19,10 +19,13 @@ _type: Blurb
 
 ---
 Trebuchet!?!
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0b1b89007eeeb0771cb74b4f06871d9/croprotate.png?cropheight=227&cropwidth=228&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff322a39b-94b7-488c-a78a-a5cab0d9d6b4.png&x=1&y=1)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39fbf434f84b6a89bb7ffeed4f82e1b285f738aa.png)
+
+Just having fun!
 
 ---
 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/642ac5e3-397b-431f-822d-6fb72ba8fe01.mov)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afc4bc4b0027619f082db19a3a0c8f7c53b8818f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac2fdfb63ad8f31fff08fa6c562086c24aa07e3f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/070c5d4b7da3c290a1e74c64678b7cd8c7c9235e.jpg)
@@ -55,3 +58,4 @@ Trebuchet!?!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/63ebe3a25b361ed52743b4702e1f7e35bd2c9c6d.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/238612fa3de7094b793b858a2c2ef0859afc112e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d18b3d578d04043fdd8f250fe0348668309c12b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bcc0f1-fc18-4f2b-82bf-ecd5ea8c03d4.jpg)
