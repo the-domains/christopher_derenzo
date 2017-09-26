@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T01:44:45.363Z'
-dateModified: '2017-09-26T01:44:44.177Z'
+datePublished: '2017-09-26T01:50:10.505Z'
+dateModified: '2017-09-26T01:50:09.687Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
@@ -39,14 +39,13 @@ I sent my plans to a number of companies in the surrounding area with two major 
 Consider how important it is to provide a "near-perfect" flat surface under the bottom of the tank as apposed to open frame support or just a piece of ply. This would prevent the weight of the water (approximately 3-tons) from pressing against a small deformation or open space created over time that could eventually lead to failure of the bottom layer of glass. What I found was a self leveling concrete that I applied to ~ 1/2" thick over the top of the piece of plywood with an extremely firm insulation board to provide a cushion underneath the glass.
 ![before the hood and steel supports](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b8d90b-b3ab-4f3a-807f-78daf87e8020.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb55175d-1703-4ce6-baf9-fc776582234d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e96152b5-a3a6-4936-8a35-d7ff9b8579ac.jpg)
 ![After two weeks it was ready to add fish!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abbc94c6-ac7b-4273-bc05-e5fdb5e52ab8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a8d56b-5639-4649-89fa-f5b820fa6093.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e96152b5-a3a6-4936-8a35-d7ff9b8579ac.jpg)
 ![Steel supports for 3 plasma TV's](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bffc8f2d-c943-4e20-b38b-66d95426bf93.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ca4647f-ec5c-462b-9798-ad12205b069c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0994f38d-14c0-4279-9b23-276228d6363a.jpg)
+![support for a single TV replicated for 7 more](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0994f38d-14c0-4279-9b23-276228d6363a.jpg)
 
-I hand crafted the steel TV mounts and Speaker mounts for all of the AV to be located in the ceilings and off of the floor (minus some subs situated under the front of the stage. I installed very basic moving head fixtures lighting effects and an audio system to cater to live performances. They asked me to install all of the subs in the ceilings so as not to appear like a club and free up as much floor space as possible.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d6929b-b414-4df8-ac91-7ff248ea9a00.jpg)
+I hand crafted the steel TV mounts and speaker mounts for the subs to be located in the ceilings to conserve floor space, minus 4 subs situated under the front of the stage. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d6929b-b414-4df8-ac91-7ff248ea9a00.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63a7bbce-7a9a-4f8a-ab09-9924c29615db.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92745f4c-3142-4dc9-9f08-27679cdf20b8.jpg)
