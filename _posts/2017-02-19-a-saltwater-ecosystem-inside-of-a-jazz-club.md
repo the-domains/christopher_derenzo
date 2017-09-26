@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T05:27:50.265Z'
-dateModified: '2017-09-26T05:27:49.115Z'
+datePublished: '2017-09-26T05:28:59.214Z'
+dateModified: '2017-09-26T05:28:58.637Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
@@ -11,12 +11,12 @@ via: {}
 sourcePath: _posts/2017-02-19-a-saltwater-ecosystem-inside-of-a-jazz-club.md
 title: 'My First 350 Gal Aquarium '
 hasPage: true
-inFeed: false
+inFeed: true
 author: []
 starred: false
 datePublishedOriginal: '2017-02-19T22:22:30.511Z'
 url: a-saltwater-ecosystem-inside-of-a-jazz-club/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![with A/V install](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d281a6d-e0ef-435f-8053-04d552db2ed8.jpg)
