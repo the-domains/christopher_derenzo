@@ -24,6 +24,31 @@ navigation:
     id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
     type: content
 title: Christopher_Reign_DeRenzo
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b557c0f-1af8-4d18-a501-83db55719258.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b557c0f-1af8-4d18-a501-83db55719258.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Professional Blog
 github: true
