@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T01:50:10.505Z'
-dateModified: '2017-09-26T01:50:09.687Z'
+datePublished: '2017-09-26T01:52:08.425Z'
+dateModified: '2017-09-26T01:52:07.550Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
@@ -33,7 +33,7 @@ While designing and building a custom 350-gallon salt water aquarium, I did what
 
 The Aquarium:
 
-I sent my plans to a number of companies in the surrounding area with two major needs: (1) Safety - considering the size and location. (2) Visibility - as unobstructed as possible. I started the hunt for glass distributors and manufacturers and found this would not be an easy task. After coming close to calling it quits I found a qualified glass manufacturer further off the beaten path that was able and ready to supply me with the glass. We worked together during the cutting stage and construction stage then performed the stress tests and verified proper support and sealant around all of the frameless seams. Then I added a steel 1" square tube around the top and bottom for additional support to prevent any separation without blocking the view with vertical supports. The gravity fed sump was underneath the tank placed in between the 4x4 supports so I placed an overflow box into the center of the tank which would also return the filtered water with 3 pumps to process ~1600GPH. What fun this was to make!
+I sent my plans to a number of companies in the surrounding area with two major needs: (1) Safety - considering the size and location. (2) Visibility - as unobstructed as possible. I started the hunt for glass distributors and manufacturers and found this would not be an easy task. After coming close to calling it quits I found a qualified glass manufacturer further off the beaten path that was able and ready to supply me with the glass. We worked together during the cutting stage and construction stage then performed the stress tests and verified proper support and sealant around all of the frameless seams. Then I added a steel 1" square tube around the top and bottom for additional support to prevent any separation without blocking the view with vertical supports. The gravity fed sump was underneath the tank placed in between the 4x4 supports so I placed an overflow box into the center of the tank which would also return the filtered water with 3 pumps to push ~1600GPH.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17cf564e-d231-4253-ab8f-3171f05fc97e.jpg)
 
 Consider how important it is to provide a "near-perfect" flat surface under the bottom of the tank as apposed to open frame support or just a piece of ply. This would prevent the weight of the water (approximately 3-tons) from pressing against a small deformation or open space created over time that could eventually lead to failure of the bottom layer of glass. What I found was a self leveling concrete that I applied to ~ 1/2" thick over the top of the piece of plywood with an extremely firm insulation board to provide a cushion underneath the glass.
@@ -49,3 +49,5 @@ Consider how important it is to provide a "near-perfect" flat surface under the 
 I hand crafted the steel TV mounts and speaker mounts for the subs to be located in the ceilings to conserve floor space, minus 4 subs situated under the front of the stage. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d6929b-b414-4df8-ac91-7ff248ea9a00.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63a7bbce-7a9a-4f8a-ab09-9924c29615db.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92745f4c-3142-4dc9-9f08-27679cdf20b8.jpg)
+
+What fun this was to make!
