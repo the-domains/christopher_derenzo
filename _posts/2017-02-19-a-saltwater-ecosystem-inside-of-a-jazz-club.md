@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T02:00:55.731Z'
-dateModified: '2017-09-26T02:00:54.648Z'
+datePublished: '2017-09-26T03:18:27.530Z'
+dateModified: '2017-09-26T03:18:26.020Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
@@ -27,17 +27,18 @@ South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly cafeteria
 
 This was a great opportunity for me professionally because of the skills I would acquire with a variety of materials used in the construction process. Plastic, glass, wood and steel fixtures were custom tailored for each part of the install process. These are skills which I take pride in and still carry with me today.
 
-While designing and building a custom 350-gallon salt water aquarium, I did what I did best at the time and also installed a very basic audio/ video system for live entertainment. I know some might ask, "what do A/V systems and aquariums have in common?" For me personally, these were passions of mine, both saltwater tanks and professional audio video systems, but I had never built and installed them together in the same space. 
-- Professionally it happens to be mechanical engineering that ties these two interests of mine together... From design to completion, each process presented a series of challenges that stimulated me mentally while accomplishing these tasks on a tight schedule, per the norm, I felt a great sense of accomplishment when all items were inspected and the restaurant opened for business on time!
+While designing and building a custom 350-gallon salt water aquarium, I was working on a very basic audio/ video system for live entertainment. I know some might ask, "what do A/V systems and aquariums have in common?" For me personally, these were passions of mine, both saltwater tanks and professional audio video systems, but I had never built and installed them together in the same space. 
+- Professionally it happens to be mechanical engineering that ties these two interests of mine together... From design to completion, each process presented a series of challenges that stimulated me mentally while working under time and budget constraints - per the norm. I felt a great sense of accomplishment when all items were inspected and the restaurant opened for business on time!
 ![Before initial testing](https://the-grid-user-content.s3-us-west-2.amazonaws.com/853d5064-f932-4d4b-96df-2d2e7f3bfe1e.jpg)
-![The sump!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/469e76ab-2530-4301-bfd8-b8e4a753177d.jpg)
 
-The Aquarium:
+The Aquarium - Challenges & Lessons Learned:
 
-I sent my plans to a number of companies in the surrounding area with two major needs: (1) Safety - considering the size and location. (2) Visibility - as unobstructed as possible. I started the hunt for glass distributors and manufacturers and found this would not be an easy task. After coming close to calling it quits I found a qualified glass manufacturer further off the beaten path that was able and ready to supply me with the glass. We worked together during the cutting stage and construction stage then performed the stress tests and verified proper support and sealant around all of the frameless seams. Then I added a steel 1" square tube around the top and bottom for additional support to prevent any separation without blocking the view with vertical supports. The gravity fed sump was underneath the tank placed in between the 4x4 supports so I placed an overflow box into the center of the tank which would also return the filtered water with 3 pumps to push ~1600GPH.
+Challenge \#1 I sent my plans to a number of companies in the surrounding area with two major needs: (1) Safety - considering the size and location. (2) Visibility and function - as unobstructed as possible but easiest to clean. I started the hunt for glass distributors and manufacturers and found this would not be an easy task. After coming close to calling it quits I found a qualified glass manufacturer further away that was able and ready to supply me with the glass. We worked together during the cutting stage and construction stage then performed the stress tests together and verified proper support and sealant around all of the frameless seams. Then for further support, per the recommendation of more qualified engineers, I added a 1" steel square tube around the top and bottom for additional support to prevent any separation of the upper supports without blocking the view externally. ![The sump!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/469e76ab-2530-4301-bfd8-b8e4a753177d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17cf564e-d231-4253-ab8f-3171f05fc97e.jpg)
 
-Consider how important it is to provide a "near-perfect" flat surface under the bottom of the tank as apposed to open frame support or just a piece of ply. This would prevent the weight of the water (approximately 3-tons) from pressing against a small deformation or open space created over time that could eventually lead to failure of the bottom layer of glass. What I found was a self leveling concrete that I applied to ~ 1/2" thick over the top of the piece of plywood with an extremely firm insulation board to provide a cushion underneath the glass.
+Challenge \#2 I chose to go with the overflow in the center for easy maintenance as apposed to the sides which increased the cost and may have reduced the function. The overflow tank lead to the gravity fed sump underneath which was placed in between the 4x4 supports. The overflow tank covered two 1" holes pre drilled by the glass manufacturer for two 3/4" id pipes. One for drain and the other for return. I then chose to run three pumps to disperse ~2000+GPH because after one had reached the top of the tank they would only draw ~700 GPH which was not sufficient for a clean saltwater environment. 
+
+Challenge \#3 Consider how important it is to provide a "near-perfect" flat surface under the bottom of the tank as apposed to open frame support or just a piece of ply. This would prevent the weight of the water (approximately 3-tons) from pressing against a small deformation or open space created over time that could eventually lead to failure of the bottom layer of glass. What I found was a self leveling concrete that I applied to ~ 1/2" thick over the top of the piece of plywood with an extremely firm insulation board to provide a cushion underneath the glass.
 ![before the hood and steel supports](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b8d90b-b3ab-4f3a-807f-78daf87e8020.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb55175d-1703-4ce6-baf9-fc776582234d.jpg)
 ![After two weeks it was ready to add fish!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abbc94c6-ac7b-4273-bc05-e5fdb5e52ab8.jpg)
@@ -52,4 +53,4 @@ I hand crafted the steel TV mounts and speaker mounts for the subs to be located
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63a7bbce-7a9a-4f8a-ab09-9924c29615db.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92745f4c-3142-4dc9-9f08-27679cdf20b8.jpg)
 
-What fun this was to make!
+What fun this was to do!
