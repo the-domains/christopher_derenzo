@@ -14,8 +14,8 @@ description: >-
   theater, pool, gym, gardens and lobbies where we installed a Crestron
   controlled system to provide communications and entertainment for these
   amenities.
-dateModified: '2017-09-26T22:08:52.691Z'
-datePublished: '2017-09-26T22:08:54.121Z'
+dateModified: '2017-09-26T22:09:14.736Z'
+datePublished: '2017-09-26T22:09:15.689Z'
 title: 'Project Management:'
 author: []
 publisher: {}
@@ -57,5 +57,5 @@ This Building is located in the heart of Century City, CA and stands 42 stories 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d448a0b4-3dbd-4212-806f-4945cca7a72c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24fa43a9-869f-4b74-b0de-e3ad4b4788dd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40633f79-1481-4d03-a1e9-359278fb38b3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6a6fd94-44b6-44de-9302-539895235ce5.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c73ea5e1d5ae60580d048ae5921bfd3c/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff6a6fd94-44b6-44de-9302-539895235ce5.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f5b8f9c-3438-414e-ae3b-c76af4e77768.jpg)
