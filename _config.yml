@@ -42,6 +42,9 @@ navigation:
   - name: Trebuchet
     id: ced0d730-8c88-4ff9-a802-6cee41252a33
     type: content
+  - name: Planters
+    id: 505e97ca-27c7-49eb-b53a-5db6e455cb6e
+    type: content
 title: Christopher DeRenzo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
