@@ -45,6 +45,9 @@ navigation:
   - name: South Beach
     id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
     type: content
+  - name: HVAC Controller
+    id: bfd3b7e1-5b56-40fc-a705-a711d1d63c13
+    type: content
 title: Christopher DeRenzo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
