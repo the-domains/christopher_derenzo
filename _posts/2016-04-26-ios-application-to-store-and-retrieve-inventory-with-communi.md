@@ -7,8 +7,8 @@ description: >-
   An iOS Application to store information with the help of any/all iOS sensors
   to identify quantity or communicate with a machine that would retrieve called
   for inventory. 
-datePublished: '2017-09-26T15:51:10.035Z'
-dateModified: '2017-09-26T15:51:08.132Z'
+datePublished: '2017-09-26T15:59:35.719Z'
+dateModified: '2017-09-26T15:59:33.765Z'
 title: ''
 author: []
 sourcePath: >-
@@ -16,8 +16,8 @@ sourcePath: >-
 authors: []
 publisher: {}
 via: {}
-datePublishedOriginal: '2017-09-26T15:51:10.035Z'
 starred: false
+datePublishedOriginal: '2017-09-26T15:51:10.035Z'
 url: an-ios-application-to-integrate-with-the-machine/index.html
 _type: Article
 
