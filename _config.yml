@@ -33,9 +33,6 @@ navigation:
   - name: 'Prototype Conveyor System '
     id: 1f209584-44a1-4b7d-b779-7651be8b9c87
     type: content
-  - name: Live Productions
-    id: fa106f05-bd7b-45dd-99c7-9e2c0bd6a239
-    type: content
   - name: Woodwork
     id: 6d50d805-0c61-49d1-86a8-b20c274aa973
     type: content
@@ -44,6 +41,9 @@ navigation:
     type: content
   - name: Trebuchet for Club-Row
     id: ced0d730-8c88-4ff9-a802-6cee41252a33
+    type: content
+  - name: Live Productions
+    id: fa106f05-bd7b-45dd-99c7-9e2c0bd6a239
     type: content
   - name: Saltwater Aquarium
     id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
