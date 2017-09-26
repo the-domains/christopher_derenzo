@@ -4,9 +4,9 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-09-26T20:00:15.614Z'
-dateModified: '2017-09-26T20:00:14.665Z'
-title: 'Conveyor Type Electro-mechanical system: '
+datePublished: '2017-09-26T20:29:12.040Z'
+dateModified: '2017-09-26T20:29:11.187Z'
+title: 'Conveyor Type Electro-mechanical system:'
 author: []
 sourcePath: >-
   _posts/2016-04-26-top-side-showing-555-timer-for-manual-control-and-input-pins.md
@@ -19,15 +19,17 @@ url: prototype-board/index.html
 _type: Blurb
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d7ce409616d43d0fd63da0e7072af797/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4e376cab-58ca-43f3-8f7b-7963378d9b14.jpg&x=0&y=0)
+## Conveyor Type Electro-mechanical system:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea636db3f5d2d03c782a155ba3c13b1f1ec3977.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d7ce409616d43d0fd63da0e7072af797/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4e376cab-58ca-43f3-8f7b-7963378d9b14.jpg&x=0&y=0)
 
-# Conveyor Type Electro-mechanical system: 
-> 
-> Construction of ~18' x 7' x 2' steel structure and installation of automated controls to communicate with iOS application
+> Construction of ~11' x 7' x 2' steel structure and installation of automated controls to communicate with iOS application (SmartFinder)
 
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1df6f5acbff88ce0fa89276ddd413a55/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0275e23b-677a-460b-ba62-79e526a54ba5.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0b5373b8741fa6e5506a029676eeed40/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F50e55c8a-2fac-48b9-a967-090464f10ea2.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e0dce6524d59a03744a16390603609a6e105da.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1547d1d52a915d57d9c760d5602f16016cb0d5.jpg)
+
+> The Machine - I was tasked with reverse engineering two previous prototypes, one made out of wood and the other made with lightweight metal both had been programmed but neither functioned completely. Both machines much smaller than what the customer was looking for so I made a plan to build one structure which could be bolted together and was more durable and the remaining and were limited in proper support, however they effectively diplayed the purpose of the machine and left me The metal machine was run for a short period of time and were not functional after a few operations. I was asked to design stronger machine for testing and researching possibilities of making this a viable product. I worked to develop smoother and more efficient operations on this rendition. I initially set it up with manual operation of stepper motors, actuators, and solenoids with a custom built remote to control the unit until all of the clearances were in order. Then I built an automated system with an Arduino microprocessor and sensors that were installed all across the machine to detect those clearances and perform operations requested by the iOS device. I am currently the technology development director for its prototypical phases by continuing project consulting services.
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg)
 
 ---
