@@ -1,15 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: Live Productions
-dateModified: '2017-09-26T06:29:59.531Z'
-datePublished: '2017-09-26T06:30:00.440Z'
+dateModified: '2017-09-26T15:57:54.960Z'
+datePublished: '2017-09-26T15:57:56.352Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-26-live-productions.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-26T06:30:00.440Z'
-sourcePath: _posts/2017-09-26-live-productions.md
+url: live-productions/index.html
 _type: Blurb
 
 ---
