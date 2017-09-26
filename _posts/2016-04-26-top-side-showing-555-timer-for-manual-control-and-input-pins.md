@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inLanguage: null
 keywords: []
@@ -19,8 +19,8 @@ description: >-
   clearances were in order. Then I built an automated system with an Arduino
   microprocessor and sensors that were installed all across the machine to
   detect those clearances and perform operations requested by the iOS device.
-datePublished: '2017-09-26T20:56:47.723Z'
-dateModified: '2017-09-26T20:56:46.696Z'
+datePublished: '2017-09-26T20:59:01.514Z'
+dateModified: '2017-09-26T20:59:00.706Z'
 title: 'Conveyor Type Electro-mechanical system:'
 author: []
 sourcePath: >-
@@ -31,7 +31,7 @@ via: {}
 starred: false
 datePublishedOriginal: '2017-09-26T15:50:51.780Z'
 url: prototype-board/index.html
-_type: Blurb
+_type: Article
 
 ---
 ## Conveyor Type Electro-mechanical system:
