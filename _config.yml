@@ -21,9 +21,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: South Beach
-    id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
-    type: content
   - name: Woodwork
     id: 6d50d805-0c61-49d1-86a8-b20c274aa973
     type: content
@@ -32,6 +29,9 @@ navigation:
     type: content
   - name: 'Prototype Conveyor System '
     id: 1f209584-44a1-4b7d-b779-7651be8b9c87
+    type: content
+  - name: South Beach
+    id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
     type: content
 title: Christopher DeRenzo
 content:
