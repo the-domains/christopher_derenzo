@@ -14,8 +14,8 @@ description: >-
   theater, pool, gym, gardens and lobbies where we installed a Crestron
   controlled system to provide communications and entertainment for these
   amenities.
-dateModified: '2017-09-26T22:09:14.736Z'
-datePublished: '2017-09-26T22:09:15.689Z'
+dateModified: '2017-09-26T22:10:00.313Z'
+datePublished: '2017-09-26T22:10:01.233Z'
 title: 'Project Management:'
 author: []
 publisher: {}
@@ -55,7 +55,14 @@ This Building is located in the heart of Century City, CA and stands 42 stories 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e00e54a9-626e-4a69-b5d1-198ba1ca5867.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daa4e605-9e22-408f-b818-c9cf2cc2d8ec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d448a0b4-3dbd-4212-806f-4945cca7a72c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f5b8f9c-3438-414e-ae3b-c76af4e77768.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24fa43a9-869f-4b74-b0de-e3ad4b4788dd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40633f79-1481-4d03-a1e9-359278fb38b3.jpg)
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c73ea5e1d5ae60580d048ae5921bfd3c/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff6a6fd94-44b6-44de-9302-539895235ce5.jpg&x=0&y=0)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f5b8f9c-3438-414e-ae3b-c76af4e77768.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ee90fa4-7f00-42f6-a68f-d76576fca4cc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc2e797-bf49-4366-86da-a1a1bacfcae7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b00378c-c215-4095-8ba4-14ddb0667f37.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b834bd2-965e-42d9-93b9-495d6e7c444f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f254bc03-7b12-41ed-bba6-73b7b50954fd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf66107-6ea5-4595-a68e-6247b6dc5ed2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47713ac9-ae86-4c23-8ff9-70643ff2e0f8.jpg)
