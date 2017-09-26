@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T03:18:27.530Z'
-dateModified: '2017-09-26T03:18:26.020Z'
+datePublished: '2017-09-26T03:18:33.319Z'
+dateModified: '2017-09-26T03:18:32.549Z'
 description: >-
   South Beach Bistro - Atlanta, GA (2005). The facility was a Piccadilly
   cafeteria before the lease changed hands and the new tenant envisioned a
@@ -53,4 +53,4 @@ I hand crafted the steel TV mounts and speaker mounts for the subs to be located
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63a7bbce-7a9a-4f8a-ab09-9924c29615db.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92745f4c-3142-4dc9-9f08-27679cdf20b8.jpg)
 
-What fun this was to do!
+What fun this was to make!
