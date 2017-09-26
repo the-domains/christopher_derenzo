@@ -1,11 +1,11 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inLanguage: null
 keywords: []
 description: '5-Tier Planters: rev.01'
-datePublished: '2017-09-26T15:51:10.040Z'
-dateModified: '2017-09-26T15:51:09.330Z'
+datePublished: '2017-09-26T15:55:09.626Z'
+dateModified: '2017-09-26T15:55:08.783Z'
 title: Front View
 author:
   - name: ''
@@ -14,10 +14,10 @@ sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 via: {}
 authors: []
 publisher: {}
-datePublishedOriginal: '2017-09-26T15:51:10.040Z'
 starred: false
+datePublishedOriginal: '2017-09-26T15:51:10.040Z'
 url: front-view/index.html
-_type: Article
+_type: MediaObject
 
 ---
 5-Tier Planters: rev.01
