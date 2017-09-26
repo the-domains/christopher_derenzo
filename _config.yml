@@ -1,18 +1,7 @@
-layout_spectrum: 0.8956343111486202
-typography_spectrum: 0.40773010928976805
-color:
-  brandStrength: 0.6759890742990013
-  lightness: 0.3531884355092476
-  saturation: 0.08305450700297214
-  rhythmicContrast: 0.34265632458446127
-  brandColors:
-    - '#000000'
-    - '#522A0F'
-    - '#3B0D05'
-    - '#BC9E86'
-    - '#7F604D'
+name: Christopher_Reign_DeRenzo
+analytics: {}
 github: true
-name: Christopher_DeRenzo
+description: Professional Blog
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -20,37 +9,65 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: South Beach
-    id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
-    type: content
-  - name: Woodwork
-    id: 6d50d805-0c61-49d1-86a8-b20c274aa973
-    type: content
-title: Christopher DeRenzo
+author:
+  name: Christopher Reign DeRenzo
+  url: reign-tech.com
+  email: reign@reign-tech.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
     html: >-
       <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34a9e1e-b726-4a4e-b6aa-2983068f1c68.jpg">
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b557c0f-1af8-4d18-a501-83db55719258.jpg">
     src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34a9e1e-b726-4a4e-b6aa-2983068f1c68.jpg
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b557c0f-1af8-4d18-a501-83db55719258.jpg
     metadata:
+      author: []
       datePublished: null
       keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Professional Blog
+navigation:
+  - id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
+    name: South Beach
+    type: content
+layout_spectrum: 0.08606983511708677
+color:
+  lightness: 0.09479623683728278
+  brandColors:
+    - '#030200'
+    - '#DFA94F'
+    - '#C48826'
+    - '#5F472D'
+    - '#711508'
+  saturation: 0.1967538148164749
+  brandStrength: 0.6410490754060447
+  rhythmicContrast: 0.3713594086002558
+content_rating:
+  adult: false
+typography_spectrum: 0.71940465294756
+opengraph: {}
+title: Christopher_Reign_DeRenzo
