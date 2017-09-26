@@ -19,8 +19,8 @@ description: >-
   clearances were in order. Then I built an automated system with an Arduino
   microprocessor and sensors that were installed all across the machine to
   detect those clearances and perform operations requested by the iOS device.
-datePublished: '2017-09-26T20:43:52.198Z'
-dateModified: '2017-09-26T20:43:51.221Z'
+datePublished: '2017-09-26T20:56:47.723Z'
+dateModified: '2017-09-26T20:56:46.696Z'
 title: 'Conveyor Type Electro-mechanical system:'
 author: []
 sourcePath: >-
@@ -39,9 +39,9 @@ _type: Blurb
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea636db3f5d2d03c782a155ba3c13b1f1ec3977.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed597fe34a1404ed5f3a56f16e5f78534ed4f5bc.jpg)
 
-### Combining the forces of steel and automation - I've created my first truly autonomous device! (2012)
+### Combining the forces of steel and automation - I've created my first truly automated device from the ground up! (2012)
 
-> Construction of ~11' x 7' x 2' steel structure and installation of automated controls to communicate with iOS application (SmartFinder)
+> Construction of ~11' x 7' x 2' steel structure and installation of automated controls that will communicate with an iOS application (SmartFinder)
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1547d1d52a915d57d9c760d5602f16016cb0d5.jpg)
 
@@ -50,7 +50,7 @@ _type: Blurb
 
 ---
 
-**Challenge \#1 - **Design and program a control board with an Arduino micro-controller to sense and operate multiple motors and solenoids to detect clearances and perform operations requested by a mobile device. Initially I had set the board up with additional relays for the manual operation of stepper motors, actuators, and solenoids. These were controlled with a custom built remote to move the 3'x3'x2' metal boxes around a 18' tall structure to deliver items stored inside of the unit at the push of a button. The unit would automate the rotation of the boxes to deliver a box to one of two access panels in a two story building. These boxes were called through an iOS application (SmartFinder) which had the saved items organized inside a user defined database.
+**Challenge \#1 - **Design and program a control board with an Arduino micro-controller to sense and operate multiple motors and solenoids to detect clearances and perform operations requested by a mobile device. Initially I had set the board up with additional relays for the manual operation of stepper motors, actuators, and solenoids. These were controlled with a manual remote to move the 3'x3'x2' metal boxes around a 18' tall structure to deliver items stored inside of the unit at the push of a button. The unit would automate the rotation of the boxes to deliver "the" box to one of two access panels in a two story building. These boxes were called through an iOS application (SmartFinder) which had the saved items organized inside a user defined database.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddd84db5-66db-4c0d-9eaa-33482e00cf18.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ed17b6-b9aa-4a79-8fa7-f3be87d2b0dd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8daa6e72-2615-4150-97b0-34c32b677c1c.jpg)
