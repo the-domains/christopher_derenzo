@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T05:55:32.193Z'
-dateModified: '2017-09-26T05:55:30.844Z'
+datePublished: '2017-09-26T06:47:57.565Z'
+dateModified: '2017-09-26T06:47:56.104Z'
 description: 'My First 350 Gal Aquarium with an A/V install:'
 via: {}
 sourcePath: _posts/2017-02-19-a-saltwater-ecosystem-inside-of-a-jazz-club.md
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 _My First 350 Gal Aquarium with an A/V install:_
-![with A/V install](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d281a6d-e0ef-435f-8053-04d552db2ed8.jpg)
+![and an A/V install](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d281a6d-e0ef-435f-8053-04d552db2ed8.jpg)
 
 _Once you enter:_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1039780-2f8a-4386-b5bc-3018575a1ae1.jpg)
