@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   This Building is located in the heart of Century City, CA and stands 42
   stories tall. It was a two-year build out with three underground parking
@@ -14,8 +14,8 @@ description: >-
   theater, pool, gym, gardens and lobbies where we installed a Crestron
   controlled system to provide communications and entertainment for these
   amenities.
-dateModified: '2017-09-26T22:12:43.510Z'
-datePublished: '2017-09-26T22:12:44.559Z'
+dateModified: '2017-09-26T22:13:48.414Z'
+datePublished: '2017-09-26T22:13:52.715Z'
 title: 'Project Management:'
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-26T21:43:17.317Z'
 url: project-management/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49f1e941-e716-4c11-8ff9-455b05c64cdc.jpg)
