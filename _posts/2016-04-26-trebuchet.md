@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-26T21:06:38.744Z'
+datePublished: '2017-09-26T21:06:21.831Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-26T21:06:37.841Z'
+dateModified: '2017-09-26T21:06:20.171Z'
 title: ''
 publisher: {}
 description: Trebuchet!?!
@@ -20,8 +20,6 @@ _type: Blurb
 ---
 Trebuchet!?!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39fbf434f84b6a89bb7ffeed4f82e1b285f738aa.png)
-
-Just having fun!
 
 ---
 
