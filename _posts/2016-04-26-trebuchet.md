@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-26T15:54:52.277Z'
+datePublished: '2017-09-26T16:01:02.127Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-26T15:54:50.442Z'
+dateModified: '2017-09-26T16:01:00.959Z'
 title: ''
 publisher: {}
 description: Trebuchet!?!
