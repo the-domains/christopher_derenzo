@@ -1,18 +1,18 @@
 ---
 publisher: {}
-datePublished: '2017-09-26T06:47:57.565Z'
-dateModified: '2017-09-26T06:47:56.104Z'
+datePublished: '2017-09-26T20:59:44.009Z'
+dateModified: '2017-09-26T20:59:43.322Z'
 description: 'My First 350 Gal Aquarium with an A/V install:'
 via: {}
 sourcePath: _posts/2017-02-19-a-saltwater-ecosystem-inside-of-a-jazz-club.md
 title: 'My First 350 Gal Aquarium '
 hasPage: true
-inFeed: true
+inFeed: false
 author: []
 starred: false
 datePublishedOriginal: '2017-02-19T22:22:30.511Z'
 url: a-saltwater-ecosystem-inside-of-a-jazz-club/index.html
-_type: Article
+_type: Blurb
 
 ---
 _My First 350 Gal Aquarium with an A/V install:_
