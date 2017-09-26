@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   This was a motorized piece of furniture with the A/V equipment concealed
   behind the doors and a motorized television lift. Mr. Huskey requested a
   “classic” design that blended with the existing bedroom furniture. The
   intention was to conceal all of the components fashionably and have a motor
   move the television up through the counter top by the push of a button.
-dateModified: '2017-09-26T05:32:10.843Z'
-datePublished: '2017-09-26T05:32:11.618Z'
+dateModified: '2017-09-26T15:53:52.524Z'
+datePublished: '2017-09-26T15:53:53.864Z'
 title: Motorized Television Cabinet
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-26T00:01:31.762Z'
 url: motorized-television-cabinet/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![Per spec this cabinet was my first custom built piece of home furniture](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f5e96e6-7810-4f92-8dad-cf1dcb2262be.jpg)
