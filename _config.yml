@@ -27,6 +27,9 @@ navigation:
   - name: HVAC Controller
     id: bfd3b7e1-5b56-40fc-a705-a711d1d63c13
     type: content
+  - name: Trebuchet for Club-Row
+    id: ced0d730-8c88-4ff9-a802-6cee41252a33
+    type: content
   - name: iOS - SmartFinder
     id: c7d61ddb-fd16-456b-8f7e-37e5e479b3b7
     type: content
@@ -38,9 +41,6 @@ navigation:
     type: content
   - name: Pyramid Planters
     id: 505e97ca-27c7-49eb-b53a-5db6e455cb6e
-    type: content
-  - name: Trebuchet for Club-Row
-    id: ced0d730-8c88-4ff9-a802-6cee41252a33
     type: content
   - name: Live Productions
     id: fa106f05-bd7b-45dd-99c7-9e2c0bd6a239
