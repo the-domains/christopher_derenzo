@@ -3,12 +3,10 @@ inFeed: false
 hasPage: true
 inLanguage: null
 keywords: []
-description: >-
-  Electro-mechanical systems: Construction of Conveyor system  control board for
-  automated conveyor type system:
-datePublished: '2017-09-26T19:43:58.702Z'
-dateModified: '2017-09-26T19:43:57.922Z'
-title: ''
+description: ''
+datePublished: '2017-09-26T19:59:58.726Z'
+dateModified: '2017-09-26T19:59:57.212Z'
+title: '(conveyor type) Electro-mechanical systems: '
 author: []
 sourcePath: >-
   _posts/2016-04-26-top-side-showing-555-timer-for-manual-control-and-input-pins.md
@@ -21,10 +19,15 @@ url: prototype-board/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e376cab-58ca-43f3-8f7b-7963378d9b14.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2c26c1f1b3836bc489dc2c54d2bc9398/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9d371736-2131-4890-9ae4-1ea385d18aab.jpg&x=0&y=0)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d7ce409616d43d0fd63da0e7072af797/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4e376cab-58ca-43f3-8f7b-7963378d9b14.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea636db3f5d2d03c782a155ba3c13b1f1ec3977.jpg)
 
-Electro-mechanical systems: Construction of Conveyor system control board for automated conveyor type system:
+# (conveyor type) Electro-mechanical systems: 
+> 
+> Construction of ~18' x 7' x 2' steel structure and installation of automated controls to communicate with iOS application
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0275e23b-677a-460b-ba62-79e526a54ba5.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0b5373b8741fa6e5506a029676eeed40/croprotate.jpg?cropheight=2592&cropwidth=1937&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F50e55c8a-2fac-48b9-a967-090464f10ea2.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg)
 
 ---
