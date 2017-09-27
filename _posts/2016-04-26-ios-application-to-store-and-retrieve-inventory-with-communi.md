@@ -7,8 +7,8 @@ description: >-
   An iOS Application to store information with the help of any/all iOS sensors
   to identify quantity or communicate with a machine that would retrieve called
   for inventory.
-datePublished: '2017-09-27T22:15:58.898Z'
-dateModified: '2017-09-27T22:15:57.418Z'
+datePublished: '2017-09-27T22:16:03.966Z'
+dateModified: '2017-09-27T22:16:00.596Z'
 title: Smart-Finder (2011)
 author: []
 sourcePath: >-
