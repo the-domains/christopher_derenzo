@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-27T21:54:14.241Z'
-datePublished: '2017-09-27T21:54:15.678Z'
+dateModified: '2017-09-27T21:54:23.387Z'
+datePublished: '2017-09-27T21:54:25.011Z'
 title: 'A/V Installations: (1998-2012)'
 author: []
 publisher: {}
@@ -25,9 +25,9 @@ _type: Article
 
 As a teenager I didn't realize that I would have started a career as a laborer helping framers build homes. This in turn helped me understand the skeletons of structures. From small spaces to large, I have pulled more cable and installed more pipe than I can even imagine. This has provided me with an understanding of how those arteries should make it from one place to another and this helped me make predictions when channels are not visible.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be14a74c-0373-4d97-83bf-4aa19eebb66c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e0381d-32b8-4cda-99a3-5f2be6de87ab.jpg)
 
 Climbing around in attics, basements or voids in between provided me with experience into other trades common practices. I have acquired an uncanny ability to trace things to their origin or their end, both in technology and in life.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e0381d-32b8-4cda-99a3-5f2be6de87ab.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ce93a33-64f0-45b3-b431-bb0db6da3fe1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b04b20-4290-437e-86d0-adf2d3c1dc68.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d663576-dc77-4715-864c-5b66c5ff5ef8.jpg)
