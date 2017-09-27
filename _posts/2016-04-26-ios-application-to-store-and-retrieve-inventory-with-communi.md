@@ -7,8 +7,8 @@ description: >-
   An iOS Application to store information with the help of any/all iOS sensors
   to identify quantity or communicate with a machine that would retrieve called
   for inventory.
-datePublished: '2017-09-27T21:31:58.662Z'
-dateModified: '2017-09-27T21:31:53.298Z'
+datePublished: '2017-09-27T21:36:51.380Z'
+dateModified: '2017-09-27T21:36:49.970Z'
 title: Smart-Finder
 author: []
 sourcePath: >-
@@ -27,12 +27,10 @@ _type: Article
 An iOS Application to store information with the help of any/all iOS sensors to identify quantity or communicate with a machine that would retrieve called for inventory.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9200d63ee067ef8c1e1b3b156033f9722ab595df.png)
 
----
-
 I used Objective C, TBXML, HTTPRequest, CoreData, CoreGraphics, CoreLocation, CoreMedia, MessageUI, DragonMobile (speech kit), RedLaser (barcode scanner), and InAppSettingsKit for iOS 3, 4 and 5\.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5afbd51f415d64223baa760e7e543fe22961fcd3.png)
 
-One of my favorite features was the use of the ambient light sensor which automatically changed the background to Light or Dark images and fonts
+This application was initially designed one purpose, however we saw the potential for a general use application and proceeded to incorporate these features that you see on this walkthrough.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d84c4a98ea9146a11f0c81f343ab0568db4c03ae.png)
 
 Adding items was as easy as scanning the barcode...
@@ -104,4 +102,6 @@ Here we will locate items by "Item Description"
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab8b54c00f3d1779e9bf13ae1cdc6b8aa04d6df3.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5866c3fdea7d6d62ca0ee349ef33f659bf2841e5.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/06275691a3bd3387c9177b4f5d203a2223e5642a.png)
+
+... Are your sure you want to delete this item?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fa05e2d379b3590aa2fa66b5e24ca5f07cf5ccc.png)
