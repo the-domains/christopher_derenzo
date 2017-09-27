@@ -24,7 +24,7 @@ navigation:
   - name: HVAC Controller
     id: bfd3b7e1-5b56-40fc-a705-a711d1d63c13
     type: content
-  - name: JavaFX - Fan Manager
+  - name: Fan Manager
     id: 7a7d6469-6e83-4be7-ba92-54cbb823b881
     type: content
   - name: Trebuchet for Club-Row
