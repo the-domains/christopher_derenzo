@@ -7,8 +7,8 @@ description: >-
   An iOS Application to store information with the help of any/all iOS sensors
   to identify quantity or communicate with a machine that would retrieve called
   for inventory.
-datePublished: '2017-09-27T21:39:38.243Z'
-dateModified: '2017-09-27T21:39:35.421Z'
+datePublished: '2017-09-27T21:39:51.750Z'
+dateModified: '2017-09-27T21:39:49.938Z'
 title: Smart-Finder
 author: []
 sourcePath: >-
@@ -26,6 +26,8 @@ _type: Article
 
 An iOS Application to store information with the help of any/all iOS sensors to identify quantity or communicate with a machine that would retrieve called for inventory.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9200d63ee067ef8c1e1b3b156033f9722ab595df.png)
+
+---
 
 I used Objective C, TBXML, HTTPRequest, CoreData, CoreGraphics, CoreLocation, CoreMedia, MessageUI, DragonMobile (speech kit), RedLaser (barcode scanner), and InAppSettingsKit for iOS 3, 4 and 5\.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5afbd51f415d64223baa760e7e543fe22961fcd3.png)
