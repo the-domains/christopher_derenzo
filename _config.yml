@@ -78,3 +78,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Professional Blog
+url: 'https://thegrid.ai/christopher_reign_derenzo/'
+author:
+  email: reign@reign-tech.com
+  url: 'http://reign-tech.com'
