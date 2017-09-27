@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Construction of ~11’ x  7’ x 2’ steel structure and installation of automated
   controls that will communicate with an iOS application (SmartFinder 2011)
-datePublished: '2017-09-27T16:17:35.553Z'
-dateModified: '2017-09-27T16:17:34.664Z'
+datePublished: '2017-09-27T16:32:57.973Z'
+dateModified: '2017-09-27T16:32:54.149Z'
 title: 'Conveyor Type Electro-mechanical system: (2012)'
 author: []
 sourcePath: >-
@@ -28,7 +28,9 @@ Construction of ~11' x 7' x 2' steel structure and installation of automated con
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea636db3f5d2d03c782a155ba3c13b1f1ec3977.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed597fe34a1404ed5f3a56f16e5f78534ed4f5bc.jpg)
 
-Combining the forces of steel and automation - I've created my first truly automated device from the ground up! ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1547d1d52a915d57d9c760d5602f16016cb0d5.jpg)
+> Combining the forces of steel and automation - I've created my first truly automated device from the ground up! 
+
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1547d1d52a915d57d9c760d5602f16016cb0d5.jpg)
 
 **The Machine -** I was tasked with reverse engineering two previous prototypes, one made out of wood and the other made with lightweight metal, one had been programmed but neither functioned completely. I was asked to design stronger machine for testing and research to proceed past the prototyping stage. Both previous machines were much smaller than what the customer was looking for so I made a plan to build one structure which could be bolted together and extended to the 18' which was needed for the application. This was more durable in the end and provided us with the information we needed to proceed with engineering a solution capable of meeting the demands of the client. I worked to develop smoother and more efficient operations on this rendition. I initially set it up with manual operation of stepper motors, actuators, and solenoids with a custom built remote to control the unit until all of the clearances were in order. Then I built an automated system with an Arduino microprocessor and sensors that were installed all across the machine to detect those clearances and perform operations requested by the iOS device.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg)
