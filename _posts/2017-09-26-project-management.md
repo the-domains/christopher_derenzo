@@ -14,8 +14,8 @@ description: >-
   areas included: a theater, pool, gym, gardens and lobbies where we installed a
   Crestron controlled system to provide communications and entertainment for
   these amenities.
-dateModified: '2017-09-27T21:29:38.955Z'
-datePublished: '2017-09-27T21:29:41.202Z'
+dateModified: '2017-09-27T21:30:59.759Z'
+datePublished: '2017-09-27T21:31:08.244Z'
 title: 'Project Management:'
 author: []
 publisher: {}
