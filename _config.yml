@@ -12,7 +12,7 @@ color:
     - '#7F604D'
 github: true
 layout_spectrum: 0.8956343111486202
-name: Christopher_DeRenzo
+name: Christopher_Reign_DeRenzo
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -21,9 +21,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: HVAC Controller
-    id: bfd3b7e1-5b56-40fc-a705-a711d1d63c13
-    type: content
   - name: Fan Manager
     id: 7a7d6469-6e83-4be7-ba92-54cbb823b881
     type: content
