@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-09-28T01:28:35.096Z'
+datePublished: '2017-09-28T01:38:25.352Z'
 authors: []
 description: '5-Tier Planters: rev.01'
 via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-09-28T01:28:33.749Z'
+dateModified: '2017-09-28T01:38:24.518Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 title: Garden Planters
 hasPage: true
@@ -21,6 +21,8 @@ _type: MediaObject
 
 5-Tier Planters: rev.01
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71480cd0-0c5a-4047-9b49-e81227ad801d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7eb300b-e60a-4787-a4be-2a9a7e636f54.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042a8a96-d895-401a-9878-48169c30d551.jpg)
 
 ---
 
@@ -40,7 +42,5 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc929e50-cc5d-4cc9-92ee-0e475366789f.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05c5ceec-fc36-4717-9bef-bc6269311895.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8542c5d8c12b3a7ebfe9c0474c4106c2418ffdff.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042a8a96-d895-401a-9878-48169c30d551.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7eb300b-e60a-4787-a4be-2a9a7e636f54.jpg)
 
 Some have said, "You over engineered it!" and I say to them, "I just did it the best I know how!"
