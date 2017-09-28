@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-28T00:53:31.546Z'
+datePublished: '2017-09-28T01:16:10.213Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: false
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-28T00:53:30.195Z'
+dateModified: '2017-09-28T01:16:08.503Z'
 title: Engineering Club (2015)
 publisher: {}
-description: Just having fun!
+description: Just having fun! SMC DIY Engineers Club
 inLanguage: null
 starred: false
 datePublishedOriginal: '2017-09-26T15:51:10.024Z'
@@ -21,7 +21,7 @@ _type: Blurb
 # Engineering Club (2015)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39fbf434f84b6a89bb7ffeed4f82e1b285f738aa.png)
 
-Just having fun!
+Just having fun! SMC DIY Engineers Club
 
 ---
 
@@ -60,3 +60,6 @@ Trebuchet!?!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/238612fa3de7094b793b858a2c2ef0859afc112e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d18b3d578d04043fdd8f250fe0348668309c12b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bcc0f1-fc18-4f2b-82bf-ecd5ea8c03d4.jpg)
+[Club website][0]
+
+[0]: https://sites.google.com/site/smcdiyengineersclub/
