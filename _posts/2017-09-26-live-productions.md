@@ -1,13 +1,9 @@
 ---
 inFeed: false
-description: >-
-  Live Productions - My work in the production world started in the club
-  industry but has spanned across all aspects of live entertainment and
-  recording studios. These productions usually required the complete setup and
-  tear down of:
-dateModified: '2017-09-26T19:06:54.611Z'
-datePublished: '2017-09-26T19:06:55.424Z'
-title: Live Productions
+description: ''
+dateModified: '2017-09-28T00:49:33.370Z'
+datePublished: '2017-09-28T00:49:34.220Z'
+title: Live Productions (1998 - 2007)
 author: []
 publisher: {}
 via: {}
@@ -19,7 +15,11 @@ url: live-productions/index.html
 _type: Blurb
 
 ---
+# Live Productions (1998 - 2007)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1aa1f43-c002-467a-992a-4ded5f7f6151.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3150ba6-c50a-417d-8b3a-38fe1aed4b5d.jpg)
 
 Live Productions - My work in the production world started in the club industry but has spanned across all aspects of live entertainment and recording studios. These productions usually required the complete setup and tear down of:
