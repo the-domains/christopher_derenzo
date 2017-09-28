@@ -1,14 +1,14 @@
 ---
-inFeed: true
-description: ''
-dateModified: '2017-09-27T21:54:23.387Z'
-datePublished: '2017-09-27T21:54:25.011Z'
-title: 'A/V Installations: (1998-2012)'
-author: []
 publisher: {}
+datePublished: '2017-09-28T01:24:17.997Z'
+dateModified: '2017-09-28T01:24:12.358Z'
+description: ''
 via: {}
-hasPage: true
 sourcePath: _posts/2017-09-27-av-installations.md
+title: 'A/V Installations: (1998-2012)'
+hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-09-27T18:53:36.661Z'
 url: av-installations/index.html
@@ -17,7 +17,6 @@ _type: Article
 ---
 # A/V Installations: (1998-2012)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/431233e4-b070-4cc1-a0e8-392b458066ea.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d029ab22-c1b4-4ff6-a96f-521b9ebca3d2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/080fe441-b875-433b-a175-8a775da66542.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f64a2dba-46e8-4cce-bbac-b1859eae4213.jpg)
 
