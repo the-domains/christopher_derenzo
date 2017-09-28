@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-09-28T01:28:33.622Z'
+datePublished: '2017-09-28T01:28:35.096Z'
 authors: []
 description: '5-Tier Planters: rev.01'
 via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-09-28T01:28:32.539Z'
+dateModified: '2017-09-28T01:28:33.749Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 title: Garden Planters
 hasPage: true
