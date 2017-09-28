@@ -1,29 +1,30 @@
 ---
-inFeed: false
-hasPage: true
-inLanguage: null
-keywords: []
-description: '5-Tier Planters: rev.01'
-datePublished: '2017-09-26T21:15:24.375Z'
-dateModified: '2017-09-26T21:15:23.493Z'
-title: Front View
-author:
-  - name: ''
-    url: ''
-sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
-via: {}
+datePublished: '2017-09-28T01:28:33.622Z'
 authors: []
+description: '5-Tier Planters: rev.01'
+via: {}
+keywords: []
+inFeed: false
 publisher: {}
+dateModified: '2017-09-28T01:28:32.539Z'
+sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
+title: Garden Planters
+hasPage: true
+author: []
 starred: false
 datePublishedOriginal: '2017-09-26T15:51:10.040Z'
 url: front-view/index.html
 _type: MediaObject
 
 ---
-5-Tier Planters: rev.01
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e873cca0edd02e915ebaf0e948edbef475abc01b.png)
+# Garden Planters
 
-**Garden Planters Project July 2016:**
+5-Tier Planters: rev.01
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71480cd0-0c5a-4047-9b49-e81227ad801d.jpg)
+
+---
+
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e873cca0edd02e915ebaf0e948edbef475abc01b.png)
 
 * 160' 2x8 lumber
 
@@ -41,6 +42,5 @@ _type: MediaObject
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8542c5d8c12b3a7ebfe9c0474c4106c2418ffdff.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042a8a96-d895-401a-9878-48169c30d551.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7eb300b-e60a-4787-a4be-2a9a7e636f54.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71480cd0-0c5a-4047-9b49-e81227ad801d.jpg)
 
 Some have said, "You over engineered it!" and I say to them, "I just did it the best I know how!"
