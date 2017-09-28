@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-09-28T00:50:15.947Z'
-datePublished: '2017-09-28T00:50:19.593Z'
+dateModified: '2017-09-28T00:50:19.772Z'
+datePublished: '2017-09-28T00:50:20.962Z'
 title: 'Project Management: (2008 - 2011)'
 author: []
 publisher: {}
