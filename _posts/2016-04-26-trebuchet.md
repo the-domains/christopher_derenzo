@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-26T22:11:19.062Z'
+datePublished: '2017-09-28T00:53:31.546Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: false
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-26T22:11:18.279Z'
-title: ''
+dateModified: '2017-09-28T00:53:30.195Z'
+title: Engineering Club (2015)
 publisher: {}
-description: Trebuchet!?!
+description: Just having fun!
 inLanguage: null
 starred: false
 datePublishedOriginal: '2017-09-26T15:51:10.024Z'
@@ -18,7 +18,7 @@ url: trebuchet/index.html
 _type: Blurb
 
 ---
-Trebuchet!?!
+# Engineering Club (2015)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39fbf434f84b6a89bb7ffeed4f82e1b285f738aa.png)
 
 Just having fun!
@@ -26,6 +26,8 @@ Just having fun!
 ---
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afc4bc4b0027619f082db19a3a0c8f7c53b8818f.jpg)
+
+Trebuchet!?!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac2fdfb63ad8f31fff08fa6c562086c24aa07e3f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/070c5d4b7da3c290a1e74c64678b7cd8c7c9235e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/25bb8056550c3d4cabd6ddb260b43c452eb47dbd.jpg)
