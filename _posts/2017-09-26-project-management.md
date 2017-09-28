@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: ''
-dateModified: '2017-09-28T00:50:19.772Z'
-datePublished: '2017-09-28T00:50:20.962Z'
+dateModified: '2017-09-28T01:32:36.765Z'
+datePublished: '2017-09-28T01:32:37.791Z'
 title: 'Project Management: (2008 - 2011)'
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-26T21:43:17.317Z'
 url: project-management/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Project Management: (2008 - 2011)
