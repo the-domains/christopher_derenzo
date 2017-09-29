@@ -1,18 +1,18 @@
 ---
-datePublished: '2017-09-29T22:51:38.012Z'
+datePublished: '2017-09-29T22:57:22.805Z'
 authors: []
 description: >-
   These planters were built for the purpose of maximizing the product yield in a
   medium sized space by providing a vertical growth environment for herbs and
-  vegetables. This design was based off of others found online that did not
-  accommodate this size space instead of the typical box style garden
+  vegetables. This design was based off of others found online and engineered
+  specifically for this space
 via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-09-29T22:51:37.127Z'
+dateModified: '2017-09-29T22:57:21.855Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
-title: Garden 5-Tier Planters (2016)
+title: Garden 5-Tier Planters (personal)(2016)
 hasPage: true
 author: []
 starred: false
@@ -21,9 +21,9 @@ url: front-view/index.html
 _type: MediaObject
 
 ---
-# Garden 5-Tier Planters (2016)
+# Garden 5-Tier Planters (personal)(2016)
 
-These planters were built for the purpose of maximizing the product yield in a medium sized space by providing a vertical growth environment for herbs and vegetables. This design was based off of others found online that did not accommodate this size space instead of the typical box style garden
+These planters were built for the purpose of maximizing the product yield in a medium sized space by providing a vertical growth environment for herbs and vegetables. This design was based off of others found online and engineered specifically for this space
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71480cd0-0c5a-4047-9b49-e81227ad801d.jpg)
 
 <article style=""><img src="http://www.burpee.com/dw/image/v2/ABAQ_PRD/on/demandware.static/-/Sites-masterCatalog_Burpee/default/dweedaac2d/Images/Product%20Images/prod022690/prod022690.jpg?sw=322&amp;sh=380&amp;sm=fit" /><h1>Plant Pyramid Raised Planters - Gardening Accessories at Burpee.com</h1><p>Short Description Unique tiered garden system. Full Description Now you can grow an entire garden in a very small space! The unique stacking design allows you to grow approximately 8 times more plants per square foot than a conventional garden.</p></article>
