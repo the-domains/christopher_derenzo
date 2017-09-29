@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T22:23:18.722Z'
+datePublished: '2017-09-29T22:23:21.572Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T22:23:17.928Z'
+dateModified: '2017-09-29T22:23:20.639Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
@@ -29,7 +29,7 @@ Follow this link for the original website of the SMC DIY Engineers Club 2015:
 
 Describing our initial teams plans to build an electric go-kart!
 
-<article style=""><img src="https://sites.google.com/site/smcdiyengineersclub/_/rsrc/1458452800484/home/caruthers-electric.jpg" /><h1>SMC DIY Engineers Club</h1><p>Follow the SMC DIY Engineers Club</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/af258e14934f65ed498abc0e501a055b/noop.jpg?input=https%3A%2F%2Fsites.google.com%2Fsite%2Fsmcdiyengineersclub%2F_%2Frsrc%2F1458452800484%2Fhome%2Fcaruthers-electric.jpg" /><h1>SMC DIY Engineers Club</h1><p>Follow the SMC DIY Engineers Club</p></article>
 
 I served as the president of the Engineering Club at SMC from Spring - Fall of 2015 to practice leadership, engineering and documentation!
 
