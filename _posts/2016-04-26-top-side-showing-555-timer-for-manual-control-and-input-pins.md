@@ -3,9 +3,11 @@ inFeed: true
 hasPage: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2017-09-29T22:45:24.738Z'
-dateModified: '2017-09-29T22:45:24.533Z'
+description: >-
+  Construction of ~11’ x 7’ x 2’ steel structure and installation of automated
+  controls that will communicate with an iOS application (SmartFinder 2011)
+datePublished: '2017-09-29T23:11:30.648Z'
+dateModified: '2017-09-29T23:11:29.858Z'
 title: 'Conveyor Type Electro-mechanical system: (2012)'
 author: []
 sourcePath: >-
@@ -20,11 +22,12 @@ _type: Article
 
 ---
 # Conveyor Type Electro-mechanical system: (2012)
+
+Construction of ~11' x 7' x 2' steel structure and installation of automated controls that will communicate with an iOS application (SmartFinder 2011)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e0dce6524d59a03744a16390603609a6e105da.jpg)
 
 ---
 
-Construction of ~11' x 7' x 2' steel structure and installation of automated controls that will communicate with an iOS application (SmartFinder 2011)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea636db3f5d2d03c782a155ba3c13b1f1ec3977.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed597fe34a1404ed5f3a56f16e5f78534ed4f5bc.jpg)
 
