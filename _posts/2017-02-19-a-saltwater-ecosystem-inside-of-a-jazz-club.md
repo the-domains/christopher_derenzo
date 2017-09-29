@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2017-09-29T22:46:03.408Z'
-dateModified: '2017-09-29T22:46:02.791Z'
-description: '350 Gal Aquarium with an A/V install:'
+datePublished: '2017-09-29T22:53:17.643Z'
+dateModified: '2017-09-29T22:53:16.727Z'
+description: 'Once you enter:'
 via: {}
 sourcePath: _posts/2017-02-19-a-saltwater-ecosystem-inside-of-a-jazz-club.md
-title: '350 Gal Saltwater Aquarium '
+title: 350 Gal Aquarium with an A/V install (2005)
 hasPage: true
 inFeed: false
 author: []
@@ -15,7 +15,7 @@ url: a-saltwater-ecosystem-inside-of-a-jazz-club/index.html
 _type: Blurb
 
 ---
-_350 Gal Aquarium with an A/V install:_
+# 350 Gal Aquarium with an A/V install (2005)
 ![and an A/V install](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d281a6d-e0ef-435f-8053-04d552db2ed8.jpg)
 
 _Once you enter:_
