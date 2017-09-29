@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T22:06:44.770Z'
+datePublished: '2017-09-29T22:51:38.012Z'
 authors: []
 description: >-
   These planters were built for the purpose of maximizing the product yield in a
@@ -10,9 +10,9 @@ via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-09-29T22:06:44.173Z'
+dateModified: '2017-09-29T22:51:37.127Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
-title: Garden 5-Tier Planters
+title: Garden 5-Tier Planters (2016)
 hasPage: true
 author: []
 starred: false
@@ -21,7 +21,7 @@ url: front-view/index.html
 _type: MediaObject
 
 ---
-# Garden 5-Tier Planters
+# Garden 5-Tier Planters (2016)
 
 These planters were built for the purpose of maximizing the product yield in a medium sized space by providing a vertical growth environment for herbs and vegetables. This design was based off of others found online that did not accommodate this size space instead of the typical box style garden
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71480cd0-0c5a-4047-9b49-e81227ad801d.jpg)
@@ -66,6 +66,6 @@ You could use a skill saw for these cuts buts don't expect 47-48º angle that a 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05c5ceec-fc36-4717-9bef-bc6269311895.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8542c5d8c12b3a7ebfe9c0474c4106c2418ffdff.png)
 
-To those that might say you over engineered it... 
+To those that might say you over engineered it...
 
 I enjoyed the practice and I think you will agree that the results were so worth it!
