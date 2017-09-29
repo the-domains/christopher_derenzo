@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Construction of ~11’ x 7’ x 2’ steel structure and installation of automated
   controls that will communicate with an iOS application (SmartFinder 2011)
-datePublished: '2017-09-29T23:45:53.900Z'
-dateModified: '2017-09-29T23:45:53.228Z'
+datePublished: '2017-09-29T23:46:44.623Z'
+dateModified: '2017-09-29T23:46:43.706Z'
 title: 'Conveyor Type Electro-mechanical system: (2012)'
 author: []
 sourcePath: >-
@@ -39,7 +39,7 @@ Construction of ~11' x 7' x 2' steel structure and installation of automated con
 
 **The Machine -** I was tasked with reverse engineering two previous prototypes, one made out of wood and the other made with lightweight metal, one had been programmed but neither functioned completely. I was asked to design a stronger machine for testing heavy loads over 2 tons and researching efficient methods to proceed past the prototyping stage. I made a plan to build a steel structure out of 2x4, 2x2, and 2" angle iron which could be bolted together for easier transportability and extended to 18' high after testing an 11' section. This was more durable in the end and provided me with a machine to test and gather data. I worked to develop smoother and more efficient operations on this version until limits were found. I initially set it up with manual operation of stepper motors, actuators, and solenoids with a custom built remote to control the unit until all of the clearances were in order. Then I built an automated system with an Arduino microprocessor and sensors that were installed all across the machine to detect those clearances and perform operations requested by the iOS device.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/bad62987925ac9856a98344f10d339d8/passthrough.png?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2a5d6605-bf37-49de-8b85-c791aa2b1d49.png&amp;width=640" /><h1>Smart-Finder (2011)</h1><p>I used Objective C, TBXML, HTTPRequest, CoreData, CoreGraphics, CoreLocation, CoreMedia, MessageUI, DragonMobile (speech kit), RedLaser (barcode scanner), and InAppSettingsKit for iOS 3, 4 and 5.</p></article>
+<article style=""><h1>Smart-Finder (2011)</h1><p>I used Objective C, TBXML, HTTPRequest, CoreData, CoreGraphics, CoreLocation, CoreMedia, MessageUI, DragonMobile (speech kit), RedLaser (barcode scanner), and InAppSettingsKit for iOS 3, 4 and 5.</p></article>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg)
 
