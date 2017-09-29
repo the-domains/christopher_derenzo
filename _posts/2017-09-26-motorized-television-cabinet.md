@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-29T22:43:13.128Z'
-dateModified: '2017-09-29T22:43:12.161Z'
+datePublished: '2017-09-29T22:51:07.624Z'
+dateModified: '2017-09-29T22:51:06.785Z'
 description: >-
   This was a motorized piece of furniture with the A/V equipment concealed
   behind the doors and a motorized television lift. Mr. Huskey requested a
@@ -10,7 +10,7 @@ description: >-
   move the television up through the counter top by the push of a button.
 via: {}
 sourcePath: _posts/2017-09-26-motorized-television-cabinet.md
-title: Woodworks 2005 - 2007
+title: Woodworks (2005 - 2007)
 hasPage: true
 inFeed: false
 author: []
@@ -20,7 +20,7 @@ url: motorized-television-cabinet/index.html
 _type: Blurb
 
 ---
-# Woodworks 2005 - 2007
+# Woodworks (2005 - 2007)
 ![Per spec this cabinet was my first custom built piece of home furniture](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f5e96e6-7810-4f92-8dad-cf1dcb2262be.jpg)
 
 This was a motorized piece of furniture with the A/V equipment concealed behind the doors and a motorized television lift. Mr. Huskey requested a "classic" design that blended with the existing bedroom furniture. The intention was to conceal all of the components fashionably and have a motor move the television up through the counter top by the push of a button.
