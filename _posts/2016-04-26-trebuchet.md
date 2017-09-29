@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T22:32:41.379Z'
+datePublished: '2017-09-29T22:34:43.245Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T22:32:40.510Z'
+dateModified: '2017-09-29T22:34:42.324Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
@@ -72,4 +72,4 @@ Trebuchet!?! This idea was requested from an Associated Students Officer to prov
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d18b3d578d04043fdd8f250fe0348668309c12b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bcc0f1-fc18-4f2b-82bf-ecd5ea8c03d4.jpg)
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9775918268399a4b14434334f9852bb961ea749.png" /><h1>Short Video:</h1></article>
+<article style=""><h1>New video by Reign cmderenzo</h1><img src="https://lh3.googleusercontent.com/drvBhf3Nf5lZ_AFB13lP8xba96B4XqpjqsS8RUFlIUhgbSpCcbl287P4vRY-4v7LQmbUwKSwK696dedA_bd1zyZp0iLfwZwiggzajA_AVxh_49jKkfWxXSvHCFSW4ODIJdAzS-wG_g=w600-h315-p-k-no" /></article>
