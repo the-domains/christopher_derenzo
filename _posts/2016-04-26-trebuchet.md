@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T22:23:21.572Z'
+datePublished: '2017-09-29T22:23:36.900Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T22:23:20.639Z'
+dateModified: '2017-09-29T22:23:36.146Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
