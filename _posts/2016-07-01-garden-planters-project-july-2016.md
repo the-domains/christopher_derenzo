@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T21:52:20.778Z'
+datePublished: '2017-09-29T21:52:26.487Z'
 authors: []
 description: >-
   These planters were built for the purpose of maximizing the product yield in a
@@ -10,7 +10,7 @@ via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-09-29T21:52:20.068Z'
+dateModified: '2017-09-29T21:52:25.797Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 title: Garden 5-Tier Planters
 hasPage: true
