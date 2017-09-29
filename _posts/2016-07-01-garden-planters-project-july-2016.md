@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T21:38:47.321Z'
+datePublished: '2017-09-29T21:46:22.966Z'
 authors: []
 description: >-
   These planters were built for the purpose of maximizing the product yield in a
@@ -10,9 +10,9 @@ via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-09-29T21:38:46.502Z'
+dateModified: '2017-09-29T21:46:21.929Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
-title: Garden Planters
+title: Garden 5-Tier Planters
 hasPage: true
 author: []
 starred: false
@@ -21,20 +21,18 @@ url: front-view/index.html
 _type: MediaObject
 
 ---
-# Garden Planters
+# Garden 5-Tier Planters
 
 These planters were built for the purpose of maximizing the product yield in a public space by providing a vertical growth environment for herbs and vegetables. This design was based off of others found online that did not accommodate this size space instead of the typical box style garden
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71480cd0-0c5a-4047-9b49-e81227ad801d.jpg)
 
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi8-8KOq8vWAhUY52MKHfsmDp4QjRwIBw&url=http%3A%2F%2Fwww.burpee.com%2Fgardening-supplies%2Fcontainers%2Fplant-pyramid-raised-planters-prod022690.html&psig=AFQjCNFC\_GH1fXPLmwsc\_O0bDhY5UzAP4A&ust=1506806823207414
+<article style=""><img src="http://www.burpee.com/dw/image/v2/ABAQ_PRD/on/demandware.static/-/Sites-masterCatalog_Burpee/default/dweedaac2d/Images/Product%20Images/prod022690/prod022690.jpg?sw=322&amp;sh=380&amp;sm=fit" /><h1>Plant Pyramid Raised Planters - Gardening Accessories at Burpee.com</h1><p>Short Description Unique tiered garden system. Full Description Now you can grow an entire garden in a very small space! The unique stacking design allows you to grow approximately 8 times more plants per square foot than a conventional garden.</p></article>
 
-5-Tier Planters
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042a8a96-d895-401a-9878-48169c30d551.jpg)
 
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwir1eCdq8vWAhVR5WMKHahzCqEQjRwIBw&url=https%3A%2F%2Fproject.theownerbuildernetwork.co%2F2014%2F06%2F20%2Fdiy-slot-together-pyramid-planter%2F&psig=AFQjCNFC\_GH1fXPLmwsc\_O0bDhY5UzAP4A&ust=1506806823207414
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7eb300b-e60a-4787-a4be-2a9a7e636f54.jpg)
+<article style=""><img src="https://project.theownerbuildernetwork.co/files/2014/06/PyramidPlanter1.jpg" /><h1>How To Make A Slot Together Pyramid Planter</h1><p>Pyramid planters are great for growing various plants especially if you don't have a lot of space in your garden or yard. It's very easy and cheap to make as it's made from recycled pallet timbers. All you need is an hour and a half and some basic woodworking skills.</p></article>
 
-https://www.houzz.com/product/53876800-raised-bed-cedar-planter-5-level-triolife-plant-pyramid-farmhouse-outdoor-pots-and-planters
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7eb300b-e60a-4787-a4be-2a9a7e636f54.jpg)
 
 ---
 
@@ -48,7 +46,7 @@ https://www.houzz.com/product/53876800-raised-bed-cedar-planter-5-level-triolife
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/369025f810ab0bc56b6ffca4ce9b32bdff5ff614.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51b55e9ee3185f9b00aaad377cfd38a1cb4beb7a.png)
 
-* The best tools for this job are 
+* The best tools for this job are
 * Framing Nail Gun (so much quicker!)
 * Framers Angle
 * Tape Measure
