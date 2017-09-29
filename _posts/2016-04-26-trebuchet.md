@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T22:35:45.792Z'
+datePublished: '2017-09-29T22:50:41.304Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T22:35:44.820Z'
+dateModified: '2017-09-29T22:50:40.325Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
@@ -24,6 +24,8 @@ _type: Article
 
 ---
 # Engineering Club (2015)
+
+---
 
 Follow this link for the original website of the SMC DIY Engineers Club 2015:
 
@@ -72,4 +74,4 @@ Trebuchet!?! This idea was requested from an Associated Students Officer to prov
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d18b3d578d04043fdd8f250fe0348668309c12b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bcc0f1-fc18-4f2b-82bf-ecd5ea8c03d4.jpg)
 
-<article style=""><img src="https://lh3.googleusercontent.com/drvBhf3Nf5lZ_AFB13lP8xba96B4XqpjqsS8RUFlIUhgbSpCcbl287P4vRY-4v7LQmbUwKSwK696dedA_bd1zyZp0iLfwZwiggzajA_AVxh_49jKkfWxXSvHCFSW4ODIJdAzS-wG_g=w600-h315-p-k-no" /><h1>Video by Reign</h1></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fbdf8759e6b636626753d7125a086744/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FdrvBhf3Nf5lZ_AFB13lP8xba96B4XqpjqsS8RUFlIUhgbSpCcbl287P4vRY-4v7LQmbUwKSwK696dedA_bd1zyZp0iLfwZwiggzajA_AVxh_49jKkfWxXSvHCFSW4ODIJdAzS-wG_g%3Dw600-h315-p-k-no" /><h1>Video by Reign</h1></article>
