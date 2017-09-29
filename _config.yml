@@ -34,11 +34,11 @@ navigation:
   - name: Engineering Club (2015)
     id: ced0d730-8c88-4ff9-a802-6cee41252a33
     type: content
-  - name: Smart-Finder (2011)
-    id: c7d61ddb-fd16-456b-8f7e-37e5e479b3b7
-    type: content
   - name: 'Prototype Conveyor System '
     id: 1f209584-44a1-4b7d-b779-7651be8b9c87
+    type: content
+  - name: Smart-Finder (2011)
+    id: c7d61ddb-fd16-456b-8f7e-37e5e479b3b7
     type: content
   - name: Project Management
     id: 20e0745b-98ec-4764-ba62-06e36abab3ea
