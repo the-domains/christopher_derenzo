@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Construction of ~11’ x 7’ x 2’ steel structure and installation of automated
   controls that will communicate with an iOS application (SmartFinder 2011)
-datePublished: '2017-09-29T23:11:30.648Z'
-dateModified: '2017-09-29T23:11:29.858Z'
+datePublished: '2017-09-29T23:28:40.843Z'
+dateModified: '2017-09-29T23:28:40.172Z'
 title: 'Conveyor Type Electro-mechanical system: (2012)'
 author: []
 sourcePath: >-
@@ -28,6 +28,8 @@ Construction of ~11' x 7' x 2' steel structure and installation of automated con
 
 ---
 
+<article style=""><img src="https://lh3.googleusercontent.com/OHd4OBDy36hqLnqVK4dawaz8m5-TA4D8IK6C9mwGsXSDEeRpGLaPSIFHkV5Szvgr70mLBGMK4WRHPTzAMvG1_rlnmGR2AqHTfAqB_kN2bm5eA5R9VJXOwL0K7-ryL9FtAs7puBPtog=w480-h315-p-k-no" /><h1>New video by Reign cmderenzo</h1></article>
+
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea636db3f5d2d03c782a155ba3c13b1f1ec3977.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed597fe34a1404ed5f3a56f16e5f78534ed4f5bc.jpg)
 
@@ -35,12 +37,12 @@ Construction of ~11' x 7' x 2' steel structure and installation of automated con
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1547d1d52a915d57d9c760d5602f16016cb0d5.jpg)
 
-**The Machine -** I was tasked with reverse engineering two previous prototypes, one made out of wood and the other made with lightweight metal, one had been programmed but neither functioned completely. I was asked to design stronger machine for testing and research to proceed past the prototyping stage. Both previous machines were much smaller than what the customer was looking for so I made a plan to build one structure which could be bolted together and extended to the 18' which was needed for the application. This was more durable in the end and provided us with the information we needed to proceed with engineering a solution capable of meeting the demands of the client. I worked to develop smoother and more efficient operations on this rendition. I initially set it up with manual operation of stepper motors, actuators, and solenoids with a custom built remote to control the unit until all of the clearances were in order. Then I built an automated system with an Arduino microprocessor and sensors that were installed all across the machine to detect those clearances and perform operations requested by the iOS device.
+**The Machine -** I was tasked with reverse engineering two previous prototypes, one made out of wood and the other made with lightweight metal, one had been programmed but neither functioned completely. I was asked to design a stronger machine for testing heavy loads over 2 tons and researching efficient methods to proceed past the prototyping stage. I made a plan to build a steel structure out of 2x4, 2x2, and 2" angle iron which could be bolted together for easier transportability and extended to 18' high after testing an 11' section. This was more durable in the end and provided me with a machine to test and gather data. I worked to develop smoother and more efficient operations on this version until limits were found. I initially set it up with manual operation of stepper motors, actuators, and solenoids with a custom built remote to control the unit until all of the clearances were in order. Then I built an automated system with an Arduino microprocessor and sensors that were installed all across the machine to detect those clearances and perform operations requested by the iOS device.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg)
 
 ---
 
-**Challenge \#1 - **Design and program a control board with a micro-controller to sense and operate multiple motors and solenoids to detect clearances and perform operations requested by a mobile device. Initially I had set the board up with additional relays for the manual operation of stepper motors, actuators, and solenoids. These were controlled with a wired remote to move the 3'x3'x2' metal boxes around a 18' tall structure to deliver items stored inside of the unit at the push of a button. The unit would automate the rotation of the boxes to deliver "the" box to one of two access panels in a two story building. These boxes were called through an iOS application (SmartFinder) which had the saved items organized inside a user defined database.
+Design and program a control board with a micro-controller to sense and operate multiple motors and solenoids to detect clearances and perform operations requested by a mobile device. Initially I had set the board up with additional relays for the manual operation of stepper motors, actuators, and solenoids. These were controlled with a wired remote to move the 3'x3'x2' metal boxes around a 18' tall structure to deliver items stored inside of the unit at the push of a button. The last stage in prototyping was to efficiently automate the rotation of the boxes to deliver "the" box to one of two access panels in a two story building. These boxes were called through an iOS application (SmartFinder) which had the recalled items from a user defined database.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddd84db5-66db-4c0d-9eaa-33482e00cf18.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ed17b6-b9aa-4a79-8fa7-f3be87d2b0dd.jpg)
 
