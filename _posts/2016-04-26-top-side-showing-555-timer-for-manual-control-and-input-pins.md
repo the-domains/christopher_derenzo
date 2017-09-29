@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-09-29T22:33:26.936Z'
-dateModified: '2017-09-29T22:33:26.226Z'
+datePublished: '2017-09-29T22:41:35.873Z'
+dateModified: '2017-09-29T22:41:34.439Z'
 title: 'Conveyor Type Electro-mechanical system: (2012)'
 author: []
 sourcePath: >-
@@ -28,7 +28,7 @@ Construction of ~11' x 7' x 2' steel structure and installation of automated con
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea636db3f5d2d03c782a155ba3c13b1f1ec3977.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed597fe34a1404ed5f3a56f16e5f78534ed4f5bc.jpg)
 
-> Combining the forces of steel and automation - I've created my first truly automated device from the ground up! 
+> Combining the forces of steel and automation - I've created my first monster! Bwuah HA HAHA!! 
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1547d1d52a915d57d9c760d5602f16016cb0d5.jpg)
 
