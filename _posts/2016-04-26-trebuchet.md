@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T22:23:36.900Z'
+datePublished: '2017-09-29T22:31:29.669Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T22:23:36.146Z'
+dateModified: '2017-09-29T22:31:28.465Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
@@ -31,13 +31,13 @@ Describing our initial teams plans to build an electric go-kart!
 
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/af258e14934f65ed498abc0e501a055b/noop.jpg?input=https%3A%2F%2Fsites.google.com%2Fsite%2Fsmcdiyengineersclub%2F_%2Frsrc%2F1458452800484%2Fhome%2Fcaruthers-electric.jpg" /><h1>SMC DIY Engineers Club</h1><p>Follow the SMC DIY Engineers Club</p></article>
 
-I served as the president of the Engineering Club at SMC from Spring - Fall of 2015 to practice leadership, engineering and documentation!
+I served as the president of the Engineering Club at SMC from Spring - Fall of 2015
 
 ---
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39fbf434f84b6a89bb7ffeed4f82e1b285f738aa.png)
 
-Trebuchet!?! This idea was request from the Associated Students Officers to provide a product that would compliment the Renaissance theme of Club Row this semester. Building a classic physics experiment out of spare materials found laying around was received well enough that this device won an award and found its way into the local paper.
+Trebuchet!?! This idea was requested from an Associated Students Officer to provide a device that would compliment the Renaissance theme of Club Row during the spring semester. Developing a classic physics experiment out of spare materials was received well enough that this device won an award and found its way into the local paper!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afc4bc4b0027619f082db19a3a0c8f7c53b8818f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac2fdfb63ad8f31fff08fa6c562086c24aa07e3f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/070c5d4b7da3c290a1e74c64678b7cd8c7c9235e.jpg)
