@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T23:00:39.476Z'
+datePublished: '2017-09-29T23:01:04.203Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T23:00:38.459Z'
+dateModified: '2017-09-29T23:01:03.278Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
@@ -24,6 +24,8 @@ _type: Article
 
 ---
 # Engineering Club (2015)
+
+---
 
 Follow this link for the original website of the SMC DIY Engineers Club 2015:
 
