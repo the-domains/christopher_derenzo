@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Construction of ~11’ x 7’ x 2’ steel structure and installation of automated
   controls that will communicate with an iOS application (SmartFinder 2011)
-datePublished: '2017-09-29T23:28:40.843Z'
-dateModified: '2017-09-29T23:28:40.172Z'
+datePublished: '2017-09-29T23:29:45.386Z'
+dateModified: '2017-09-29T23:29:44.610Z'
 title: 'Conveyor Type Electro-mechanical system: (2012)'
 author: []
 sourcePath: >-
@@ -28,7 +28,7 @@ Construction of ~11' x 7' x 2' steel structure and installation of automated con
 
 ---
 
-<article style=""><img src="https://lh3.googleusercontent.com/OHd4OBDy36hqLnqVK4dawaz8m5-TA4D8IK6C9mwGsXSDEeRpGLaPSIFHkV5Szvgr70mLBGMK4WRHPTzAMvG1_rlnmGR2AqHTfAqB_kN2bm5eA5R9VJXOwL0K7-ryL9FtAs7puBPtog=w480-h315-p-k-no" /><h1>New video by Reign cmderenzo</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f344d2720a80bd69ef4128c882a781c85e0bc007" /><h1>New video by Reign cmderenzo</h1></article>
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea636db3f5d2d03c782a155ba3c13b1f1ec3977.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed597fe34a1404ed5f3a56f16e5f78534ed4f5bc.jpg)
@@ -38,6 +38,9 @@ Construction of ~11' x 7' x 2' steel structure and installation of automated con
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1547d1d52a915d57d9c760d5602f16016cb0d5.jpg)
 
 **The Machine -** I was tasked with reverse engineering two previous prototypes, one made out of wood and the other made with lightweight metal, one had been programmed but neither functioned completely. I was asked to design a stronger machine for testing heavy loads over 2 tons and researching efficient methods to proceed past the prototyping stage. I made a plan to build a steel structure out of 2x4, 2x2, and 2" angle iron which could be bolted together for easier transportability and extended to 18' high after testing an 11' section. This was more durable in the end and provided me with a machine to test and gather data. I worked to develop smoother and more efficient operations on this version until limits were found. I initially set it up with manual operation of stepper motors, actuators, and solenoids with a custom built remote to control the unit until all of the clearances were in order. Then I built an automated system with an Arduino microprocessor and sensors that were installed all across the machine to detect those clearances and perform operations requested by the iOS device.
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/bad62987925ac9856a98344f10d339d8/passthrough.png?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2a5d6605-bf37-49de-8b85-c791aa2b1d49.png&amp;width=640" /><h1>Smart-Finder (2011)</h1><p>I used Objective C, TBXML, HTTPRequest, CoreData, CoreGraphics, CoreLocation, CoreMedia, MessageUI, DragonMobile (speech kit), RedLaser (barcode scanner), and InAppSettingsKit for iOS 3, 4 and 5.</p></article>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg)
 
 ---
