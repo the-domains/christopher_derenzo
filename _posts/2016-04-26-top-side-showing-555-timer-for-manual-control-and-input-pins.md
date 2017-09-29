@@ -4,9 +4,9 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-09-29T22:26:22.319Z'
-dateModified: '2017-09-29T22:26:21.355Z'
-title: Prototypes
+datePublished: '2017-09-29T22:33:26.936Z'
+dateModified: '2017-09-29T22:33:26.226Z'
+title: 'Conveyor Type Electro-mechanical system: (2012)'
 author: []
 sourcePath: >-
   _posts/2016-04-26-top-side-showing-555-timer-for-manual-control-and-input-pins.md
@@ -19,10 +19,8 @@ url: prototype-board/index.html
 _type: Article
 
 ---
-## Prototypes
+# Conveyor Type Electro-mechanical system: (2012)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e0dce6524d59a03744a16390603609a6e105da.jpg)
-
-## Conveyor Type Electro-mechanical system: (2012)
 
 ---
 
