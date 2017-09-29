@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T21:46:22.966Z'
+datePublished: '2017-09-29T21:52:14.487Z'
 authors: []
 description: >-
   These planters were built for the purpose of maximizing the product yield in a
@@ -10,7 +10,7 @@ via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-09-29T21:46:21.929Z'
+dateModified: '2017-09-29T21:52:13.624Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 title: Garden 5-Tier Planters
 hasPage: true
@@ -30,7 +30,7 @@ These planters were built for the purpose of maximizing the product yield in a p
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/042a8a96-d895-401a-9878-48169c30d551.jpg)
 
-<article style=""><img src="https://project.theownerbuildernetwork.co/files/2014/06/PyramidPlanter1.jpg" /><h1>How To Make A Slot Together Pyramid Planter</h1><p>Pyramid planters are great for growing various plants especially if you don't have a lot of space in your garden or yard. It's very easy and cheap to make as it's made from recycled pallet timbers. All you need is an hour and a half and some basic woodworking skills.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c413b4548b3309a111abe35b312b3c9e/noop.jpg?input=https%3A%2F%2Fproject.theownerbuildernetwork.co%2Ffiles%2F2014%2F06%2FPyramidPlanter1.jpg" /><h1>How To Make A Slot Together Pyramid Planter</h1><p>Pyramid planters are great for growing various plants especially if you don't have a lot of space in your garden or yard. It's very easy and cheap to make as it's made from recycled pallet timbers. All you need is an hour and a half and some basic woodworking skills.</p></article>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7eb300b-e60a-4787-a4be-2a9a7e636f54.jpg)
 
@@ -38,19 +38,19 @@ These planters were built for the purpose of maximizing the product yield in a p
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e873cca0edd02e915ebaf0e948edbef475abc01b.png)
 
+**Materials**:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d079104c-0026-4dad-af0c-b3dfc3838755.png)
+
 * 160' 2x8 lumber
 
 * 13' 4x4's
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0af1b5593d88b3696bdae9dcf736c03d01002198.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d079104c-0026-4dad-af0c-b3dfc3838755.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/369025f810ab0bc56b6ffca4ce9b32bdff5ff614.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51b55e9ee3185f9b00aaad377cfd38a1cb4beb7a.png)
 
 * The best tools for this job are
 * Framing Nail Gun (so much quicker!)
-* Framers Angle
-* Tape Measure
-* Most importantly - Radial Arm Saw - Because of the following angle:
+* Framers Angle @ Tape Measure
+* **Most importantly** - Radial Arm Saw - Because of the following angle:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c581f9d-c882-45db-be41-47d20cf7c651.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b056123-4fc6-4b03-a479-0db5c4bb3b3c.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd48ee74832c6e3f7dad86764e458c6ce71bbaab.png)
@@ -59,4 +59,6 @@ These planters were built for the purpose of maximizing the product yield in a p
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05c5ceec-fc36-4717-9bef-bc6269311895.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8542c5d8c12b3a7ebfe9c0474c4106c2418ffdff.png)
 
-Some have said, "You over engineered it!" and I say to them, "I just did it the best I know how!"
+To those that might say you did to much... 
+
+I gave it my best and the results were so worth it!
