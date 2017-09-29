@@ -1,13 +1,13 @@
 ---
-datePublished: '2017-09-29T23:01:49.686Z'
+datePublished: '2017-09-29T23:02:06.603Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T23:01:37.037Z'
+dateModified: '2017-09-29T23:02:05.461Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
@@ -18,22 +18,18 @@ publisher:
 description: 'Follow this link for the original website of the SMC DIY Engineers Club 2015:'
 inLanguage: null
 starred: false
-datePublishedOriginal: '2017-09-29T23:01:49.686Z'
+datePublishedOriginal: '2017-09-26T15:51:10.024Z'
 url: engineering-club-2015/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Engineering Club (2015)
-
----
 
 Follow this link for the original website of the SMC DIY Engineers Club 2015:
 
 Describing our initial teams plans to build an electric go-kart!
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3d65efcb9dc57c1a1737b5870d04b72ef631eb1.jpg" /><h1>SMC DIY Engineers Club</h1><p>Follow the SMC DIY Engineers Club</p></article>
-
----
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dadd4031c3ab970f6e3f338d5a6be6cdf7960a96" /><h1>Video by Reign</h1></article>
 
@@ -71,6 +67,10 @@ Describing our initial teams plans to build an electric go-kart!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/238612fa3de7094b793b858a2c2ef0859afc112e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d18b3d578d04043fdd8f250fe0348668309c12b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bcc0f1-fc18-4f2b-82bf-ecd5ea8c03d4.jpg)
+
+---
+
+---
 
 ---
 
