@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T22:31:40.434Z'
+datePublished: '2017-09-29T22:32:41.379Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T22:31:39.803Z'
+dateModified: '2017-09-29T22:32:40.510Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
@@ -71,6 +71,5 @@ Trebuchet!?! This idea was requested from an Associated Students Officer to prov
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/238612fa3de7094b793b858a2c2ef0859afc112e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d18b3d578d04043fdd8f250fe0348668309c12b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bcc0f1-fc18-4f2b-82bf-ecd5ea8c03d4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec1e5067-54e5-4273-8e69-a8abc44c1dc7.mov)
 
-<article style=""><h1>Sign in - Google Accounts</h1><img src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9775918268399a4b14434334f9852bb961ea749.png" /><h1>Short Video:</h1></article>
