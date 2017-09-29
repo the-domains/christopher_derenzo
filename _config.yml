@@ -25,7 +25,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Pyramid Planters
+  - name: Pyramid Planters (2016)
     id: 505e97ca-27c7-49eb-b53a-5db6e455cb6e
     type: content
   - name: Fan Manager (2015)
