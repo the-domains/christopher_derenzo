@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-28T01:36:59.232Z'
-dateModified: '2017-09-28T01:36:58.249Z'
+datePublished: '2017-09-29T21:17:31.856Z'
+dateModified: '2017-09-29T21:17:30.883Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-09-27-av-installations.md
