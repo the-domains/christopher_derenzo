@@ -46,14 +46,14 @@ navigation:
   - name: AV Installations (1998-2013)
     id: e44a6ae4-18fb-4707-aa9c-2a4d09e3bcff
     type: content
-  - name: Live Productions (1998 - 2007)
-    id: fa106f05-bd7b-45dd-99c7-9e2c0bd6a239
-    type: content
   - name: Woodwork (2005 - 2007)
     id: 6d50d805-0c61-49d1-86a8-b20c274aa973
     type: content
   - name: Saltwater Aquarium (2005)
     id: 3b4268e7-e18b-4ad8-8b2e-e35864c171f3
+    type: content
+  - name: Live Productions (1998 - 2007)
+    id: fa106f05-bd7b-45dd-99c7-9e2c0bd6a239
     type: content
 title: Christopher Reign DeRenzo
 content:
