@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-28T01:35:53.241Z'
+datePublished: '2017-09-29T22:23:18.722Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,9 +7,14 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-28T01:35:51.865Z'
+dateModified: '2017-09-29T22:23:17.928Z'
 title: Engineering Club (2015)
-publisher: {}
+publisher:
+  url: 'https://sites.google.com'
+  name: Google
+  favicon: >-
+    https://sites.google.com/site/smcdiyengineersclub/_/rsrc/1458452800477/favicon.ico
+  domain: sites.google.com
 description: 'Follow this link for the original website of the SMC DIY Engineers Club 2015:'
 inLanguage: null
 starred: false
@@ -21,15 +26,18 @@ _type: Article
 # Engineering Club (2015)
 
 Follow this link for the original website of the SMC DIY Engineers Club 2015:
-[SMC DIY Engineers Club Website][0]
 
-Just having fun!
+Describing our initial teams plans to build an electric go-kart!
+
+<article style=""><img src="https://sites.google.com/site/smcdiyengineersclub/_/rsrc/1458452800484/home/caruthers-electric.jpg" /><h1>SMC DIY Engineers Club</h1><p>Follow the SMC DIY Engineers Club</p></article>
+
+I served as the president of the Engineering Club at SMC from Spring - Fall of 2015 to practice leadership, engineering and documentation!
 
 ---
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39fbf434f84b6a89bb7ffeed4f82e1b285f738aa.png)
 
-Trebuchet!?!
+Trebuchet!?! This idea was request from the Associated Students Officers to provide a product that would compliment the Renaissance theme of Club Row this semester. Building a classic physics experiment out of spare materials found laying around was received well enough that this device won an award and found its way into the local paper.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afc4bc4b0027619f082db19a3a0c8f7c53b8818f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac2fdfb63ad8f31fff08fa6c562086c24aa07e3f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/070c5d4b7da3c290a1e74c64678b7cd8c7c9235e.jpg)
@@ -63,5 +71,4 @@ Trebuchet!?!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/238612fa3de7094b793b858a2c2ef0859afc112e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d18b3d578d04043fdd8f250fe0348668309c12b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bcc0f1-fc18-4f2b-82bf-ecd5ea8c03d4.jpg)
-
-[0]: https://sites.google.com/site/smcdiyengineersclub/
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec1e5067-54e5-4273-8e69-a8abc44c1dc7.mov)
