@@ -6,8 +6,8 @@ keywords: []
 description: >-
   Construction of ~11’ x 7’ x 2’ steel structure and installation of automated
   controls that will communicate with an iOS application (SmartFinder 2011)
-datePublished: '2017-09-29T23:29:45.386Z'
-dateModified: '2017-09-29T23:29:44.610Z'
+datePublished: '2017-09-29T23:45:53.900Z'
+dateModified: '2017-09-29T23:45:53.228Z'
 title: 'Conveyor Type Electro-mechanical system: (2012)'
 author: []
 sourcePath: >-
