@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T23:02:38.586Z'
+datePublished: '2017-09-29T23:02:43.665Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T23:02:37.587Z'
+dateModified: '2017-09-29T23:02:42.427Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
@@ -32,6 +32,8 @@ Follow this link for the original website of the SMC DIY Engineers Club 2015:
 Describing our initial teams plans to build an electric go-kart!
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3d65efcb9dc57c1a1737b5870d04b72ef631eb1.jpg" /><h1>SMC DIY Engineers Club</h1><p>Follow the SMC DIY Engineers Club</p></article>
+
+---
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dadd4031c3ab970f6e3f338d5a6be6cdf7960a96" /><h1>Video by Reign</h1></article>
 
