@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T22:31:29.669Z'
+datePublished: '2017-09-29T22:31:37.657Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-29T22:31:28.465Z'
+dateModified: '2017-09-29T22:31:36.794Z'
 title: Engineering Club (2015)
 publisher:
   url: 'https://sites.google.com'
@@ -29,7 +29,7 @@ Follow this link for the original website of the SMC DIY Engineers Club 2015:
 
 Describing our initial teams plans to build an electric go-kart!
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/af258e14934f65ed498abc0e501a055b/noop.jpg?input=https%3A%2F%2Fsites.google.com%2Fsite%2Fsmcdiyengineersclub%2F_%2Frsrc%2F1458452800484%2Fhome%2Fcaruthers-electric.jpg" /><h1>SMC DIY Engineers Club</h1><p>Follow the SMC DIY Engineers Club</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3d65efcb9dc57c1a1737b5870d04b72ef631eb1.jpg" /><h1>SMC DIY Engineers Club</h1><p>Follow the SMC DIY Engineers Club</p></article>
 
 I served as the president of the Engineering Club at SMC from Spring - Fall of 2015
 
@@ -72,3 +72,5 @@ Trebuchet!?! This idea was requested from an Associated Students Officer to prov
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d18b3d578d04043fdd8f250fe0348668309c12b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bcc0f1-fc18-4f2b-82bf-ecd5ea8c03d4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec1e5067-54e5-4273-8e69-a8abc44c1dc7.mov)
+
+<article style=""><h1>Sign in - Google Accounts</h1><img src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png" /></article>
