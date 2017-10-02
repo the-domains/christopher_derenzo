@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-02T21:41:33.499Z'
-datePublished: '2017-10-02T21:41:34.383Z'
+dateModified: '2017-10-02T21:49:24.795Z'
+datePublished: '2017-10-02T21:49:26.072Z'
 title: 'Project Management: (2008 - 2011)'
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 
-This Building is located in the heart of Century City, CA and stands 42 stories tall. It was a four year plan with three underground parking levels, two amenity floors and forty residential floors. My responsibility was to lead teams to install conduit, Carlon(r) flexible raceway tubing and low-voltage cabling as the backbone for all telecommunications to demarcation points throughout the structure. I worked closely with other trades to accomplish these tasks and coordinate with my teams to follow the schedule provided by the developer. I maintained/ modified plans to connect Carlon tubing to DMARC's throughout the entire building while compiling as built documentation for the developer and future tenants. The buildings common areas included: a theater, pool, gym, gardens and lobbies where we installed a Crestron controlled system to provide communications and entertainment for these amenities.
+This building is located in the heart of Century City and stands 42 stories tall. It was a four year project with three underground parking levels, two amenity floors and 39 residential floors. My responsibility was to lead teams to install conduit, Carlon(r) flexible raceway tubing and low-voltage cabling for telecommunications, environmental and AV systems to centrally distributed network centers throughout the structure. I worked closely with other trades to accomplish these tasks and coordinate my teams efforts to follow the schedule provided by the developer. I maintained/ modified plans while compiling as built documentation for the developer and future tenants. The buildings common areas included: a theater, pool, gym, gardens and lobbies where we integrated a custom automated control system with user interfaces and components to provide communication of environment and entertainment devices for these amenities.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8412b32f-101a-42eb-ab28-a29629cc3f4f.jpg)
 
 Conduit was run through concrete to conceal our cables for the installation...
@@ -33,14 +33,14 @@ Conduit was run through concrete to conceal our cables for the installation...
 Spools and spools of Carlon tubing were deliver and installed in 42 stories of floors, walls and ceilings...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21ecc641-35ab-4292-8296-ff240be017fc.jpg)
 
-As the concrete was poured, we worked our way up each floor of the building along side each of the contractors to future proof the entire building.
+As the concrete was poured, we worked our way up each floor of the building along side each of the contractors to future proof the building with conduit tubing.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e312d3f6-f781-4b0c-8633-a1f179a67ed4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c1020be-f348-495c-a7b9-252ec7a13f11.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56bfbd5c-3436-44a5-8fc1-8af137e3db2a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ad1b89-3f5e-4a9a-a3ca-ae6ac57f4d10.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ca3653f-10c3-4d36-88a6-01760481ad8b.jpg)
 
-Of course amenities were covered for future tenants.
+Of course amenities were provided for future tenants.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d2d5456-5467-490d-916d-674103a01a47.jpg)
 
 Complete with a custom theater.
