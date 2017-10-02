@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-02T21:51:33.398Z'
-datePublished: '2017-10-02T21:51:34.233Z'
+dateModified: '2017-10-02T22:00:34.252Z'
+datePublished: '2017-10-02T22:00:43.348Z'
 title: 'Project Management: (2008 - 2011)'
 author: []
 publisher: {}
@@ -52,7 +52,7 @@ Custom-built projector enclosure.
 In the Penthouses we installed Stealth Acoustics(r) invisible speakers throughout all of the rooms and ran plenum rated: fiber, Cresnet(r) and other cables for home technologies based on the customers specific needs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daa4e605-9e22-408f-b818-c9cf2cc2d8ec.jpg)
 
-Once the last floor was completed, we then moved in to the installation phase which meant we had ramp down on one part of the project and ramp up on another.
+Once the last floor was completed, we then moved in to the installation phase which meant we had ramp down on rough work and ramp on the finishing details.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d2d5456-5467-490d-916d-674103a01a47.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/455c616b-765b-41e4-99a9-c275cdd10a9d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f4136c6-66b7-480c-ac1b-b212c538e6ae.jpg)
