@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-02T21:49:27.150Z'
-datePublished: '2017-10-02T21:49:29.273Z'
+dateModified: '2017-10-02T21:51:33.398Z'
+datePublished: '2017-10-02T21:51:34.233Z'
 title: 'Project Management: (2008 - 2011)'
 author: []
 publisher: {}
@@ -41,7 +41,6 @@ As the concrete was poured, we worked our way up each floor of the building alon
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ca3653f-10c3-4d36-88a6-01760481ad8b.jpg)
 
 Of course amenities were provided for future tenants.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d2d5456-5467-490d-916d-674103a01a47.jpg)
 
 Complete with a custom theater.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/928f5f2a-05ca-4a7d-a5e4-8a526a89622f.jpg)
@@ -53,7 +52,8 @@ Custom-built projector enclosure.
 In the Penthouses we installed Stealth Acoustics(r) invisible speakers throughout all of the rooms and ran plenum rated: fiber, Cresnet(r) and other cables for home technologies based on the customers specific needs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daa4e605-9e22-408f-b818-c9cf2cc2d8ec.jpg)
 
-Once the last floor was completed, we then moved in to the installation phase which ment we had to scale down the forces till tenants actually started to move in.
+Once the last floor was completed, we then moved in to the installation phase which meant we had ramp down on one part of the project and ramp up on another.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d2d5456-5467-490d-916d-674103a01a47.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/455c616b-765b-41e4-99a9-c275cdd10a9d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f4136c6-66b7-480c-ac1b-b212c538e6ae.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/549e14cb-7d62-491d-909b-f327da156be2.jpg)
