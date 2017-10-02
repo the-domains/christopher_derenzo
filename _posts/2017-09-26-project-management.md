@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-02T21:40:30.343Z'
-datePublished: '2017-10-02T21:40:31.480Z'
+dateModified: '2017-10-02T21:41:33.499Z'
+datePublished: '2017-10-02T21:41:34.383Z'
 title: 'Project Management: (2008 - 2011)'
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 
-This Building is located in the heart of Century City, CA and stands 42 stories tall. It was a four year plan with three underground parking levels, two amenity floors and forty residential floors. My responsibility was to lead teams to install conduit, Carlon(r) flexible raceway tubing and low-voltage cabling as the backbone for all telecommunications to demarcation points throughout the structure. I worked closely with other trades to accomplish these tasks and coordinate with my teams to maintain a rigorous yet obtainable schedule. I maintained/ modified plans to connect Carlon tubing to DMARC's throughout the entire building while compiling as built documentation for the developer and future tenants. The buildings common areas included: a theater, pool, gym, gardens and lobbies where we installed a Crestron controlled system to provide communications and entertainment for these amenities.
+This Building is located in the heart of Century City, CA and stands 42 stories tall. It was a four year plan with three underground parking levels, two amenity floors and forty residential floors. My responsibility was to lead teams to install conduit, Carlon(r) flexible raceway tubing and low-voltage cabling as the backbone for all telecommunications to demarcation points throughout the structure. I worked closely with other trades to accomplish these tasks and coordinate with my teams to follow the schedule provided by the developer. I maintained/ modified plans to connect Carlon tubing to DMARC's throughout the entire building while compiling as built documentation for the developer and future tenants. The buildings common areas included: a theater, pool, gym, gardens and lobbies where we installed a Crestron controlled system to provide communications and entertainment for these amenities.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8412b32f-101a-42eb-ab28-a29629cc3f4f.jpg)
 
 Conduit was run through concrete to conceal our cables for the installation...
