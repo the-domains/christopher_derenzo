@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-29T23:05:22.999Z'
+datePublished: '2017-10-06T06:07:43.111Z'
 authors: []
 description: >-
   These planters were built for the purpose of maximizing the product yield in a
@@ -10,7 +10,7 @@ via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-09-29T23:05:22.350Z'
+dateModified: '2017-10-06T06:07:42.193Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 title: Garden 5-Tier Planters (personal)(2016)
 hasPage: true
@@ -51,15 +51,14 @@ These plans were completed in Solidworks for others to build there own!
 
 Measure twice cut once!
 
-**Tools:**
+**The best tools for this job are:**
 
-* The best tools for this job are
 * Framing Nail Gun (so much quicker!)
 * Framers Angle @ Tape Measure
 * **Most importantly** - Radial Arm Saw - Because of the following 47.69º angle:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51b55e9ee3185f9b00aaad377cfd38a1cb4beb7a.png)
 
-You could use a skill saw for these cuts buts don't expect 47-48º angle that a radial arm saw can provide. I believe revision 2 will correct this!
+You could use a skill saw for these cuts buts don't expect 47-48º angle that a radial arm saw can provide. I would like to think that revision 2 will correct this!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c581f9d-c882-45db-be41-47d20cf7c651.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b056123-4fc6-4b03-a479-0db5c4bb3b3c.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd48ee74832c6e3f7dad86764e458c6ce71bbaab.png)
