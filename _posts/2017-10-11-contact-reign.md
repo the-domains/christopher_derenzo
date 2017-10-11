@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: Contact Reign
-dateModified: '2017-10-11T19:05:15.733Z'
-datePublished: '2017-10-11T19:05:16.317Z'
+dateModified: '2017-10-11T19:05:44.078Z'
+datePublished: '2017-10-11T19:05:44.785Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-10-11-contact-reign.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-11T19:05:16.317Z'
-sourcePath: _posts/2017-10-11-contact-reign.md
-_type: Blurb
+url: contact-reign/index.html
+_type: Article
 
 ---
 Contact Reign
