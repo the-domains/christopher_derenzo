@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-29T22:51:07.624Z'
-dateModified: '2017-09-29T22:51:06.785Z'
+datePublished: '2017-10-11T19:22:20.772Z'
+dateModified: '2017-10-11T19:22:19.956Z'
 description: >-
   This was a motorized piece of furniture with the A/V equipment concealed
   behind the doors and a motorized television lift. Mr. Huskey requested a
