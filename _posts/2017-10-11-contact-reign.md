@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Contact Reign
-dateModified: '2017-10-11T19:05:44.078Z'
-datePublished: '2017-10-11T19:05:44.785Z'
+dateModified: '2017-10-11T19:22:19.956Z'
+datePublished: '2017-10-11T19:22:20.730Z'
 title: ''
 author: []
 publisher: {}
