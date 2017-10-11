@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-09-28T00:49:33.370Z'
-datePublished: '2017-09-28T00:49:34.220Z'
+dateModified: '2017-10-11T19:22:19.956Z'
+datePublished: '2017-10-11T19:22:20.734Z'
 title: Live Productions (1998 - 2007)
 author: []
 publisher: {}
