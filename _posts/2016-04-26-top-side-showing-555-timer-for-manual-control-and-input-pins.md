@@ -1,20 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inLanguage: null
-keywords: []
+datePublished: '2017-10-12T02:42:54.092Z'
+authors: []
 description: >-
   Construction of ~11’ x 7’ x 2’ steel structure and installation of automated
   controls that will communicate with an iOS application (SmartFinder 2011)
-datePublished: '2017-09-29T23:46:44.623Z'
-dateModified: '2017-09-29T23:46:43.706Z'
-title: 'Conveyor Type Electro-mechanical system: (2012)'
-author: []
+via: {}
+keywords: []
+inFeed: true
+publisher: {}
+dateModified: '2017-10-12T02:42:48.723Z'
 sourcePath: >-
   _posts/2016-04-26-top-side-showing-555-timer-for-manual-control-and-input-pins.md
-authors: []
-publisher: {}
-via: {}
+title: 'Conveyor Type Electro-mechanical system: (2012)'
+hasPage: true
+author: []
 starred: false
 datePublishedOriginal: '2017-09-26T15:50:51.780Z'
 url: prototype-board/index.html
@@ -62,3 +61,4 @@ Next stop, SMD's on printed circuit boards!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3e994e2-ae4b-4dfd-9852-e7650848f26b.jpg)
 
 This was my "throw back" for a bit of nostalgia!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3eccc88-d0ab-4eaf-a16b-a84e6da70fb3.png)
