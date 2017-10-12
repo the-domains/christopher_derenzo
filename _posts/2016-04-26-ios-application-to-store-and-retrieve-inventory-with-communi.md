@@ -1,21 +1,20 @@
 ---
-inFeed: true
-hasPage: true
-inLanguage: null
-keywords: []
+datePublished: '2017-10-12T02:43:15.616Z'
+authors: []
 description: >-
   An iOS Application to store information with the help of any/all iOS sensors
   to identify quantity or communicate with a machine that would retrieve called
   for inventory.
-datePublished: '2017-09-29T23:50:55.317Z'
-dateModified: '2017-09-29T23:50:53.591Z'
-title: Smart-Finder (2011)
-author: []
+via: {}
+keywords: []
+inFeed: true
+publisher: {}
+dateModified: '2017-10-12T02:43:09.647Z'
 sourcePath: >-
   _posts/2016-04-26-ios-application-to-store-and-retrieve-inventory-with-communi.md
-authors: []
-publisher: {}
-via: {}
+title: Smart-Finder (2011)
+hasPage: true
+author: []
 starred: false
 datePublishedOriginal: '2017-09-26T15:51:10.035Z'
 url: an-ios-application-to-integrate-with-the-machine/index.html
