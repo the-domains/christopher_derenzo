@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-11T19:22:20.817Z'
-dateModified: '2017-10-11T19:22:19.956Z'
+datePublished: '2017-10-18T21:23:42.123Z'
+dateModified: '2017-10-18T21:23:41.444Z'
 description: and an A/V install
 via: {}
 sourcePath: _posts/2017-02-19-a-saltwater-ecosystem-inside-of-a-jazz-club.md
@@ -72,3 +72,5 @@ I hand crafted the steel TV mounts and speaker mounts for the subs to be located
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92745f4c-3142-4dc9-9f08-27679cdf20b8.jpg)
 
 What fun this was to make!
+
+---
