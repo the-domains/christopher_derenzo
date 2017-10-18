@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-11T19:22:21.093Z'
-dateModified: '2017-10-11T19:22:19.956Z'
+datePublished: '2017-10-18T21:22:48.466Z'
+dateModified: '2017-10-18T21:22:46.800Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-09-27-av-installations.md
@@ -52,3 +52,5 @@ I have more than a "can-do" attitude, I have a "will-do" attitude!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c21ebc6-088f-46ed-bb4b-fdd38d553f99.jpg)
 
 and I take pride in my work!
+
+---
