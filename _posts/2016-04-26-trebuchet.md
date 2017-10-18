@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-10-18T21:21:25.772Z'
+datePublished: '2017-10-18T21:25:32.545Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-10-18T21:21:24.698Z'
+dateModified: '2017-10-18T21:25:31.453Z'
 title: Engineering Club (2015)
 publisher: {}
 description: Served as president of the SMC DIY Engineers Club from Spring to Fall of 2015
@@ -33,6 +33,8 @@ Follow this link for the original website of the SMC DIY Engineers Club 2015:
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39fbf434f84b6a89bb7ffeed4f82e1b285f738aa.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afc4bc4b0027619f082db19a3a0c8f7c53b8818f.jpg)
+
+Trebuchet!?! This idea was requested from an Associated Students Officer to provide a device that would compliment the Renaissance theme of Club Row during the spring semester. Developing a classic physics experiment out of spare materials was received well enough that this device won an award and found its way into the local paper!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac2fdfb63ad8f31fff08fa6c562086c24aa07e3f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/070c5d4b7da3c290a1e74c64678b7cd8c7c9235e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/25bb8056550c3d4cabd6ddb260b43c452eb47dbd.jpg)
@@ -81,9 +83,5 @@ Follow this link for the original website of the SMC DIY Engineers Club 2015:
 ---
 
 I served as the president of the Engineering Club at SMC from Spring - Fall of 2015
-
----
-
-Trebuchet!?! This idea was requested from an Associated Students Officer to provide a device that would compliment the Renaissance theme of Club Row during the spring semester. Developing a classic physics experiment out of spare materials was received well enough that this device won an award and found its way into the local paper!
 
 ---
