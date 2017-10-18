@@ -1,8 +1,10 @@
 ---
 publisher: {}
-datePublished: '2017-10-18T23:24:23.990Z'
-dateModified: '2017-10-18T23:24:22.711Z'
-description: ''
+datePublished: '2017-10-18T23:28:42.034Z'
+dateModified: '2017-10-18T23:28:41.182Z'
+description: >-
+  This was a converted 1920’s theater which is located in the heart of Mid-town
+  Atlanta. 
 via: {}
 sourcePath: _posts/2017-09-27-av-installations.md
 title: 'A/V Installations: (1998-2013)'
@@ -20,9 +22,11 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/080fe441-b875-433b-a175-8a775da66542.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f64a2dba-46e8-4cce-bbac-b1859eae4213.jpg)
 
+This was a converted 1920's theater which is located in the heart of Mid-town Atlanta. 
+
 ---
 
-This was a converted 1920's theater which is located in the heart of Mid-town Atlanta. They have catered to world renowned performers from the all across the entertainment industry. One of my favorite accomplishments was to manage this facility for a number of years and then re-install the A/V system when they decided to renovate it and change the name from Eleven50 to Opera. I was asked to repair and use the existing components and improve upon those A/V systems. One of my final responsibilities was to build a floating DJ Booth that could be suspended 25' in the air by two 1/4 ton motors to allow the booth to be tucked away when the full stage was needed for special events. The end result was a 20' wide crescent that was light enough to lift, balance, and yet strong enough to support all equipment installed in it. My responsibilities were to manage, construct, rig and maintain entertainment components for the facility for approximately 5 years.
+They have catered to world renowned performers from the all across the entertainment industry. One of my favorite accomplishments was to manage this facility for a number of years and then re-install the A/V system when they decided to renovate it and change the name from Eleven50 to Opera. I was asked to repair and use the existing components and improve upon those A/V systems. One of my final responsibilities was to build a floating DJ Booth that could be suspended 25' in the air by two 1/4 ton motors to allow the booth to be tucked away when the full stage was needed for special events. The end result was a 20' wide crescent that was light enough to lift, balance, and yet strong enough to support all equipment installed in it. My responsibilities were to manage, construct, rig and maintain entertainment components for the facility for approximately 5 years.
 
 ---
 
