@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-10-11T19:22:19.956Z'
-datePublished: '2017-10-11T19:22:20.734Z'
+dateModified: '2017-10-18T21:22:58.773Z'
+datePublished: '2017-10-18T21:22:59.395Z'
 title: Live Productions (1998 - 2007)
 author: []
 publisher: {}
@@ -28,3 +28,5 @@ Live Productions - My work in the production world started in the club industry 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83556e19-7024-4cbd-96e4-59b38cf5d2ac.jpg)
 
 Trussing, Power, Tents, Stages, Water Features, Lighting, Sound, and Video devices to accommodate tens of people to tens of thousands of people. A great deal of my work relied upon understanding and physical operation of A/V equipment and/or project management to successfully complete these projects within the timeline provided by the customer. Each project was unique and presented different sets of challenges... most tasks were an exercise of efficiency, professionalism and creative thinking to accommodate each clients needs! No project was too great or small!
+
+---
