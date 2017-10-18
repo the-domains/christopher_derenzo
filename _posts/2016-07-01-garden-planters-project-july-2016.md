@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-10-06T06:10:30.637Z'
+datePublished: '2017-10-18T21:21:06.865Z'
 authors: []
 description: >-
   These planters were built for the purpose of maximizing the product yield in a
@@ -10,7 +10,7 @@ via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2017-10-06T06:10:29.907Z'
+dateModified: '2017-10-18T21:21:06.314Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 title: Garden 5-Tier Planters (personal)(2016)
 hasPage: true
@@ -70,3 +70,5 @@ You could use a skill saw for these cuts as I did buts don't expect 47-48º angl
 To those that might say you over engineered it...
 
 I enjoyed the practice and I think you will agree that the results were so worth it!
+
+---
