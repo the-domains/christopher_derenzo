@@ -1,8 +1,21 @@
 ---
 publisher: {}
-datePublished: '2017-10-18T21:22:48.466Z'
-dateModified: '2017-10-18T21:22:46.800Z'
-description: ''
+datePublished: '2017-10-18T22:32:44.294Z'
+dateModified: '2017-10-18T22:32:43.378Z'
+description: >-
+  This was a converted 1920’s theater which is located in the heart of Mid-town
+  Atlanta. They have catered to world renowned performers from the all across
+  the entertainment industry. One of my favorite accomplishments was to manage
+  this facility for a number of years and then re-install the A/V system when
+  they decided to renovate it and change the name from Eleven50 to Opera. I was
+  asked to repair and use the existing components and improve upon those A/V
+  systems. One of my final responsibilities was to build a floating DJ Booth
+  that could be suspended 25’ in the air by two 1/4 ton motors to allow the
+  booth to be tucked away when the full stage was needed for special events. The
+  end result was a 20’ wide crescent that was light enough to lift, balance, and
+  yet strong enough to support all equipment installed in it.  My
+  responsibilities were to manage, construct, rig and maintain entertainment
+  components for the facility for approximately 5 years.
 via: {}
 sourcePath: _posts/2017-09-27-av-installations.md
 title: 'A/V Installations: (1998-2013)'
@@ -20,9 +33,11 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/080fe441-b875-433b-a175-8a775da66542.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f64a2dba-46e8-4cce-bbac-b1859eae4213.jpg)
 
+This was a converted 1920's theater which is located in the heart of Mid-town Atlanta. They have catered to world renowned performers from the all across the entertainment industry. One of my favorite accomplishments was to manage this facility for a number of years and then re-install the A/V system when they decided to renovate it and change the name from Eleven50 to Opera. I was asked to repair and use the existing components and improve upon those A/V systems. One of my final responsibilities was to build a floating DJ Booth that could be suspended 25' in the air by two 1/4 ton motors to allow the booth to be tucked away when the full stage was needed for special events. The end result was a 20' wide crescent that was light enough to lift, balance, and yet strong enough to support all equipment installed in it. My responsibilities were to manage, construct, rig and maintain entertainment components for the facility for approximately 5 years.
+
 ---
 
-As a teenager I didn't realize that I would have started a career as a laborer helping framers build homes. This in turn helped me understand the skeletons of structures. From small spaces to large, I have pulled more cable and installed more pipe than I can even imagine. This has provided me with an understanding of how those arteries should make it from one place to another and this helped me make predictions when channels are not visible.
+As a teenager I didn't realize that I would have started a career as a laborer by helping framers build homes. This in turn helped me understand the skeletons of structures. From small spaces to large, I have pulled more cable and installed more conduit than I can even imagine. This has provided me with an understanding of how those arteries should make it from one place to another and this helped me make predictions when channels are not clearly visible.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be14a74c-0373-4d97-83bf-4aa19eebb66c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e0381d-32b8-4cda-99a3-5f2be6de87ab.jpg)
 
@@ -38,14 +53,19 @@ Climbing around in attics, basements or voids in between provided me with experi
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42a0a846-a99e-4873-87f3-bc160c78f53b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95537fb9-5379-41a5-a520-2402898a91f0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b29ecc0-e216-45a5-9c3d-8e03f4db14b4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/455dc0bf-f95f-4d57-b280-15783e8448bb.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0058b398bc3332629c87a70baae129280aa2162c.jpg)
 
-Of course I try to incorporate my passion for building things into every job I do
+Of course I try to incorporate my passion for building things in every job I do
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ca10de8-2761-46c1-9c5a-f129f53c7ae4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1c09b5-7977-46ca-89fb-3d9c8d5d942f.jpg)
+
+Framework of floating DJ Booth
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c5e185a-7fc4-4dd9-ac5e-9cbf15f3344c.jpg)
+
+Skin going up
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b43b78-0336-44b5-a81f-d3afc4c9995a.jpg)
+
+When given a challenge, I am determined to find the solution!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6aa1298a-5e52-49bc-8c66-3ffc30772298.jpg)
 
 I have more than a "can-do" attitude, I have a "will-do" attitude!
