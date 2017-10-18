@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-02T22:01:12.026Z'
-datePublished: '2017-10-02T22:01:13.220Z'
+dateModified: '2017-10-18T21:22:26.866Z'
+datePublished: '2017-10-18T21:22:28.847Z'
 title: 'Project Management: (2008 - 2011)'
 author: []
 publisher: {}
@@ -73,3 +73,5 @@ Once tenants moved in, we took advantage of all as-built documentation to provid
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f254bc03-7b12-41ed-bba6-73b7b50954fd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf66107-6ea5-4595-a68e-6247b6dc5ed2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47713ac9-ae86-4c23-8ff9-70643ff2e0f8.jpg)
+
+---
