@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-10-12T02:42:54.092Z'
+datePublished: '2017-10-18T21:21:54.359Z'
 authors: []
 description: >-
   Construction of ~11’ x 7’ x 2’ steel structure and installation of automated
@@ -8,7 +8,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-10-12T02:42:48.723Z'
+dateModified: '2017-10-18T21:21:52.737Z'
 sourcePath: >-
   _posts/2016-04-26-top-side-showing-555-timer-for-manual-control-and-input-pins.md
 title: 'Conveyor Type Electro-mechanical system: (2012)'
@@ -62,3 +62,5 @@ Next stop, SMD's on printed circuit boards!
 
 This was my "throw back" for a bit of nostalgia!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3eccc88-d0ab-4eaf-a16b-a84e6da70fb3.png)
+
+---
