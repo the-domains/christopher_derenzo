@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-10-12T02:43:15.616Z'
+datePublished: '2017-10-18T21:22:10.300Z'
 authors: []
 description: >-
   An iOS Application to store information with the help of any/all iOS sensors
@@ -9,7 +9,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-10-12T02:43:09.647Z'
+dateModified: '2017-10-18T21:22:09.376Z'
 sourcePath: >-
   _posts/2016-04-26-ios-application-to-store-and-retrieve-inventory-with-communi.md
 title: Smart-Finder (2011)
@@ -106,3 +106,5 @@ Here we will locate items by "Item Description"
 
 ... Are your sure you want to delete this item?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fa05e2d379b3590aa2fa66b5e24ca5f07cf5ccc.png)
+
+---
