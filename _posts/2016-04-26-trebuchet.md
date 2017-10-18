@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-30T00:05:24.247Z'
+datePublished: '2017-10-18T21:21:25.772Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-09-30T00:05:23.285Z'
+dateModified: '2017-10-18T21:21:24.698Z'
 title: Engineering Club (2015)
 publisher: {}
 description: Served as president of the SMC DIY Engineers Club from Spring to Fall of 2015
@@ -85,3 +85,5 @@ I served as the president of the Engineering Club at SMC from Spring - Fall of 2
 ---
 
 Trebuchet!?! This idea was requested from an Associated Students Officer to provide a device that would compliment the Renaissance theme of Club Row during the spring semester. Developing a classic physics experiment out of spare materials was received well enough that this device won an award and found its way into the local paper!
+
+---
