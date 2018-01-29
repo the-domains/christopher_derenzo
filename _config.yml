@@ -59,6 +59,9 @@ navigation:
   - name: Contact
     id: ab9b6f8e-3af0-42f2-a36e-a229e1aa64da
     type: content
+  - name: Garden Planters (2016)
+    id: 505e97ca-27c7-49eb-b53a-5db6e455cb6e
+    type: content
 title: Christopher Reign DeRenzo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
