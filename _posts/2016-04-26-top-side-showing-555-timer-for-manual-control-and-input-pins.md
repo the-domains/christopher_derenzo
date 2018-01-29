@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-10-18T21:21:55.271Z'
+datePublished: '2018-01-29T19:06:24.090Z'
 authors: []
 description: >-
   Construction of ~11’ x 7’ x 2’ steel structure and installation of automated
@@ -8,7 +8,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-10-18T21:21:54.183Z'
+dateModified: '2018-01-29T19:06:23.006Z'
 sourcePath: >-
   _posts/2016-04-26-top-side-showing-555-timer-for-manual-control-and-input-pins.md
 title: 'Conveyor Type Electro-mechanical system: (2012)'
