@@ -1,15 +1,15 @@
 ---
 publisher: {}
-dateModified: '2018-01-29T18:59:43.324Z'
+dateModified: '2018-01-29T19:06:23.006Z'
 via: {}
 description: Aquaponic System
 title: ''
 inFeed: true
 author: []
-datePublished: '2018-01-29T19:05:30.997Z'
+datePublished: '2018-01-29T19:06:24.074Z'
+sourcePath: _posts/2018-01-29-aquaponic-system.md
 starred: true
 datePublishedOriginal: '2018-01-29T19:05:30.997Z'
-sourcePath: _posts/2018-01-29-aquaponic-system.md
 _type: Blurb
 
 ---
