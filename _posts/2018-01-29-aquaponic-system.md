@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2018-01-29T19:08:10.639Z'
+dateModified: '2018-01-29T19:15:01.977Z'
 via: {}
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
@@ -9,7 +9,7 @@ description: >-
 title: Aquaponic System (2018)
 inFeed: true
 author: []
-datePublished: '2018-01-29T19:08:11.152Z'
+datePublished: '2018-01-29T19:15:02.902Z'
 sourcePath: _posts/2018-01-29-aquaponic-system.md
 starred: true
 datePublishedOriginal: '2018-01-29T19:05:30.997Z'
@@ -32,7 +32,6 @@ Then the purchase of a 3' x 5' x 6.5' tent w/ extras ($100) and a light fixture 
 I anticipated building out a small framed in room, however the cost of the tent was more affordable and was sufficient for the space available!
 
 After putting the aquarium together and powering the tent with everything needed to control the environment inside the tent I then started to automate the system with supplies sitting around in boxes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa26757-d75e-4ef7-84f1-2314968a2232.jpg)
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/bf17c44be3e1e5f14ac05bc1dec2b63a/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F66092864-0ebd-4b2b-b476-4506ca086bec.jpg&x=0&y=0)
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4ad9014edc91d854492f1300eef06f77/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F37f93744-0a38-4a99-83c3-dc3276602018.jpg&x=0&y=0)
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/59ba0ac02c90cb6f218ae83ecee2b263/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa7d78999-ade2-478c-9325-bbd5cf87ed20.jpg&x=0&y=0)
