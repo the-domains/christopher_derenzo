@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-10-18T21:25:32.545Z'
+datePublished: '2018-01-29T19:06:24.093Z'
 sourcePath: _posts/2016-04-26-trebuchet.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-10-18T21:25:31.453Z'
+dateModified: '2018-01-29T19:06:23.006Z'
 title: Engineering Club (2015)
 publisher: {}
 description: Served as president of the SMC DIY Engineers Club from Spring to Fall of 2015
