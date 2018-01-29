@@ -56,6 +56,9 @@ navigation:
   - name: Contact
     id: ab9b6f8e-3af0-42f2-a36e-a229e1aa64da
     type: content
+  - name: Aquaponic System (2018)
+    id: 8d865090-cf51-44f3-b480-92d3fac5fcab
+    type: content
 title: Christopher Reign DeRenzo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
