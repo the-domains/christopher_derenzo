@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-29T19:58:13.332Z'
-dateModified: '2018-01-29T19:58:06.205Z'
+datePublished: '2018-01-29T20:04:50.925Z'
+dateModified: '2018-01-29T20:04:50.153Z'
 via: {}
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
@@ -11,9 +11,11 @@ title: Aquaponic System (2018)
 sourcePath: _posts/2018-01-29-aquaponic-system.md
 inFeed: true
 author: []
+hasPage: true
 starred: true
 datePublishedOriginal: '2018-01-29T19:05:30.997Z'
-_type: Blurb
+url: aquaponic-system-2018/index.html
+_type: Article
 
 ---
 # Aquaponic System (2018)
