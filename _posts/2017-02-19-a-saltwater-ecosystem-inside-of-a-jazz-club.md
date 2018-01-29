@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-10-18T21:23:42.123Z'
-dateModified: '2017-10-18T21:23:41.444Z'
+datePublished: '2018-01-29T19:06:24.074Z'
+dateModified: '2018-01-29T19:06:23.006Z'
 description: and an A/V install
 via: {}
 sourcePath: _posts/2017-02-19-a-saltwater-ecosystem-inside-of-a-jazz-club.md
