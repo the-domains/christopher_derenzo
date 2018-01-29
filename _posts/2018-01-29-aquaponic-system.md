@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-29T21:22:52.037Z'
-dateModified: '2018-01-29T21:21:47.259Z'
+datePublished: '2018-01-29T21:31:26.572Z'
+dateModified: '2018-01-29T21:30:10.863Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -34,7 +34,7 @@ Then the purchase of a 3' x 5' x 6.5' tent w/ extras ($100) and a LED light fixt
 
 I anticipated building out a small framed in room, however the cost of the tent with extras was more affordable and sufficient for the space I had available!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9d80c1ebf892caa243a17285faf001b23b7b695.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e0350bda12628bdaa96747bd214757c6/croprotate.jpg?cropheight=3024&cropwidth=4032&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3b0a6dfe-dd50-4f2f-9733-28e649911375.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9df0a8478f1223fb51261a0d1dffb585d7bf208.jpg)
 
 After putting the aquarium together and powering the tent with everything needed to control the environment inside the tent I then started to automate the system with spare supplies sitting around.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab587205aacc890c9e06141c292ce395b0f0f72.jpg)
@@ -61,15 +61,19 @@ Place it in a box with a 2.5mm power and a 50 pin d-sub connector, I can close t
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82f8904fd340682d83e4d90d69b04fd7d4d5db28.jpg)
 
 Add two AC dimmers to the power box for digital control of 6" centrifugal fans for intake and exhaust. Notice this is where the current sensor is also mounted on the bottom of the box.
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/29a4d5ae72710bf90a593c736689818a/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F397026a2-6aa9-4270-a704-abb626afadb7.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0c8ba73fb5a475e591680af2b791f6eec8da2d7.jpg)
 
 After the power, controller and sensors are installed it's time to program:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35c768e-2500-4c38-b006-a69f502ce6c7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d82d6412-8b0b-4b78-a257-7c173f2500bd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f782ab-719c-4f9e-9bef-e0e8ef02a249.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/268d731b588afec1217e60af59eb85156d2059ac.jpg)
 
 Then it's time to take a break from programming to handle the last bit of construction beginning with the sump/ reservoir/ planter box. This is where the water will drain from the aquarium into the substrate (clay pebbles) and nitrites (good bacteria) will collect to break down the ammonia (fish waste) into nitrates (plant food).
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/74a1f8b207d9d478a9250ad8097cc573743784dd.jpg)
 
-Notice the decline in the bottom for the water to flow down in the sump to reduce the amount of water needed inside of the tent. This will keep my humidity down to a minimum. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/57d08f9596137b3638a1ddf0ed69d3d7768a16b2.jpg)
+Notice the decline in the bottom for the water to flow down in the sump to reduce the amount of water needed inside of the tent. This will keep my humidity down to a minimum.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/57d08f9596137b3638a1ddf0ed69d3d7768a16b2.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/56782f70279974c9bcbfb027bedc0830326c1dc5.jpg)
 
 I found some unused plexi sitting around and cut it to size to fit between the substrate and plastic inside the box.
@@ -90,7 +94,8 @@ Sand the edges and seat it to ensure no damage to the 6mm plastic that will be f
 Coming together nicely.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/021e216ee5dc690ef1fd064ff61cc9311d999e50.jpg)
 
-Let's put it in the tent to add the Hydroton and start the plumbing. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8170d34333ddd5e73be6cb60d86faab1724d63c4.jpg)
+Let's put it in the tent to add the Hydroton and start the plumbing.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8170d34333ddd5e73be6cb60d86faab1724d63c4.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b839f1638bca99edae373997403e7fa2baa61587.jpg)
 
 150L of expanded clay pebbles fill this 39"x 19" x 14" space perfectly!
@@ -99,6 +104,7 @@ Let's put it in the tent to add the Hydroton and start the plumbing. ![](https:/
 Plumbing with 1" PVC for both the send and return.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2643fd5-49e4-4dad-a53c-96c0c55731ad.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/794dcc8b-3d47-46ed-9e4a-aacfc401f1ee.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2daeeccf-9c3d-49cf-891c-c0377b334a37.jpg)
 
 (4) 1/2" outlets reduce the amount of pressure that may build up from the gravity fed return from the tank which is 4' above these pre drilled water dipensers.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a102bb-cc76-4a55-9b7c-d041bb8480cb.jpg)
