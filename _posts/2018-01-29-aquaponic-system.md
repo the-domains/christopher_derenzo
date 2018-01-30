@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-30T21:00:20.619Z'
-dateModified: '2018-01-30T21:00:17.766Z'
+datePublished: '2018-01-30T21:00:22.758Z'
+dateModified: '2018-01-30T21:00:20.464Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
