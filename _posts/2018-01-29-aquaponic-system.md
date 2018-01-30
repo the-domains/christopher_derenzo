@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-30T00:29:06.200Z'
-dateModified: '2018-01-30T00:29:05.120Z'
+datePublished: '2018-01-30T00:30:09.126Z'
+dateModified: '2018-01-30T00:30:08.370Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -22,6 +22,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a03ee586-8d9f-453c-9943-c44543785e77.jpg)
 
 This project stemmed from the successes of previous projects to create a 99% autonomous eco system for fish and plants with the help of an Arduino for environmental controls.
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a33667bf-a98a-4a62-97b9-9b328708ba2c.jpg)
 
 The materials used for this project were mostly spare and used parts from past projects. From basic construction and thoughtful design to intricate wiring and calculated plumbing, power and air flow helped complete this fully automated aquaponic system.
