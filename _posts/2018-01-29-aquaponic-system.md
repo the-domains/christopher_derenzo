@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-30T00:38:00.245Z'
-dateModified: '2018-01-30T00:37:58.991Z'
+datePublished: '2018-01-30T03:32:21.883Z'
+dateModified: '2018-01-30T03:32:20.670Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -132,7 +132,7 @@ Plumbing with 1" PVC for both the send and return.
 To start with some calculations, I need to turn appx. 300GPH with this size tank and another 15GPH in the sump... That means I need at least 315GPH turned over every hour.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79d0bc2145b78778ceec317821dbe5c248d480d4.jpg)
 
-Oxygen... Check! 
+Oxygen... Check!
 
 (4) 1/2" outlets pre drilled water dispensers on the the gravity fed return from the tank.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a102bb-cc76-4a55-9b7c-d041bb8480cb.jpg)
