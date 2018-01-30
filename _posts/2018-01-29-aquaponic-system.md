@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-30T00:27:36.709Z'
-dateModified: '2018-01-30T00:27:35.621Z'
+datePublished: '2018-01-30T00:29:06.200Z'
+dateModified: '2018-01-30T00:29:05.120Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -10,12 +10,12 @@ via: {}
 sourcePath: _posts/2018-01-29-aquaponic-system.md
 title: Aquaponic System (personal)(2018)
 hasPage: true
-inFeed: false
+inFeed: true
 author: []
 starred: true
 datePublishedOriginal: '2018-01-29T19:05:30.997Z'
 url: aquaponic-system-personal2018/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Aquaponic System (personal)(2018)
