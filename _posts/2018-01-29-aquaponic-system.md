@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-30T21:00:22.758Z'
-dateModified: '2018-01-30T21:00:20.464Z'
+datePublished: '2018-01-30T21:05:03.342Z'
+dateModified: '2018-01-30T21:05:01.808Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -159,8 +159,6 @@ and **friction loss** is for 1" pipe at 13.33GPM which I used 13GPH for an estim
 
 http://abe-research.illinois.edu/pubs/factsheets/SumpPumps.pdf
 
-<iframe src="https://drive.google.com/viewerng/viewer?url=http%3A//abe-research.illinois.edu/pubs/factsheets/SumpPumps.pdf&amp;embedded=true" width="600" height="780" style=""></iframe>
-
 **Friction Head** = 30 + 20 x 10.25 ÷ 100 which is **5.125**
 
 **Dynamic head** = 5.125 + 6 = 11.125 or 11 Feet
@@ -168,8 +166,6 @@ http://abe-research.illinois.edu/pubs/factsheets/SumpPumps.pdf
 and this site identifies 10.8 feet of head loss with 4.7 psi at the top of the tank (not a lot of pressure there)
 
 https://pentairaes.com/pump-calculator
-
-<article style=""><h1>Pump Calculator</h1><p>This calculator allows you to figure out the head loss for pump selection. All you do is enter your specifications and click the update button to calulate total losses for the system. Then select a pump based on flowrate and total head loss requirements.</p></article>
 
 So if this pump is rated to max out at 11 feet (manufacturer specifications), it is time to invest in a stronger pump! According to the pump manufacturer a 1200GPH pump will provide just over 500GPH at 11 feet of head height which is more than sufficient for this application and will provide additional control over the flow rate.
 
