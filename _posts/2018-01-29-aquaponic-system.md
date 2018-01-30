@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-30T00:30:09.126Z'
-dateModified: '2018-01-30T00:30:08.370Z'
+datePublished: '2018-01-30T00:34:06.019Z'
+dateModified: '2018-01-30T00:34:05.130Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -74,6 +74,7 @@ After the power, controller and sensors are installed it's time to program:
 Let's control it with a web browser and pull some information about the sensors too!
 
 Most of my 4 week buildout was spent programming... With a multitude of variables and "if" statements the code underwent 57 revisions before it was ready to run the machine without any user interaction! Each new revision incorporated a new feature or replaced an early idea with a better one, for example: Three temperature sensors all displaying measurements a couple of degrees off from each other while being located in close proximity... Well, why not sum the data and react based on the average!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8037720-46c4-49fa-a418-ea9d96fa4945.png)
 
 Another instance was when one of the sensors fell to the bottom of the tent after not securing it properly the night before. I'm sure you can guess that I found in a small puddle of water the next morning which was just enough to cause a short and lead me to install a different sensor. (Yay... more code!) In the end I am sitting quasi-happy with 81% of dynamic memory used up and almost 4000 lines of code to operate this living/ breathing machine! There is ALWAYS room for improvement... TBC.
 
