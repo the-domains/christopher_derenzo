@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-30T03:32:21.883Z'
-dateModified: '2018-01-30T03:32:20.670Z'
+datePublished: '2018-01-30T21:00:20.619Z'
+dateModified: '2018-01-30T21:00:17.766Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -39,10 +39,10 @@ I anticipated building out a small framed in room, however the cost of the tent 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9d80c1ebf892caa243a17285faf001b23b7b695.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9df0a8478f1223fb51261a0d1dffb585d7bf208.jpg)
 
-After putting the aquarium together and powering the tent with everything needed to control the environment inside the tent I then started to automate the system with spare supplies sitting around.
+After putting the aquarium together and powering the tent with everything needed to control the environment inside, I then started to automate the system with spare supplies sitting around.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab587205aacc890c9e06141c292ce395b0f0f72.jpg)
 
-Snip the tab on the common side to power 8 outlets instead of 4\.
+Snip the four tabs on the common side to power 8 outlets instead of 4\.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/19dfd3c285d9cd9ff5e0cccf37147440bf6d657e.jpg)
 
 8 relays to control the outlets.
@@ -60,7 +60,7 @@ Transistors to control the relays.
 From bread board to Thru-hole soldering the back of the circuit board, I work with what I currently have.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a237778f-3f72-4e2f-aa02-b07cbe1d0f23.jpg)
 
-Place it in a box with a 2.5mm power and a 50 pin d-sub connector, I can close the door and it can be easily serviced in the future.
+Place it in a box with a 2.5mm power and a 50 pin d-sub connector so I can close the door and it can be easily serviced in the future.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82f8904fd340682d83e4d90d69b04fd7d4d5db28.jpg)
 
 Add two AC dimmers to the power box for digital control of 6" centrifugal fans for intake and exhaust. Notice this is where the current sensor is also mounted on the bottom of the box.
@@ -71,14 +71,14 @@ Add two AC dimmers to the power box for digital control of 6" centrifugal fans f
 After the power, controller and sensors are installed it's time to program:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3c08eaa-040e-4758-b808-7344ee9b6ee5.png)
 
-Let's control it with a web browser and pull some information about the sensors too!
+Let's manually control it with a web browser and pull some information about the sensors too!
 
-Most of my 4 week buildout was spent programming... With a multitude of variables and "if" statements the code underwent 57 revisions before it was ready to run the machine without any user interaction! Each new revision incorporated a new feature or replaced an early idea with a better one, for example: Three temperature sensors all displaying measurements a couple of degrees off from each other while being located in close proximity... Well, why not sum the data and react based on the average!
+Most of my 4 week buildout was spent programming... With a multitude of global variables and algorithms the code underwent 57 revisions before it was complete and ready to run the machine without any user interaction! Each new revision incorporated a new feature or replaced an early idea with a better one, for example: Three temperature sensors all displaying measurements a couple of degrees off from each-other while being located in close proximity... Well, why not sum the data and react based on the average!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8037720-46c4-49fa-a418-ea9d96fa4945.png)
 
-Another instance was when one of the sensors fell to the bottom of the tent after not securing it properly the night before. I'm sure you can guess that I found in a small puddle of water the next morning which was just enough to cause a short and lead me to install a different sensor. (Yay... more code!) In the end I am sitting quasi-happy with 81% of dynamic memory used up and almost 4000 lines of code to operate this living/ breathing machine! There is ALWAYS room for improvement... TBC.
+Another instance was when one of the sensors fell to the bottom of the tent after not securing it properly the night before. I'm sure you can guess that I found it in a small puddle of water the next morning which was just enough to cause a short and lead me to install a different sensor. (Yay... more code!) In the end I am sitting quasi-happy with 81% of dynamic memory used up and almost 4000 lines of code to operate this living/ breathing machine! There is ALWAYS room for improvement... TBC!
 
-To complete the programming I wanted to see the sensor data outside of my serial connection to the Arduino... a small 20x4 LCD did the job just fine!
+To wrap up the programming I wanted to see the sensor data outside of my serial connection to the Arduino... a small 20x4 LCD did the job just fine!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35c768e-2500-4c38-b006-a69f502ce6c7.jpg)
 
 Showing power consumption...
@@ -96,7 +96,7 @@ and one of the sensors inside the tent:
 Then it's time to take a break from programming to handle the last bit of construction beginning with the sump/ reservoir/ planter box. This is where the water will drain from the aquarium into the substrate (clay pebbles) and nitrites (good bacteria) will collect to break down the ammonia (fish waste) into nitrates (plant food).
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/74a1f8b207d9d478a9250ad8097cc573743784dd.jpg)
 
-Notice the decline in the bottom for the water to flow down in the sump to reduce the amount of water needed inside of the tent. This will keep my humidity down to a minimum.
+Notice the decline in the bottom for the water to flow down in the sump to reduce the amount of water needed inside of the tent. This will help keep humidity to a minimum and reduce the amount of extra water needed for the system.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/57d08f9596137b3638a1ddf0ed69d3d7768a16b2.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/56782f70279974c9bcbfb027bedc0830326c1dc5.jpg)
 
@@ -128,8 +128,6 @@ Let's put it in the tent to add the Hydroton and start the plumbing.
 Plumbing with 1" PVC for both the send and return.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2643fd5-49e4-4dad-a53c-96c0c55731ad.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/794dcc8b-3d47-46ed-9e4a-aacfc401f1ee.jpg)
-
-To start with some calculations, I need to turn appx. 300GPH with this size tank and another 15GPH in the sump... That means I need at least 315GPH turned over every hour.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79d0bc2145b78778ceec317821dbe5c248d480d4.jpg)
 
 Oxygen... Check!
@@ -139,9 +137,11 @@ Oxygen... Check!
 
 Water inlets to the tank are also 1/2" and provide clean water from the sump pump which is pushing uphill about 6' in height over 20' of distance which i show below is a little less than 79GPH \[insert frown face\]...
 
-800GPH sump pump produces 13.33GPM
+To start with some plumbing calculations, I need to turn about twice the capacity of the tank every hour, thats about 300GPH and the current 800GPH sump pump produces 13.33GPM (we will need this later) at the pump. Now we factor distance, and friction into the equation to see what we receive at the top of the aquarium return:
 
-Total **Dynamic Head** is equal to **Static Head** (or "vertical lift") + **Friction Head6'** of vertical lift from bottom of pump to top of tank
+Total **Dynamic Head** is equal to **Static Head** (or "vertical lift") + **Friction Head**
+
+**6'** of vertical lift from bottom of pump to top of tank
 
 **Friction Head** is "the equivalent length of pipe" + the actual length of pipe times the "friction loss" and divided by 100\. eLength + aLength x friction ÷ 100
 
@@ -153,9 +153,11 @@ eLength =
 
 4- 45˚ elbows (plus 2' of head pressure)
 
-30' is the equivalent length of pipe + 20' of actual length of pipe...
+30' is the **equivalent length** of pipe + 20' of actual length of pipe...
 
-and friction loss is for 1" pipe at 13.33GPM which I used 13GPH for an estimate of 10.25 based on Table 2 of page 3 of the following article:
+and **friction loss** is for 1" pipe at 13.33GPM which I used 13GPH for an estimate of 10.25 based on Table 2 of page 3 of the following article:
+
+http://abe-research.illinois.edu/pubs/factsheets/SumpPumps.pdf
 
 <iframe src="https://drive.google.com/viewerng/viewer?url=http%3A//abe-research.illinois.edu/pubs/factsheets/SumpPumps.pdf&amp;embedded=true" width="600" height="780" style=""></iframe>
 
@@ -163,14 +165,18 @@ and friction loss is for 1" pipe at 13.33GPM which I used 13GPH for an estimate 
 
 **Dynamic head** = 5.125 + 6 = 11.125 or 11 Feet
 
-or this site identifies 10.8 feet of head loss and 4.7 psi at the top of the tank
+and this site identifies 10.8 feet of head loss with 4.7 psi at the top of the tank (not a lot of pressure there)
+
+https://pentairaes.com/pump-calculator
 
 <article style=""><h1>Pump Calculator</h1><p>This calculator allows you to figure out the head loss for pump selection. All you do is enter your specifications and click the update button to calulate total losses for the system. Then select a pump based on flowrate and total head loss requirements.</p></article>
 
-So if my pump is rated to max out at 11 feet, it is time to invest a little more money in another pump!
+So if this pump is rated to max out at 11 feet (manufacturer specifications), it is time to invest in a stronger pump! According to the pump manufacturer a 1200GPH pump will provide just over 500GPH at 11 feet of head height which is more than sufficient for this application and will provide additional control over the flow rate.
 
 This would explain why my bell siphon is gurgling (breathing) every twelve seconds.
 
-What a fascinating project to have sitting next to your workspace. Both serene and beautiful to watch!
+What a fascinating project to have sitting next to your workspace. It is relaxing listening to it breathe and what a joy to watch as it becomes a place for future fish and plants to thrive!
+
+Next stop some fingerling tilapia!
 
 To be continued...
