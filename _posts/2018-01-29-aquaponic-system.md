@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-29T21:31:26.572Z'
-dateModified: '2018-01-29T21:30:10.863Z'
+datePublished: '2018-01-30T00:18:03.772Z'
+dateModified: '2018-01-30T00:18:03.023Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -63,10 +63,30 @@ Place it in a box with a 2.5mm power and a 50 pin d-sub connector, I can close t
 Add two AC dimmers to the power box for digital control of 6" centrifugal fans for intake and exhaust. Notice this is where the current sensor is also mounted on the bottom of the box.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0c8ba73fb5a475e591680af2b791f6eec8da2d7.jpg)
 
+---
+
 After the power, controller and sensors are installed it's time to program:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3c08eaa-040e-4758-b808-7344ee9b6ee5.png)
+
+Let's control it with a web browser and pull some information about the sensors too!
+
+Most of my 4 week buildout was spent programming... With a multitude of variables and "if" statements the code underwent 57 revisions before it was ready to run the machine without any user interaction! Each new revision incorporated a new feature or replaced an early idea with a better one, for example: Three temperature sensors all displaying measurements a couple of degrees off from each other while being located in close proximity... Well, why not sum the data and react based on the average! 
+
+Another instance was when one of the sensors fell to the bottom of the tent after not securing it properly the night before. I'm sure you can guess that I found in a small puddle of water the next morning which was just enough to cause a short and lead me to install a different sensor. (Yay... more code!) In the end I am sitting quasi-happy with 81% of dynamic memory used up and almost 4000 lines of code to operate this living/ breathing machine! There is ALWAYS room for improvement... TBC.
+
+To complete the programming I wanted to see the sensor data outside of my serial connection to the Arduino... a small 20x4 LCD did the job just fine!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35c768e-2500-4c38-b006-a69f502ce6c7.jpg)
+
+Showing power consumption...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d82d6412-8b0b-4b78-a257-7c173f2500bd.jpg)
+
+Water temp and garage temp...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f782ab-719c-4f9e-9bef-e0e8ef02a249.jpg)
+
+and one of the sensors inside the tent:
+
+---
+
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/268d731b588afec1217e60af59eb85156d2059ac.jpg)
 
 Then it's time to take a break from programming to handle the last bit of construction beginning with the sump/ reservoir/ planter box. This is where the water will drain from the aquarium into the substrate (clay pebbles) and nitrites (good bacteria) will collect to break down the ammonia (fish waste) into nitrates (plant food).
@@ -104,9 +124,49 @@ Let's put it in the tent to add the Hydroton and start the plumbing.
 Plumbing with 1" PVC for both the send and return.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2643fd5-49e4-4dad-a53c-96c0c55731ad.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/794dcc8b-3d47-46ed-9e4a-aacfc401f1ee.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2daeeccf-9c3d-49cf-891c-c0377b334a37.jpg)
 
-(4) 1/2" outlets reduce the amount of pressure that may build up from the gravity fed return from the tank which is 4' above these pre drilled water dipensers.
+To start with some calculations, I need to turn appx. 300GPH with this size tank and another 15GPH in the sump... That means I need at least 315GPH turned over every hour.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79d0bc2145b78778ceec317821dbe5c248d480d4.jpg)
+
+(4) 1/2" outlets pre drilled water dispensers on the the gravity fed return from the tank.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a102bb-cc76-4a55-9b7c-d041bb8480cb.jpg)
 
-Water inlets to the tank are also 1/2" and provide clean water from the sump.
+Water inlets to the tank are also 1/2" and provide clean water from the sump pump which is pushing uphill about 6' in height over 20' of distance which i show below is a little less than 79GPH \[insert frown face\]...
+
+800GPH sump pump produces 13.33GPM 
+
+Total **Dynamic Head** is equal to **Static Head** (or "vertical lift") + **Friction Head****6'** of vertical lift from bottom of pump to top of tank 
+
+**Friction Head** is
+"the equivalent length of pipe" + the actual length of pipe times the "friction loss" and divided by 100\.
+eLength + aLength x friction ÷ 100
+
+eLength =
+
+20' total pipe distance (20' of head pressure)
+
+8- 90˚ elbows (plus 8' of head pressure) 
+
+4- 45˚ elbows (plus 2' of head pressure)
+
+30' is the equivalent length of pipe + 20' of actual length of pipe...
+
+and friction loss is for 1" pipe at 13.33GPM which I used 13GPH for an estimate of 10.25 based on Table 2 of page 3 of the following article:
+
+<iframe src="https://drive.google.com/viewerng/viewer?url=http%3A//abe-research.illinois.edu/pubs/factsheets/SumpPumps.pdf&amp;embedded=true" width="600" height="780" style=""></iframe>
+
+**Friction Head** = 30 + 20 x 10.25 ÷ 100 which is **5.125**
+
+**Dynamic head** = 5.125 + 6 = 11.125 or 11 Feet
+
+or this site identifies 10.8 feet of head loss and 4.7 psi at the top of the tank
+
+<article style=""><h1>Pump Calculator</h1><p>This calculator allows you to figure out the head loss for pump selection. All you do is enter your specifications and click the update button to calulate total losses for the system. Then select a pump based on flowrate and total head loss requirements.</p></article>
+
+So if my pump is rated to max out at 11 feet, it is time to invest a little more money in another pump!
+
+This would explain why my bell siphon is gurgling (breathing) every twelve seconds.
+
+What a fascinating project to have sitting next to your workspace. Both serene and beautiful to watch!
+
+To be continued...
