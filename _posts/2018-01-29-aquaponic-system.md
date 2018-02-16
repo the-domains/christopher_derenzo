@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-30T21:05:03.342Z'
-dateModified: '2018-01-30T21:05:01.808Z'
+datePublished: '2018-02-16T17:00:58.518Z'
+dateModified: '2018-02-16T02:24:44.824Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -76,18 +76,21 @@ Let's manually control it with a web browser and pull some information about the
 Most of my 4 week buildout was spent programming... With a multitude of global variables and algorithms the code underwent 57 revisions before it was complete and ready to run the machine without any user interaction! Each new revision incorporated a new feature or replaced an early idea with a better one, for example: Three temperature sensors all displaying measurements a couple of degrees off from each-other while being located in close proximity... Well, why not sum the data and react based on the average!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8037720-46c4-49fa-a418-ea9d96fa4945.png)
 
-Another instance was when one of the sensors fell to the bottom of the tent after not securing it properly the night before. I'm sure you can guess that I found it in a small puddle of water the next morning which was just enough to cause a short and lead me to install a different sensor. (Yay... more code!) In the end I am sitting quasi-happy with 81% of dynamic memory used up and almost 4000 lines of code to operate this living/ breathing machine! There is ALWAYS room for improvement... TBC!
+Another instance was when one of the sensors fell to the bottom of the tent after not securing it properly the night before. I'm sure you can guess that I found it in a small puddle of water the next morning which was just enough to cause a short and lead me to install a different sensor. (Yay... more code!) In the end I am sitting quasi-happy with 64% of dynamic memory used up and just over 3500 lines of code to operate this living/ breathing machine! There is ALWAYS room for improvement... TBC!
 
 To wrap up the programming I wanted to see the sensor data outside of my serial connection to the Arduino... a small 20x4 LCD did the job just fine!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35c768e-2500-4c38-b006-a69f502ce6c7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3d90dc7-7671-4016-beaf-79e6db341822.jpg)
 
 Showing power consumption...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d82d6412-8b0b-4b78-a257-7c173f2500bd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82b5d742-d735-4408-b0ba-799b6507f845.jpg)
 
 Water temp and garage temp...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31fd921e-67f8-4336-a075-c0b29847ec42.jpg)
+
+Outside temperature to control intake fan...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f782ab-719c-4f9e-9bef-e0e8ef02a249.jpg)
 
-and one of the sensors inside the tent:
+and one of the sensors inside the tent to affect the exhaust fan...
 
 ---
 
@@ -175,4 +178,10 @@ What a fascinating project to have sitting next to your workspace. It is relaxin
 
 Next stop some fingerling tilapia!
 
+While waiting for the tilapia I have done some more research to find that my controlled environment will need yet another sensor to establish a more precise control of the intake and exhaust fans. The infrared temp sensor can determine the actual temp of the plants and help me determine vapor pressure deficit (VPD). The VPD is the difference between the saturation vapor pressure at the plant temperature and the measured ambient vapor pressure. This is a combination function that measures plant temp, ambient temp and humidity which relates to the plants ability to perspire, similar to our body's not cooling as effectively in Florida as we do in say Southern California'a dry climate with identical temps because of the elevated humidity. Each type of plant reacts differently to VPD and this measuremeant combines my separate temp and humidity functions into one function to simplify the program and more accurately control the fans!
+
 To be continued...
+
+---
+
+To prepare the tank for farm raising fish (tilapia), I need to test and raise/ lower the PH and total dissolved solids (TDS) to the recommended levels for similar aquaponic systems proven to be successful. PH for tilapia is best at 8.0 and for plants approximately 6.5 so this means I will set it somewhere between 7.2 and 7.4!
