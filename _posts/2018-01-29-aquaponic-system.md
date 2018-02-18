@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-16T17:00:58.518Z'
-dateModified: '2018-02-16T02:24:44.824Z'
+datePublished: '2018-02-18T20:00:03.858Z'
+dateModified: '2018-02-18T19:59:47.410Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -82,10 +82,10 @@ To wrap up the programming I wanted to see the sensor data outside of my serial 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3d90dc7-7671-4016-beaf-79e6db341822.jpg)
 
 Showing power consumption...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82b5d742-d735-4408-b0ba-799b6507f845.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/573c11b79781ff4ec963783f813ec0cf/croprotate.jpg?cropheight=3024&cropwidth=4032&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F82b5d742-d735-4408-b0ba-799b6507f845.jpg&x=0&y=0)
 
 Water temp and garage temp...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31fd921e-67f8-4336-a075-c0b29847ec42.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/42d88823f86cf19a2f507e87f581f73a/croprotate.jpg?cropheight=3024&cropwidth=4032&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F31fd921e-67f8-4336-a075-c0b29847ec42.jpg&x=0&y=0)
 
 Outside temperature to control intake fan...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f782ab-719c-4f9e-9bef-e0e8ef02a249.jpg)
@@ -178,10 +178,18 @@ What a fascinating project to have sitting next to your workspace. It is relaxin
 
 Next stop some fingerling tilapia!
 
-While waiting for the tilapia I have done some more research to find that my controlled environment will need yet another sensor to establish a more precise control of the intake and exhaust fans. The infrared temp sensor can determine the actual temp of the plants and help me determine vapor pressure deficit (VPD). The VPD is the difference between the saturation vapor pressure at the plant temperature and the measured ambient vapor pressure. This is a combination function that measures plant temp, ambient temp and humidity which relates to the plants ability to perspire, similar to our body's not cooling as effectively in Florida as we do in say Southern California'a dry climate with identical temps because of the elevated humidity. Each type of plant reacts differently to VPD and this measuremeant combines my separate temp and humidity functions into one function to simplify the program and more accurately control the fans!
+---
+
+While waiting for the tilapia I have done some more research to find that my controlled environment will need yet another sensor to establish a more precise control of the intake and exhaust fans. The infrared temp sensor can determine the actual temp of the plants and help me determine vapor pressure deficit (VPD). The VPD is Vapour pressure is the pressure exerted by the vapour on its condensed phase at a give temperature in a closed system. This is a combination function that measures plant temp, ambient temp and humidity which relates to the plants ability to perspire; similar to our body's effect in say Florida as compared to Southern California'a dryer climate with identical temps. Because of the elevated humidity in the southeast it feels much warmer even even though our bodies will still perspire and we do not cool ourselves as effectively as we do in the southwest . Each type of plant reacts differently to VPD and this measuremeant will simplify my programming by combining the current temp and humidity functions into one function to more accurately control the fans!
 
 To be continued...
 
 ---
 
-To prepare the tank for farm raising fish (tilapia), I need to test and raise/ lower the PH and total dissolved solids (TDS) to the recommended levels for similar aquaponic systems proven to be successful. PH for tilapia is best at 8.0 and for plants approximately 6.5 so this means I will set it somewhere between 7.2 and 7.4!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcfe2c6f-072d-43c6-8acd-1bd9e80621ae.jpg)
+
+Now the fish have arrived and I have to prepare the tank for farm raising fish (tilapia), I need to test and raise/ lower the PH and total dissolved solids (TDS) to the recommended levels for similar aquaponic systems proven to be successful. PH for tilapia is best at 8.0 and for plants approximately 6.5 so this means I will set it somewhere between 7.2 and 7.4
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f6de1e7-4fb4-4c1e-8fa4-cffb3e71b054.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/713296e9-85ef-415f-8e82-50cd6a75233f.jpg)
+
+The water coming from the city of LA is exceptionally high so I need to consider my filtration system and it's ability to filter dissolved solids! Back to the drawing board for some filtering ideas...
