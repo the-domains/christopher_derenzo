@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-18T20:00:03.858Z'
-dateModified: '2018-02-18T19:59:47.410Z'
+datePublished: '2018-02-20T07:43:45.339Z'
+dateModified: '2018-02-20T07:43:43.458Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -82,10 +82,10 @@ To wrap up the programming I wanted to see the sensor data outside of my serial 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3d90dc7-7671-4016-beaf-79e6db341822.jpg)
 
 Showing power consumption...
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/573c11b79781ff4ec963783f813ec0cf/croprotate.jpg?cropheight=3024&cropwidth=4032&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F82b5d742-d735-4408-b0ba-799b6507f845.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ba9cccaa6fda1a119c33b4be8a958f23bfce7f2.jpg)
 
 Water temp and garage temp...
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/42d88823f86cf19a2f507e87f581f73a/croprotate.jpg?cropheight=3024&cropwidth=4032&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F31fd921e-67f8-4336-a075-c0b29847ec42.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4b91ade08c9bb04a305a9f438586c421a71450a.jpg)
 
 Outside temperature to control intake fan...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f782ab-719c-4f9e-9bef-e0e8ef02a249.jpg)
@@ -130,12 +130,13 @@ Let's put it in the tent to add the Hydroton and start the plumbing.
 
 Plumbing with 1" PVC for both the send and return.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2643fd5-49e4-4dad-a53c-96c0c55731ad.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c195e719-a556-4ffa-8641-c6288cb14494.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/794dcc8b-3d47-46ed-9e4a-aacfc401f1ee.jpg)
+
+(4) 1/2" outlets pre drilled water dispensers on the the gravity fed return from the tank.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79d0bc2145b78778ceec317821dbe5c248d480d4.jpg)
 
 Oxygen... Check!
-
-(4) 1/2" outlets pre drilled water dispensers on the the gravity fed return from the tank.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a102bb-cc76-4a55-9b7c-d041bb8480cb.jpg)
 
 Water inlets to the tank are also 1/2" and provide clean water from the sump pump which is pushing uphill about 6' in height over 20' of distance which i show below is a little less than 79GPH \[insert frown face\]...
@@ -186,10 +187,10 @@ To be continued...
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcfe2c6f-072d-43c6-8acd-1bd9e80621ae.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/82479c7dc311dd4ebd1bb15b5c51747b/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ffcfe2c6f-072d-43c6-8acd-1bd9e80621ae.jpg&x=0&y=0)
 
 Now the fish have arrived and I have to prepare the tank for farm raising fish (tilapia), I need to test and raise/ lower the PH and total dissolved solids (TDS) to the recommended levels for similar aquaponic systems proven to be successful. PH for tilapia is best at 8.0 and for plants approximately 6.5 so this means I will set it somewhere between 7.2 and 7.4
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f6de1e7-4fb4-4c1e-8fa4-cffb3e71b054.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c276e9b95637339e1e9c61d13a5776c4/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3f6de1e7-4fb4-4c1e-8fa4-cffb3e71b054.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/713296e9-85ef-415f-8e82-50cd6a75233f.jpg)
 
 The water coming from the city of LA is exceptionally high so I need to consider my filtration system and it's ability to filter dissolved solids! Back to the drawing board for some filtering ideas...
