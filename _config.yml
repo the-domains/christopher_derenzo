@@ -89,3 +89,5 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Past Accomplishments
+analytics:
+  google: UA-114873313-1
