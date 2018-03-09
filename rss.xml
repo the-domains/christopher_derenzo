@@ -4,9 +4,9 @@
         <description><![CDATA[Christopher Reign DeRenzo]]></description>
         <link>https://thegrid.ai/christopher_reign_derenzo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Feb 2018 07:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Mar 2018 19:45:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopher_reign_derenzo/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Feb 2018 07:43:50 GMT</pubDate>
+        <pubDate>Fri, 09 Mar 2018 19:45:25 GMT</pubDate>
         <item>
             <title><![CDATA[Aquaponic System (personal)(2018)]]></title>
             <description><![CDATA[<h1>Aquaponic System (personal)(2018)</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a03ee586-8d9f-453c-9943-c44543785e77.jpg">,<p>This project stemmed from the successes of previous projects to create a 99% autonomous eco system for fish and plants with the help of an Arduino for environmental controls.</p>]]></description>
@@ -55,6 +55,13 @@
             <link>https://thegrid.ai/christopher_reign_derenzo/av-installations/index.html</link>
             <guid isPermaLink="false">e44a6ae4-18fb-4707-aa9c-2a4d09e3bcff</guid>
             <pubDate>Wed, 27 Sep 2017 18:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autonomous Vehicles: Are You Ready for the New Ride?]]></title>
+            <description><![CDATA[<p>The World of Automation in 2018</p>,<p>The following article is an excellent read for those curious about how autonomous vehicle will transform our lives in the next 20 years:</p>,<article><img src="https://cdn.technologyreview.com/i/images/optimus-ride-founders.jpg?cx=0&cy=46&cw=1080&ch=607&sw=1200"><h1>Autonomous Vehicles: Are You Ready for the New Ride?</h1><p>The self-driving car revolution is about to shift into overdrive. The signs are everywhere. Just look in the back lots of South Boston&apos;s tech corridor, on the streets of Pittsburgh, in the prefab test facilities at the University of Michigan&apos;s Mcity, and throughout a smattering of open highways.</p></article>,<p>Just imagine fewer accidents due less lawless drivers controlling these 2000 pound torpedoes. These machines will abide by the rules of the road and have the ability to avoid obstacles repeatedly with more precision than any professional stunt driver. The human mind can only absorb so much information at a given moment before it becomes overwhelmed with information</p>]]></description>
+            <link>https://www.technologyreview.com/s/609450/autonomous-vehicles-are-you-ready-for-the-new-ride/</link>
+            <guid isPermaLink="false">d810c1e8-fd85-4df6-86a5-0e9dc5207203</guid>
+            <pubDate>Fri, 09 Mar 2018 19:45:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
