@@ -12,6 +12,8 @@ color:
     - '#7F604D'
 github: true
 layout_spectrum: 0.8956343111486202
+analytics:
+  google: UA-114873313-1
 author:
   email: reign@reign-tech.com
   url: 'http://reign-tech.com'
@@ -62,6 +64,9 @@ navigation:
   - name: Contact
     id: ab9b6f8e-3af0-42f2-a36e-a229e1aa64da
     type: content
+  - name: Reign's Blog (beta)
+    url: 'https://thegrid.ai/reigns-blog/?cache=no'
+    type: external
 title: Christopher Reign DeRenzo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -89,5 +94,3 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Past Accomplishments
-analytics:
-  google: UA-114873313-1
