@@ -28,6 +28,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Reign's Blog (beta)
+    url: 'https://thegrid.ai/reigns-blog/?cache=no'
+    type: external
   - name: Aquaponic System (2018)
     id: 8d865090-cf51-44f3-b480-92d3fac5fcab
     type: content
@@ -46,9 +49,6 @@ navigation:
   - name: Smart-Finder (2011)
     id: c7d61ddb-fd16-456b-8f7e-37e5e479b3b7
     type: content
-  - name: Reign's Blog (beta)
-    url: 'https://thegrid.ai/reigns-blog/?cache=no'
-    type: external
   - name: Project Management (2008 - 2011)
     id: 20e0745b-98ec-4764-ba62-06e36abab3ea
     type: content
