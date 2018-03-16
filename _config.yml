@@ -28,9 +28,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Reign's Blog (beta)
-    url: 'https://thegrid.ai/reigns-blog/?cache=no'
-    type: external
   - name: Autonomous Transportation
     id: d810c1e8-fd85-4df6-86a5-0e9dc5207203
     type: content
