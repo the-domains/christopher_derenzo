@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: Thoughts about intelligence.
-dateModified: '2018-03-16T18:23:18.496Z'
-datePublished: '2018-03-16T18:23:19.323Z'
+dateModified: '2018-03-16T18:23:53.927Z'
+datePublished: '2018-03-16T18:23:54.744Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-03-16-thoughts-about-intelligence.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-03-16T18:23:19.323Z'
-sourcePath: _posts/2018-03-16-thoughts-about-intelligence.md
-_type: Blurb
+url: thoughts-about-intelligence/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7e52ca2-9676-4788-a32d-1c6b909df0ab.png)
