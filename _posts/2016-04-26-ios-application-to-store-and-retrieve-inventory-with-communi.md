@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-03-16T18:14:49.676Z'
+datePublished: '2018-03-16T18:25:48.846Z'
 authors: []
 description: >-
   An iOS Application to store information with the help of any/all iOS sensors
@@ -9,7 +9,7 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-03-16T18:14:47.887Z'
+dateModified: '2018-03-16T18:25:47.897Z'
 sourcePath: >-
   _posts/2016-04-26-ios-application-to-store-and-retrieve-inventory-with-communi.md
 title: Smart-Finder (2011)
