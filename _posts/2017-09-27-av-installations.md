@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-03-16T18:14:49.549Z'
-dateModified: '2018-03-16T18:14:47.887Z'
+datePublished: '2018-03-16T18:25:48.848Z'
+dateModified: '2018-03-16T18:25:47.897Z'
 description: >-
   This was a converted 1920’s theater which is located in the heart of Mid-town
   Atlanta. 
