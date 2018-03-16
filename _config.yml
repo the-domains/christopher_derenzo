@@ -31,6 +31,9 @@ navigation:
   - name: Reign's Blog (beta)
     url: 'https://thegrid.ai/reigns-blog/?cache=no'
     type: external
+  - name: Intelligence
+    id: 4ed716f8-e364-4cd9-a9fc-893f1f2ce1fc
+    type: content
   - name: Autonomous Transportation
     id: d810c1e8-fd85-4df6-86a5-0e9dc5207203
     type: content
@@ -39,9 +42,6 @@ navigation:
     type: content
   - name: Garden Planters (2016)
     id: 505e97ca-27c7-49eb-b53a-5db6e455cb6e
-    type: content
-  - name: Intelligence
-    id: 4ed716f8-e364-4cd9-a9fc-893f1f2ce1fc
     type: content
   - name: Fan Manager (2015)
     id: 7a7d6469-6e83-4be7-ba92-54cbb823b881
