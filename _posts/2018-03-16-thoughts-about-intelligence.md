@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Thoughts about intelligence.
-dateModified: '2018-03-16T18:23:53.927Z'
-datePublished: '2018-03-16T18:23:54.744Z'
+dateModified: '2018-03-16T18:25:47.897Z'
+datePublished: '2018-03-16T18:25:48.716Z'
 title: ''
 author: []
 publisher: {}
