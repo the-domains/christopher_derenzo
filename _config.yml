@@ -40,6 +40,9 @@ navigation:
   - name: Garden Planters (2016)
     id: 505e97ca-27c7-49eb-b53a-5db6e455cb6e
     type: content
+  - name: Intelligence
+    id: 4ed716f8-e364-4cd9-a9fc-893f1f2ce1fc
+    type: content
   - name: Fan Manager (2015)
     id: 7a7d6469-6e83-4be7-ba92-54cbb823b881
     type: content
@@ -51,9 +54,6 @@ navigation:
     type: content
   - name: Smart-Finder (2011)
     id: c7d61ddb-fd16-456b-8f7e-37e5e479b3b7
-    type: content
-  - name: Intelligence
-    id: 4ed716f8-e364-4cd9-a9fc-893f1f2ce1fc
     type: content
   - name: Project Management (2008 - 2011)
     id: 20e0745b-98ec-4764-ba62-06e36abab3ea
