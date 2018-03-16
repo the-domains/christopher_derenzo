@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The World of Automation in 2018
-dateModified: '2018-03-16T18:14:47.887Z'
-datePublished: '2018-03-16T18:14:49.499Z'
+dateModified: '2018-03-16T18:16:27.491Z'
+datePublished: '2018-03-16T18:16:28.223Z'
 title: 'Autonomous Vehicles: Are You Ready for the New Ride?'
 author:
   - name: MIT Technology Review Insights
@@ -14,12 +14,12 @@ publisher:
   favicon: 'https://www.technologyreview.com/favicon.ico'
   domain: www.technologyreview.com
 via: {}
-isBasedOnUrl: >-
-  https://www.technologyreview.com/s/609450/autonomous-vehicles-are-you-ready-for-the-new-ride/
 sourcePath: _posts/2018-03-09-autonomous-vehicles-are-you-ready-for-the-new-ride.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-03-09T19:45:24.523Z'
-_type: MediaObject
+url: autonomous-vehicles-are-you-ready-for-the-new-ride/index.html
+_type: Article
 
 ---
 The World of Automation in 2018
