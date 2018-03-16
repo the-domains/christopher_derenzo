@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The World of Automation in 2018
-dateModified: '2018-03-15T00:51:21.737Z'
-datePublished: '2018-03-15T00:51:22.423Z'
+dateModified: '2018-03-16T18:14:47.887Z'
+datePublished: '2018-03-16T18:14:49.499Z'
 title: 'Autonomous Vehicles: Are You Ready for the New Ride?'
 author:
   - name: MIT Technology Review Insights
