@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Thoughts about intelligence.
-dateModified: '2018-03-16T18:25:47.897Z'
-datePublished: '2018-03-16T18:25:48.716Z'
-title: ''
+description: ''
+dateModified: '2018-03-30T02:28:59.397Z'
+datePublished: '2018-03-30T02:29:00.201Z'
+title: Intelligence (2013)
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,10 @@ url: thoughts-about-intelligence/index.html
 _type: Article
 
 ---
+# Intelligence (2013)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7e52ca2-9676-4788-a32d-1c6b909df0ab.png)
+
+---
 
 Thoughts about intelligence.
 
