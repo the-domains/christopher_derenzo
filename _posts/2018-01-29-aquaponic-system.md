@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-04T16:37:02.344Z'
-dateModified: '2018-04-04T16:36:54.362Z'
+datePublished: '2018-04-04T17:34:06.775Z'
+dateModified: '2018-04-04T17:33:05.324Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -69,7 +69,6 @@ Add two AC dimmers to the power box for digital control of 6" centrifugal fans f
 ---
 
 After the power, controller and sensors are installed it's time to program:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3c08eaa-040e-4758-b808-7344ee9b6ee5.png)
 
 Let's manually control it with a web browser and pull some information about the sensors too!
 
@@ -196,3 +195,4 @@ Now the fish have arrived and I have to prepare the tank for farm raising fish (
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/713296e9-85ef-415f-8e82-50cd6a75233f.jpg)
 
 The water coming from the city of LA is exceptionally high so I need to consider my filtration system and it's ability to filter dissolved solids! Back to the drawing board for some filtering ideas...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc7de93-e3e6-418b-aece-49e74799a513.jpg)
