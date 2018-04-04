@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-03-16T18:14:49.919Z'
-dateModified: '2018-03-16T18:14:47.887Z'
+datePublished: '2018-04-04T16:37:02.344Z'
+dateModified: '2018-04-04T16:36:54.362Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -76,7 +76,7 @@ Let's manually control it with a web browser and pull some information about the
 Most of my 4 week buildout was spent programming... With a multitude of global variables and algorithms the code underwent 57 revisions before it was complete and ready to run the machine without any user interaction! Each new revision incorporated a new feature or replaced an early idea with a better one, for example: Three temperature sensors all displaying measurements a couple of degrees off from each-other while being located in close proximity... Well, why not sum the data and react based on the average!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8037720-46c4-49fa-a418-ea9d96fa4945.png)
 
-Another instance was when one of the sensors fell to the bottom of the tent after not securing it properly the night before. I'm sure you can guess that I found it in a small puddle of water the next morning which was just enough to cause a short and lead me to install a different sensor. (Yay... more code!) In the end I am sitting quasi-happy with 64% of dynamic memory used up and just over 3500 lines of code to operate this living/ breathing machine! There is ALWAYS room for improvement... TBC!
+Another troubleshooting instance was when one of the sensors fell to the bottom of the tent after not securing it properly the night before. I'm sure you can guess that I found it in a small puddle of water the next morning which was just enough to cause a short and lead me to install a different sensor. (Yay... more code!) In the end I am sitting quasi-happy with 64% of dynamic memory used up and just over 3500 lines of code to operate this living/ breathing machine! There is ALWAYS room for improvement... TBC!
 
 To wrap up the programming I wanted to see the sensor data outside of my serial connection to the Arduino... a small 20x4 LCD did the job just fine!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3d90dc7-7671-4016-beaf-79e6db341822.jpg)
@@ -91,6 +91,8 @@ Outside temperature to control intake fan...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f782ab-719c-4f9e-9bef-e0e8ef02a249.jpg)
 
 and one of the sensors inside the tent to affect the exhaust fan...
+
+It's also a good idea to be able to see the state of the 8 relays remotely and control them in the case of typical service so let's throw in a web controller!
 
 ---
 
@@ -187,10 +189,10 @@ To be continued...
 
 ---
 
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/82479c7dc311dd4ebd1bb15b5c51747b/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ffcfe2c6f-072d-43c6-8acd-1bd9e80621ae.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be1cc002a812686086ae0eac33387b08183c5f4d.jpg)
 
 Now the fish have arrived and I have to prepare the tank for farm raising fish (tilapia), I need to test and raise/ lower the PH and total dissolved solids (TDS) to the recommended levels for similar aquaponic systems proven to be successful. PH for tilapia is best at 8.0 and for plants approximately 6.5 so this means I will set it somewhere between 7.2 and 7.4
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c276e9b95637339e1e9c61d13a5776c4/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3f6de1e7-4fb4-4c1e-8fa4-cffb3e71b054.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4056f61b70eac7f2d4cf040a7303d4d089b74a01.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/713296e9-85ef-415f-8e82-50cd6a75233f.jpg)
 
 The water coming from the city of LA is exceptionally high so I need to consider my filtration system and it's ability to filter dissolved solids! Back to the drawing board for some filtering ideas...
