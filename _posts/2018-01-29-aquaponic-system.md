@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-24T04:28:36.974Z'
-dateModified: '2018-04-24T04:28:33.629Z'
+datePublished: '2018-04-24T22:41:12.791Z'
+dateModified: '2018-04-24T22:41:10.690Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -183,7 +183,7 @@ Next stop some fingerling tilapia!
 
 ---
 
-While waiting for the tilapia I have done some more research to find that my controlled environment will need yet another sensor to establish a more precise control of the intake and exhaust fans. The infrared temp sensor can determine the actual temp of the plants and help me determine vapor pressure deficit (VPD). The VPD is Vapour pressure is the pressure exerted by the vapour on its condensed phase at a give temperature in a closed system. This is a combination function that measures plant temp, ambient temp and humidity which relates to the plants ability to perspire; similar to our body's effect in say Florida as compared to Southern California'a dryer climate with identical temps. Because of the elevated humidity in the southeast it feels much warmer even even though our bodies will still perspire and we do not cool ourselves as effectively as we do in the southwest . Each type of plant reacts differently to VPD and this measuremeant will simplify my programming by combining the current temp and humidity functions into one function to more accurately control the fans!
+While waiting for the tilapia I have done some more research to find that my controlled environment will need yet another sensor to establish a more precise control of the intake and exhaust fans. The infrared temp sensor can determine the actual temp of the plants and help me determine vapor pressure deficit (VPD). The VPD is Vapour pressure is the pressure exerted by the vapour on its condensed phase at a given temperature in a closed system. This function measures the plant temp, ambient temp and relative humidity which relates to the plants ability to sweat; similar to humans. For example if you were to observe the same temperatures, let's say 86˚F in two regions like humid Florida and dry Southern California your body will sweat in both locations but not effectively cool your body in one. I bet you can guess that because of the elevated humidity in the southeast it feels much warmer even though our bodies will still perspire, we do not cool ourselves as effectively as we do in Southern California and this is what we want to experiment with here in this setup. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see. and this measurement will allow me to more accurately control the fans!
 
 ---
 
@@ -194,7 +194,3 @@ Now the fish have arrived and I have to prepare the tank for farm raising fish (
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/713296e9-85ef-415f-8e82-50cd6a75233f.jpg)
 
 The water coming from the city of LA is exceptionally high in dissolved solids so it's time to consider some other filters for the fresh water going into the system.
-
-Here we have data:
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkMFuwyAMhu88RcSxW-Kqx4qivslEASVkxSDsdIqqvntpqKZpPtmffvu3rSaOV60mb5wWQpEtIXNHxZ7kxJzpCLBg_h4HmyKc5yWv7Ev_E9zomeDV3EeDZvTlvAMXiMHHi3e9iW6YSXa2JKJUwhjwJA0mXGNaSGoFzUr_evKafZXkfA3WcEgIN6wzmuPQHHtiw_5jpoRSi7voasibL1TlX9HMqchjd_j8xwNufP_m24xa3x_iIf7sAe0J6pLcWn9RQcvUdmYlTwHKZFA" height="400" style=""></iframe>
