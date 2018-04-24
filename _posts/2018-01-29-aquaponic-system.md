@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-24T23:16:27.758Z'
-dateModified: '2018-04-24T23:16:26.492Z'
+datePublished: '2018-04-24T23:35:16.242Z'
+dateModified: '2018-04-24T23:35:14.970Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -183,11 +183,13 @@ Next stop some fingerling tilapia!
 
 ---
 
-While waiting for the tilapia I have found that my power usage, according to the current sensor and my latests power bill, puts me in Tier 3 or the "High Usage" rate and this does not even take into consideration the use of an air conditioner and dehumidifier which will require another 10A of power. This more than doubles the average power consumption throughout the day So I have found a another way to control an environment that will produce great plant vegetation. An infrared temperature sensor will help me identify the temperature of the plant leaves to help me establish a new control of the environment with only intake and exhaust fans and a low power sonic vaporizer for humidity.
+While waiting for the tilapia I have found that my power usage, according to the current sensor and my latests power bill, puts me in Tier 3 or the "High Usage" bracket and this does not even take into consideration the use of an air conditioner and dehumidifier running 24 hours a day. That will require another 10A of power which more than doubles the average power consumption throughout the day. I have found a another way to control an environment that will produce great plant vegetation. An infrared temperature sensor will help me identify the temperature of the plant leaves to help me establish a new control of the environment with only an intake and exhaust fan and a low power sonic vaporizer for humidity.
 
-by forcing the plant to uptake nutrients through yet another biological process which has been heavily documented and investigated in our physical world. 
+In nature, plants sweat just like humans do to cool off and during this process they will absorb more water and nutrients through their roots. By forcing the plants to uptake nutrients you can relocate the Nitrates from the fish waste and into the plant thereby increasing plant growth. (Yay!)
 
-which should provide a comfortable environment for plant to thrive. The temp of the plant, the ambient temp and humidity of the environment will help me determine the vapor pressure deficit (VPD). Vapor that is in the air exerts a certain pressure that is the pressure exerted by water in the air in its condensed phase at a given temperature in a closed system. This function measures the plant temp, ambient temp and relative humidity which relates to the plants ability to sweat; similar to humans. For example if you were to observe the same temperatures, let's say 86˚F in two regions like humid Florida and dry Southern California your body will sweat in both locations but not effectively cool your body in one. I bet you can guess that because of the elevated humidity in the southeast the VPD causes you to feel much warmer even though our bodies will still perspire in both locations, we do not cool ourselves as effectively as we do in Southern California and this is what we want to experiment with here in this setup. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD instead of temp. and this measurement will allow me to more accurately control the fans!
+So to create a comfortable environment for plant to thrive I will need the temp of the plant leaves, the ambient temp and humidity of the environment and I will use a calculation for vapor pressure deficit (VPD) to control the rate and frequency of the fans and humidifier. 
+
+What is VPD? Putting it plainly, water vapor that is in the air exerts a certain pressure on the plant leaves to allow for the pores on the leaves to open and close. The pressure exerted by H2O in the air in its gas phase at a given temperature in a closed system is know as a deficit. This function measures the plant temp, ambient temp and relative humidity which relates to the plants ability to sweat; similar to humans. For example if you were to observe the same temperatures, let's say 86˚F in two regions like humid Florida and dry Southern California your body will sweat in both locations but not effectively cool your body in one. I bet you can guess that because of the elevated humidity in the southeast the VPD causes you to feel much warmer even though our bodies will still perspire in both locations, we do not cool ourselves as effectively as we do in Southern California and this is what we want to experiment with here in this setup. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD instead of temp. and this measurement will allow me to more accurately control the fans!
 
 ---
 
