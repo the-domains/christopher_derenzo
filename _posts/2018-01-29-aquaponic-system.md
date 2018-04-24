@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-24T23:03:31.847Z'
-dateModified: '2018-04-24T23:03:30.332Z'
+datePublished: '2018-04-24T23:16:27.758Z'
+dateModified: '2018-04-24T23:16:26.492Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -183,7 +183,11 @@ Next stop some fingerling tilapia!
 
 ---
 
-While waiting for the tilapia I have found that my power usage, according to the current sensor and my latests power bill, puts me in Tier 3 or the "High Usage" rate and this does not even take into consideration the use of an air conditioner and dehumidifier which will require another 10A of power thus doubling the power consumption throughout the day. So I have found a way to control an environment that will produce great plant vegetation by forcing the plant to uptake nutrients through yet another biological process which has been heavily documented and investigated in our physical world. An infrared temperature sensor will help me identify the temperature of the plant leaves to help me establish a more efficient control of the intake and exhaust fans and provide a comfortable environment for plant to thrive. This will help me determine vapor pressure deficit (VPD). The VPD is Vapour pressure is the pressure exerted by the vapor on its condensed phase at a given temperature in a closed system. This function measures the plant temp, ambient temp and relative humidity which relates to the plants ability to sweat; similar to humans. For example if you were to observe the same temperatures, let's say 86˚F in two regions like humid Florida and dry Southern California your body will sweat in both locations but not effectively cool your body in one. I bet you can guess that because of the elevated humidity in the southeast the VPD causes you to feel much warmer even though our bodies will still perspire in both locations, we do not cool ourselves as effectively as we do in Southern California and this is what we want to experiment with here in this setup. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD instead of temp. and this measurement will allow me to more accurately control the fans!
+While waiting for the tilapia I have found that my power usage, according to the current sensor and my latests power bill, puts me in Tier 3 or the "High Usage" rate and this does not even take into consideration the use of an air conditioner and dehumidifier which will require another 10A of power. This more than doubles the average power consumption throughout the day So I have found a another way to control an environment that will produce great plant vegetation. An infrared temperature sensor will help me identify the temperature of the plant leaves to help me establish a new control of the environment with only intake and exhaust fans and a low power sonic vaporizer for humidity.
+
+by forcing the plant to uptake nutrients through yet another biological process which has been heavily documented and investigated in our physical world. 
+
+which should provide a comfortable environment for plant to thrive. The temp of the plant, the ambient temp and humidity of the environment will help me determine the vapor pressure deficit (VPD). Vapor that is in the air exerts a certain pressure that is the pressure exerted by water in the air in its condensed phase at a given temperature in a closed system. This function measures the plant temp, ambient temp and relative humidity which relates to the plants ability to sweat; similar to humans. For example if you were to observe the same temperatures, let's say 86˚F in two regions like humid Florida and dry Southern California your body will sweat in both locations but not effectively cool your body in one. I bet you can guess that because of the elevated humidity in the southeast the VPD causes you to feel much warmer even though our bodies will still perspire in both locations, we do not cool ourselves as effectively as we do in Southern California and this is what we want to experiment with here in this setup. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD instead of temp. and this measurement will allow me to more accurately control the fans!
 
 ---
 
