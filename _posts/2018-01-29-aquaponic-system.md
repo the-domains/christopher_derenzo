@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-24T01:57:34.365Z'
-dateModified: '2018-04-24T01:57:33.099Z'
+datePublished: '2018-04-24T04:28:36.974Z'
+dateModified: '2018-04-24T04:28:33.629Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -92,6 +92,7 @@ Outside temperature to control intake fan...
 and one of the sensors inside the tent to affect the exhaust fan...
 
 It's also a good idea to be able to see the state of the 8 relays remotely and control them in the case of typical service so let's throw in a web controller!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc7de93-e3e6-418b-aece-49e74799a513.jpg)
 
 ---
 
@@ -197,5 +198,3 @@ The water coming from the city of LA is exceptionally high in dissolved solids s
 Here we have data:
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkMFuwyAMhu88RcSxW-Kqx4qivslEASVkxSDsdIqqvntpqKZpPtmffvu3rSaOV60mb5wWQpEtIXNHxZ7kxJzpCLBg_h4HmyKc5yWv7Ev_E9zomeDV3EeDZvTlvAMXiMHHi3e9iW6YSXa2JKJUwhjwJA0mXGNaSGoFzUr_evKafZXkfA3WcEgIN6wzmuPQHHtiw_5jpoRSi7voasibL1TlX9HMqchjd_j8xwNufP_m24xa3x_iIf7sAe0J6pLcWn9RQcvUdmYlTwHKZFA" height="400" style=""></iframe>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc7de93-e3e6-418b-aece-49e74799a513.jpg)
