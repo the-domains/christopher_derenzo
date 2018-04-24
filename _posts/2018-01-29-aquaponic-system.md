@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-04T17:34:06.775Z'
-dateModified: '2018-04-04T17:33:05.324Z'
+datePublished: '2018-04-24T01:52:53.584Z'
+dateModified: '2018-04-24T01:52:52.092Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -184,8 +184,6 @@ Next stop some fingerling tilapia!
 
 While waiting for the tilapia I have done some more research to find that my controlled environment will need yet another sensor to establish a more precise control of the intake and exhaust fans. The infrared temp sensor can determine the actual temp of the plants and help me determine vapor pressure deficit (VPD). The VPD is Vapour pressure is the pressure exerted by the vapour on its condensed phase at a give temperature in a closed system. This is a combination function that measures plant temp, ambient temp and humidity which relates to the plants ability to perspire; similar to our body's effect in say Florida as compared to Southern California'a dryer climate with identical temps. Because of the elevated humidity in the southeast it feels much warmer even even though our bodies will still perspire and we do not cool ourselves as effectively as we do in the southwest . Each type of plant reacts differently to VPD and this measuremeant will simplify my programming by combining the current temp and humidity functions into one function to more accurately control the fans!
 
-To be continued...
-
 ---
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be1cc002a812686086ae0eac33387b08183c5f4d.jpg)
@@ -194,5 +192,10 @@ Now the fish have arrived and I have to prepare the tank for farm raising fish (
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4056f61b70eac7f2d4cf040a7303d4d089b74a01.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/713296e9-85ef-415f-8e82-50cd6a75233f.jpg)
 
-The water coming from the city of LA is exceptionally high so I need to consider my filtration system and it's ability to filter dissolved solids! Back to the drawing board for some filtering ideas...
+The water coming from the city of LA is exceptionally high in dissolved solids so it's time to consider some other filters for the fresh water going into the system.
+
+Here we have data:
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUltLwzAUfu-viHlU04ypA0dXNhDEKeiT6F4ka87adLnUnFStsv9ubEVFEMxT8vHdcjhZFYzOswqEzJMkyfYYI1dOSOLhsVUe0hpTcgYaApBQKSRqQzrXetKIEojQPgo7oqMCf0gIY3mSYeFVEwj6YkarEBqccl5IGx0L7Vq50SKSC2e4qMUL12qN_NuCj9Oj9PgLMMpGkBJlA5RehW5GsRLjkwlbwPj2lR_DjbxoJ6vugp-szvHerg_MaKmvzeVNHSZ3q9PlcruYUVJ4h-i8KpWdUWGd7YxrkeYZH9r-Ubu1zbbsu87rtukCePasZAkB-ccAmRE2zsPP97lUGDiYNUgmjOw7_z8zdA1EStNoVYignOVPNnoMiemQyDCIAAc1Okvz5C0h8dAn8BjpD0bUztMpGR_-wpXt8dEn3nvE99su2SU_evBhEbK1k12_D3y4Zf03I_IOaiq9fQ" height="244" style=""></iframe>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc7de93-e3e6-418b-aece-49e74799a513.jpg)
