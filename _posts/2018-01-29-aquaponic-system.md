@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-24T01:52:53.584Z'
-dateModified: '2018-04-24T01:52:52.092Z'
+datePublished: '2018-04-24T01:57:31.245Z'
+dateModified: '2018-04-24T01:57:30.044Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -196,6 +196,6 @@ The water coming from the city of LA is exceptionally high in dissolved solids s
 
 Here we have data:
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNUltLwzAUfu-viHlU04ypA0dXNhDEKeiT6F4ka87adLnUnFStsv9ubEVFEMxT8vHdcjhZFYzOswqEzJMkyfYYI1dOSOLhsVUe0hpTcgYaApBQKSRqQzrXetKIEojQPgo7oqMCf0gIY3mSYeFVEwj6YkarEBqccl5IGx0L7Vq50SKSC2e4qMUL12qN_NuCj9Oj9PgLMMpGkBJlA5RehW5GsRLjkwlbwPj2lR_DjbxoJ6vugp-szvHerg_MaKmvzeVNHSZ3q9PlcruYUVJ4h-i8KpWdUWGd7YxrkeYZH9r-Ubu1zbbsu87rtukCePasZAkB-ccAmRE2zsPP97lUGDiYNUgmjOw7_z8zdA1EStNoVYignOVPNnoMiemQyDCIAAc1Okvz5C0h8dAn8BjpD0bUztMpGR_-wpXt8dEn3nvE99su2SU_evBhEbK1k12_D3y4Zf03I_IOaiq9fQ" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkMFuwyAMhu88RcSxW-Kqx4qivslEASVkxSDsdIqqvntpqKZpPtmffvu3rSaOV60mb5wWQpEtIXNHxZ7kxJzpCLBg_h4HmyKc5yWv7Ev_E9zomeDV3EeDZvTlvAMXiMHHi3e9iW6YSXa2JKJUwhjwJA0mXGNaSGoFzUr_evKafZXkfA3WcEgIN6wzmuPQHHtiw_5jpoRSi7voasibL1TlX9HMqchjd_j8xwNufP_m24xa3x_iIf7sAe0J6pLcWn9RQcvUdmYlTwHKZFA" height="400" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc7de93-e3e6-418b-aece-49e74799a513.jpg)
