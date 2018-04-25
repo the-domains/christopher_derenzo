@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-25T00:26:16.484Z'
-dateModified: '2018-04-25T00:26:14.850Z'
+datePublished: '2018-04-25T00:26:31.183Z'
+dateModified: '2018-04-25T00:26:29.538Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -211,4 +211,4 @@ Now the fish have arrived and I have to prepare the tank for farm raising fish (
 
 The water coming from the city of LA is exceptionally high in dissolved solids so it's time to consider some other filters for the fresh water going into the system.
 
-Here is some data displaying VPD and Power in relation to other events including
+Here is some data displaying VPD and Power in relation to other sensors:
