@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-25T01:19:28.709Z'
-dateModified: '2018-04-25T01:19:26.972Z'
+datePublished: '2018-04-25T01:21:43.611Z'
+dateModified: '2018-04-25T01:21:42.191Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -260,7 +260,9 @@ Price @ 0.08326 = $78.89 @ Tier1 Usage Charge
 Price @ 0.15485 = $112.28 @ Tier2 Usage Charge
 
 Price @ 0.25523 = $159.09 @ High Usage Charge
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbb94e84-bc36-497a-9017-264f7dd1ec1c.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fcbfd74af02153510bf41d0e082bfeb4/croprotate.png?cropheight=667&cropwidth=1227&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcbb94e84-bc36-497a-9017-264f7dd1ec1c.png&x=0&y=32)
 
 You can see points of time where the tent is open (VPD is really high) and areas where the fans are adjusting the environment according to the effects of outside air coming in through the intake the humidifier turning off and on or that air escaping through the exhaust. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d249e3-2c5b-40f6-9d5d-4e3ce3bc39c4.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7147918-430c-45a3-abe8-12ddf02f7295.png)
+
+This data can help with all kinds of design considerations from cost to operate and efficiency means!
