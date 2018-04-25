@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-25T00:23:39.030Z'
-dateModified: '2018-04-25T00:23:37.703Z'
+datePublished: '2018-04-25T00:26:16.484Z'
+dateModified: '2018-04-25T00:26:14.850Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -199,7 +199,7 @@ AVP (kPa) = RH / 100 \* SVP
 
 _vpd = \[0.6108\*exp((17.27\*plantTempC)/(plantTempC+237.3))\] - \[0.6108\*exp((17.27\*plantAmbientTempC)/(plantAmbientTempC+237.3))\*tentHumd/100\]_
 
-This function measures the plant temp, ambient temp and relative humidity which relates to the plants ability to sweat; similar to humans. For example if you were to observe the same temperatures, let's say 86˚F in two regions like humid Florida and dry Southern California your body will sweat in both locations but not effectively cool your body in one. I bet you can guess that because of the elevated humidity in the southeast the VPD causes you to feel much warmer even though our bodies will still perspire in both locations, we do not cool ourselves as effectively as we do in Southern California and this is what we want to experiment with here in this setup. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD instead of temp. and this measurement will allow me to more accurately control the fans!
+This function measures the plant temp, ambient temp and relative humidity. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD.
 
 ---
 
@@ -210,3 +210,5 @@ Now the fish have arrived and I have to prepare the tank for farm raising fish (
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/713296e9-85ef-415f-8e82-50cd6a75233f.jpg)
 
 The water coming from the city of LA is exceptionally high in dissolved solids so it's time to consider some other filters for the fresh water going into the system.
+
+Here is some data displaying VPD and Power in relation to other events including
