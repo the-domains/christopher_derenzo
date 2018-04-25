@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-24T23:43:26.396Z'
-dateModified: '2018-04-24T23:43:24.786Z'
+datePublished: '2018-04-25T00:23:39.030Z'
+dateModified: '2018-04-25T00:23:37.703Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -187,9 +187,19 @@ While waiting for the tilapia I have found that my power usage, according to the
 
 In nature, plants sweat just like humans do to cool off and during this process they will absorb more water and nutrients through their roots. By forcing the plants to uptake nutrients you can relocate the Nitrates from the fish waste and into the plant thereby increasing plant growth. (Yay!)
 
-So to create a comfortable environment for plant to thrive I will need the temp of the plant leaves, the ambient temp and humidity of the environment and I will use a calculation for vapor pressure deficit (VPD) to control the rate and frequency of the fans and humidifier. 
+So to create a comfortable environment for plant to thrive I will need the temp of the plant leaves, the ambient temp and humidity of the environment and I will use a calculation for vapor pressure deficit (VPD) to control the rate and frequency of the fans and humidifier instead of controlling the tent with power hungry appliances.
 
-What is VPD? To put it plainly, water vapor that is in the air exerts a certain pressure on the plant leaves to allow for the pores on the leaves to open and close. The deficit is the difference between the airs vapor pressure and the plants saturation. This function measures the plant temp, ambient temp and relative humidity which relates to the plants ability to sweat; similar to humans. For example if you were to observe the same temperatures, let's say 86˚F in two regions like humid Florida and dry Southern California your body will sweat in both locations but not effectively cool your body in one. I bet you can guess that because of the elevated humidity in the southeast the VPD causes you to feel much warmer even though our bodies will still perspire in both locations, we do not cool ourselves as effectively as we do in Southern California and this is what we want to experiment with here in this setup. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD instead of temp. and this measurement will allow me to more accurately control the fans!
+What is VPD? First, water vapor that is in the air exerts a certain pressure on the plant leaves to allow for the pores to open and close. Second the saturated vapor pressure is how much moisture the air can hold at a given temperature or the point of equilibrium where the number of water molecules evaporating are the same as the ones that are condensing. So the deficit is the difference between vapor pressure and the point of saturation in kPa. 
+
+Deficit = (Saturation Vapor Pressure) - (Actual Vapor Pressure)
+
+SVP (kPa) = 0.6108 \* exp(17.27 \* T / (T + 237.3))
+
+AVP (kPa) = RH / 100 \* SVP
+
+_vpd = \[0.6108\*exp((17.27\*plantTempC)/(plantTempC+237.3))\] - \[0.6108\*exp((17.27\*plantAmbientTempC)/(plantAmbientTempC+237.3))\*tentHumd/100\]_
+
+This function measures the plant temp, ambient temp and relative humidity which relates to the plants ability to sweat; similar to humans. For example if you were to observe the same temperatures, let's say 86˚F in two regions like humid Florida and dry Southern California your body will sweat in both locations but not effectively cool your body in one. I bet you can guess that because of the elevated humidity in the southeast the VPD causes you to feel much warmer even though our bodies will still perspire in both locations, we do not cool ourselves as effectively as we do in Southern California and this is what we want to experiment with here in this setup. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD instead of temp. and this measurement will allow me to more accurately control the fans!
 
 ---
 
