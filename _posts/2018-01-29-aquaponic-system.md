@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-25T00:26:31.183Z'
-dateModified: '2018-04-25T00:26:29.538Z'
+datePublished: '2018-04-25T00:28:34.268Z'
+dateModified: '2018-04-25T00:28:32.750Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -211,4 +211,13 @@ Now the fish have arrived and I have to prepare the tank for farm raising fish (
 
 The water coming from the city of LA is exceptionally high in dissolved solids so it's time to consider some other filters for the fresh water going into the system.
 
+---
+
 Here is some data displaying VPD and Power in relation to other sensors:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dd9dab9-13a4-453b-bff8-e490ff9d63cf.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c7cc8c-2e16-48dd-b302-96106bd0d35f.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8c75377c86cbec84f7d517e1333f46f3/croprotate.png?cropheight=680&cropwidth=1018&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe3b9adfb-52d2-41d4-965a-f3765cd75695.png&x=0&y=1)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bdd93f-e890-4e4e-9eb8-8c3e483f26ec.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/147b325e-d7af-4404-b2dc-b0368605cdce.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a907e7a2-9e9d-404b-881b-3cb4391b7e12.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ecb24b-7010-4408-859f-44747d76ce85.png)
