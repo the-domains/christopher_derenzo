@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-25T00:28:49.971Z'
-dateModified: '2018-04-25T00:28:48.815Z'
+datePublished: '2018-04-25T00:41:12.928Z'
+dateModified: '2018-04-25T00:41:11.591Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -189,7 +189,7 @@ In nature, plants sweat just like humans do to cool off and during this process 
 
 So to create a comfortable environment for plant to thrive I will need the temp of the plant leaves, the ambient temp and humidity of the environment and I will use a calculation for vapor pressure deficit (VPD) to control the rate and frequency of the fans and humidifier instead of controlling the tent with power hungry appliances.
 
-What is VPD? First, water vapor that is in the air exerts a certain pressure on the plant leaves to allow for the pores to open and close. Second the saturated vapor pressure is how much moisture the air can hold at a given temperature or the point of equilibrium where the number of water molecules evaporating are the same as the ones that are condensing. So the deficit is the difference between vapor pressure and the point of saturation in kPa. 
+What is VPD? First, water vapor that is in the air exerts a certain pressure on the plant leaves to allow for the pores to open and close. Second the saturated vapor pressure is how much moisture the air can hold at a given temperature or the point of equilibrium where the number of water molecules evaporating are the same as the ones that are condensing. So the deficit is the difference between vapor pressure and the point of saturation in kPa.
 
 Deficit = (Saturation Vapor Pressure) - (Actual Vapor Pressure)
 
@@ -201,11 +201,14 @@ _vpd = \[0.6108\*exp((17.27\*plantTempC)/(plantTempC+237.3))\] - \[0.6108\*exp((
 
 This function measures the plant temp, ambient temp and relative humidity. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD.
 
+An ideal VPD is around 0.8 for plants:
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/20d7d35d3ded1274f5d06ea3cfb5885c/noop.gif?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0904a988-3883-4c68-b479-05a269a53a4c.gif)
+
 ---
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be1cc002a812686086ae0eac33387b08183c5f4d.jpg)
 
-Now the fish have arrived and I have to prepare the tank for farm raising fish (tilapia), I need to test and raise/ lower the PH and total dissolved solids (TDS) to the recommended levels for similar aquaponic systems proven to be successful. PH for tilapia is best at 8.0 and for plants approximately 6.5 so this means I will set it somewhere between 7.2 and 7.4
+Now the fish have arrived and I have to prepare the tank for farm raising fish (tilapia), I need to test and raise/ lower the PH and total dissolved solids (TDS) to the recommended levels for similar aquaponic systems proven to be successful. PH for tilapia is best around 8.0 and for plants approximately 6.5 so this means I will set it somewhere between 7.2 and 7.4
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4056f61b70eac7f2d4cf040a7303d4d089b74a01.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/713296e9-85ef-415f-8e82-50cd6a75233f.jpg)
 
@@ -213,12 +216,13 @@ The water coming from the city of LA is exceptionally high in dissolved solids s
 
 ---
 
-Here is some data displaying VPD and Power in relation to other sensors:
+Here is some data displaying VPD and Power in relation to the other sensors:
+
+(Please click on each of the pictures to view them completely)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dd9dab9-13a4-453b-bff8-e490ff9d63cf.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c7cc8c-2e16-48dd-b302-96106bd0d35f.png)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8c75377c86cbec84f7d517e1333f46f3/croprotate.png?cropheight=680&cropwidth=1018&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe3b9adfb-52d2-41d4-965a-f3765cd75695.png&x=0&y=1)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/38cfcdd6133f55d1043200c700f78232322a3c89.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04bdd93f-e890-4e4e-9eb8-8c3e483f26ec.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/147b325e-d7af-4404-b2dc-b0368605cdce.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a907e7a2-9e9d-404b-881b-3cb4391b7e12.png)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a6fe47b8eee2e6d79d7f71c052ab971e/croprotate.png?cropheight=680&cropwidth=1018&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F25ecb24b-7010-4408-859f-44747d76ce85.png&x=0&y=1)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1306dd3-ea16-462b-9ec7-c9066125f7ab.pdf)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d101518aac36f4a8d67fcc8147a0ae146ce7f30.png)
