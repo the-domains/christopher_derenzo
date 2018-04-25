@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-25T00:41:12.928Z'
-dateModified: '2018-04-25T00:41:11.591Z'
+datePublished: '2018-04-25T01:19:28.709Z'
+dateModified: '2018-04-25T01:19:26.972Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -183,7 +183,7 @@ Next stop some fingerling tilapia!
 
 ---
 
-While waiting for the tilapia I have found that my power usage, according to the current sensor and my latests power bill, puts me in Tier 3 or the "High Usage" bracket and this does not even take into consideration the use of an air conditioner and dehumidifier running 24 hours a day. That will require another 10A of power which more than doubles the average power consumption throughout the day. I have found a another way to control an environment that will produce great plant vegetation. An infrared temperature sensor will help me identify the temperature of the plant leaves to help me establish a new control of the environment with only an intake and exhaust fan and a low power sonic vaporizer for humidity.
+While waiting for the tilapia I have found that my power usage, according to the current sensor and my latests power bill, puts me in Tier 3 or the "High Usage" bracket and this does not even take into consideration the use of an air conditioner and dehumidifier running 24 hours a day. That will require another 10A of power which more than doubles the average power consumption throughout the day. I have found a another way to control an environment that will produce great vegetables. An infrared temperature sensor will help me identify the temperature of the plant leaves to help me establish a new control of the environment with only an intake and exhaust fan and a low power sonic vaporizer for humidity.
 
 In nature, plants sweat just like humans do to cool off and during this process they will absorb more water and nutrients through their roots. By forcing the plants to uptake nutrients you can relocate the Nitrates from the fish waste and into the plant thereby increasing plant growth. (Yay!)
 
@@ -191,18 +191,20 @@ So to create a comfortable environment for plant to thrive I will need the temp 
 
 What is VPD? First, water vapor that is in the air exerts a certain pressure on the plant leaves to allow for the pores to open and close. Second the saturated vapor pressure is how much moisture the air can hold at a given temperature or the point of equilibrium where the number of water molecules evaporating are the same as the ones that are condensing. So the deficit is the difference between vapor pressure and the point of saturation in kPa.
 
-Deficit = (Saturation Vapor Pressure) - (Actual Vapor Pressure)
+This function measures the plant temp, ambient temp and relative humidity. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD.
+
+Vapor Pressure Deficit = (Saturation Vapor Pressure) - (Actual Vapor Pressure)
 
 SVP (kPa) = 0.6108 \* exp(17.27 \* T / (T + 237.3))
 
 AVP (kPa) = RH / 100 \* SVP
 
-_vpd = \[0.6108\*exp((17.27\*plantTempC)/(plantTempC+237.3))\] - \[0.6108\*exp((17.27\*plantAmbientTempC)/(plantAmbientTempC+237.3))\*tentHumd/100\]_
+_vpd = _
 
-This function measures the plant temp, ambient temp and relative humidity. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD.
+_0.6108\*exp((17.27\*plantTempC)/(plantTempC+237.3)) - 0.6108\*exp((17.27\*plantAmbientTempC)/(plantAmbientTempC+237.3))\*tentHumd/100_
 
 An ideal VPD is around 0.8 for plants:
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/20d7d35d3ded1274f5d06ea3cfb5885c/noop.gif?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0904a988-3883-4c68-b479-05a269a53a4c.gif)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d1ffebcc35e0e464c635ef1b5abf9e80/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F1b14a54a6662606f6b3668f37b1e7a23d38f5786.gif)
 
 ---
 
@@ -216,7 +218,7 @@ The water coming from the city of LA is exceptionally high in dissolved solids s
 
 ---
 
-Here is some data displaying VPD and Power in relation to the other sensors:
+22933 data points aggregated over 7 days and analyzed with python programming to displaying VPD and Power in relation to the other sensors or times:
 
 (Please click on each of the pictures to view them completely)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dd9dab9-13a4-453b-bff8-e490ff9d63cf.png)
@@ -226,3 +228,39 @@ Here is some data displaying VPD and Power in relation to the other sensors:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/147b325e-d7af-4404-b2dc-b0368605cdce.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a907e7a2-9e9d-404b-881b-3cb4391b7e12.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d101518aac36f4a8d67fcc8147a0ae146ce7f30.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a00f7e9-912b-4717-b6e0-79f09c8a3406.png)
+
+Or visualize the data another way!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2df894a1-08d1-46ac-bf0c-17e3c140ff71.png)
+
+dataFile.print(((P \* 24 \* 30.5)/1000)\*(highUsageDcharge + allTiersGenCharge), 2); 
+
+Actual serial report:
+
+Power = 637.14 Watts
+
+Current = 5.31 Amps
+
+Usage per hour = 0.64 kWh
+
+Usage per day = 15.29 kWh
+
+Usage per month = 466.39 kWh
+
+((Watts x 24hrs x 30.5 days) ÷ 1000) x $0.XXXXX
+
+These are prices from SoCalEdison bill generated on Mar 30, 2018
+
+Sum the constant generation rate of: 0.08589
+
+-with unique delivery charges for each tier:
+
+Price @ 0.08326 = $78.89 @ Tier1 Usage Charge
+
+Price @ 0.15485 = $112.28 @ Tier2 Usage Charge
+
+Price @ 0.25523 = $159.09 @ High Usage Charge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbb94e84-bc36-497a-9017-264f7dd1ec1c.png)
+
+You can see points of time where the tent is open (VPD is really high) and areas where the fans are adjusting the environment according to the effects of outside air coming in through the intake the humidifier turning off and on or that air escaping through the exhaust. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d249e3-2c5b-40f6-9d5d-4e3ce3bc39c4.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7147918-430c-45a3-abe8-12ddf02f7295.png)
