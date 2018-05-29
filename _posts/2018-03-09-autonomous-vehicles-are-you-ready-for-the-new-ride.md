@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: Autonomous Vehicle Evolution
-dateModified: '2018-03-16T21:06:17.326Z'
-datePublished: '2018-03-16T21:06:18.349Z'
+dateModified: '2018-05-29T19:16:45.413Z'
+datePublished: '2018-05-29T19:16:46.614Z'
 title: 'Autonomous Vehicles: Are You Ready for the New Ride?'
 author:
   - name: MIT Technology Review Insights
@@ -17,9 +17,9 @@ via: {}
 sourcePath: _posts/2018-03-09-autonomous-vehicles-are-you-ready-for-the-new-ride.md
 hasPage: true
 starred: false
-datePublishedOriginal: '2018-03-09T19:45:24.523Z'
+datePublishedOriginal: '2018-05-29T19:16:46.614Z'
 url: autonomous-vehicles-are-you-ready-for-the-new-ride/index.html
-_type: Article
+_type: MediaObject
 
 ---
 Autonomous Vehicle Evolution
