@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-05-29T19:19:27.737Z'
-datePublished: '2018-05-29T19:19:28.527Z'
+dateModified: '2018-05-29T19:20:39.367Z'
+datePublished: '2018-05-29T19:20:40.050Z'
 title: Intelligence (2013)
 author: []
 publisher: {}
