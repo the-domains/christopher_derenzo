@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-07-18T20:40:46.896Z'
-dateModified: '2018-07-18T20:40:43.182Z'
+datePublished: '2018-07-18T20:49:38.202Z'
+dateModified: '2018-07-18T20:49:36.589Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -270,4 +270,4 @@ This data can help with all kinds of design considerations from cost to operate 
 
 ---
 
-Here is the some footage of the fish before harvest:
+Here is an image of the fish 5 months later:
