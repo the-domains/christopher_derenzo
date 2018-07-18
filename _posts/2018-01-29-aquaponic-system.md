@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-07-18T20:51:22.751Z'
-dateModified: '2018-07-18T20:51:18.976Z'
+datePublished: '2018-07-18T20:51:12.788Z'
+dateModified: '2018-07-18T20:51:08.898Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -204,7 +204,7 @@ AVP (kPa) = RH / 100 \* SVP
 _vpd =_
 
 _0.6108\*exp((17.27\*plantTempC)/(plantTempC+237.3)) - 0.6108\*exp((17.27\*plantAmbientTempC)/(plantAmbientTempC+237.3))\*tentHumd/100_
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/36f8b3257b89523cbbaadad46333c54c/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fdea0a92d0b173e43e509d89f468ba2c440af7a61.gif)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e9f7f72f83e5361497b398043b94457d/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F070898b59d602bcaf7cfb8132a36c4023c1fb971.gif)
 
 ---
 
