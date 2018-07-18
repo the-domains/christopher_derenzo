@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-04-25T01:21:52.236Z'
-dateModified: '2018-04-25T01:21:48.949Z'
+datePublished: '2018-07-18T20:40:46.896Z'
+dateModified: '2018-07-18T20:40:43.182Z'
 description: >-
   This project stemmed from the successes of previous projects to create a 99%
   autonomous eco system for fish and plants with the help of an Arduino for
@@ -189,7 +189,9 @@ In nature, plants sweat just like humans do to cool off and during this process 
 
 So to create a comfortable environment for plant to thrive I will need the temp of the plant leaves, the ambient temp and humidity of the environment and I will use a calculation for vapor pressure deficit (VPD) to control the rate and frequency of the fans and humidifier instead of controlling the tent with power hungry appliances.
 
-What is VPD? First, water vapor that is in the air exerts a certain pressure on the plant leaves to allow for the pores to open and close. Second the saturated vapor pressure is how much moisture the air can hold at a given temperature or the point of equilibrium where the number of water molecules evaporating are the same as the ones that are condensing. So the deficit is the difference between vapor pressure and the point of saturation in kPa.
+What is VPD? First, water vapor that is in the air exerts a certain pressure on the plant leaves to allow for the pores, or stomata, to open and close. Second the saturated vapor pressure is how much moisture the air can hold at a given temperature or the point of equilibrium where the number of water molecules evaporating are the same as the ones that are condensing. So the deficit is the difference between vapor pressure and the point of saturation in kPa.
+
+An ideal VPD for my plants at mid-vegetative stage is around 0.8\. By doing so, I am creating an environment that encourages the stomata to "breathe," and my plants to absorbs nutrients. This regulated breathing promotes continuous growth!
 
 This function measures the plant temp, ambient temp and relative humidity. Each type of plant reacts differently to various settings so I will use this opportunity to investigate this new variable and see what comes of controlling the environment by VPD.
 
@@ -199,12 +201,10 @@ SVP (kPa) = 0.6108 \* exp(17.27 \* T / (T + 237.3))
 
 AVP (kPa) = RH / 100 \* SVP
 
-_vpd = _
+_vpd =_
 
 _0.6108\*exp((17.27\*plantTempC)/(plantTempC+237.3)) - 0.6108\*exp((17.27\*plantAmbientTempC)/(plantAmbientTempC+237.3))\*tentHumd/100_
-
-An ideal VPD is around 0.8 for plants:
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d1ffebcc35e0e464c635ef1b5abf9e80/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F1b14a54a6662606f6b3668f37b1e7a23d38f5786.gif)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/228152af741ed07d75da27c231c5b6f3/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F17dcc29f5101322d2717e53e0cb5eae6ffc47814.gif)
 
 ---
 
@@ -233,7 +233,7 @@ The water coming from the city of LA is exceptionally high in dissolved solids s
 Or visualize the data another way!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2df894a1-08d1-46ac-bf0c-17e3c140ff71.png)
 
-dataFile.print(((P \* 24 \* 30.5)/1000)\*(highUsageDcharge + allTiersGenCharge), 2); 
+dataFile.print(((P \* 24 \* 30.5)/1000)\*(highUsageDcharge + allTiersGenCharge), 2);
 
 Actual serial report:
 
@@ -260,9 +260,14 @@ Price @ 0.08326 = $78.89 @ Tier1 Usage Charge
 Price @ 0.15485 = $112.28 @ Tier2 Usage Charge
 
 Price @ 0.25523 = $159.09 @ High Usage Charge
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fcbfd74af02153510bf41d0e082bfeb4/croprotate.png?cropheight=667&cropwidth=1227&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcbb94e84-bc36-497a-9017-264f7dd1ec1c.png&x=0&y=32)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea6075953eef9b65f6cd5ae77b3b98d3cd15eb6e.png)
 
-You can see points of time where the tent is open (VPD is really high) and areas where the fans are adjusting the environment according to the effects of outside air coming in through the intake the humidifier turning off and on or that air escaping through the exhaust. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d249e3-2c5b-40f6-9d5d-4e3ce3bc39c4.png)
+You can see points of time where the tent is open (VPD is really high) and areas where the fans are adjusting the environment according to the effects of outside air coming in through the intake the humidifier turning off and on or that air escaping through the exhaust.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d249e3-2c5b-40f6-9d5d-4e3ce3bc39c4.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7147918-430c-45a3-abe8-12ddf02f7295.png)
 
 This data can help with all kinds of design considerations from cost to operate and efficiency means!
+
+---
+
+Here is the some footage of the fish before harvest:
